@@ -1,88 +1,119 @@
 # Planetary Party
 
-> *Cultural & Coordination Protocol -- Global*
+> *A Bioregional Coordination Ecosystem -- Global*
 
-Planetary Party is a cultural and coordination protocol designed to serve **many ecosystems**, not just Syd's own projects. It produces festivals, gatherings, and community events that build the relational fabric connecting people to regenerative living, to each other, and to the land. It is inherently global -- a scaffold that many groups can plug into, a coordination layer rather than an ownership layer.
-
-## What It Is
-
-A community engagement and event production platform focused on:
-
-- **Regenerative festivals** (e.g., Leave a Positive Trace)
-- **Cultural gatherings** -- singing circles, theater, immersive arts, concerts
-- **Educational events** -- governance workshops, permaculture education, community-building courses
-- **Cross-ecosystem gatherings** -- events that bring together many different networks, organizations, and communities, including but not limited to Syd's other initiatives
-
-Planetary Party is not just a party. It's a connective ritual space designed to support emergence beyond any single person's immediate orbit.
-
-## Role in the Wider Movement
-
-- Provides **gathering infrastructure** that many ecosystems and communities can use -- not just Syd's projects
-- Generates **visibility and storytelling** content that can support diverse fundraising efforts
-- Creates spaces where **many networks intersect** -- including but not limited to Permatours, Kinship Earth, and Unified Sanctuaries
-- Creates **donor touchpoints** that convert attendees into supporters of regenerative work broadly
-- Produces **media and IP** (footage, performances, recordings) that become ongoing revenue streams
-
-## What Makes It Unique
-
-- Events are designed as **entry points** into a regenerative lifestyle, not one-off entertainment
-- A **coordination layer, not an ownership layer** -- designed so many groups can participate and benefit
-- Built-in **media production** captures every event for storytelling, documentary content, and online distribution
-- Programming blends **celebration with education** -- every gathering teaches something
-- Rooted in **consent culture, inclusion, and ecological ethics**
-
-## Scoping Questions to Resolve
-
-### Identity & Positioning
-- [ ] What is the Planetary Party brand identity? Tone, visual language, audience?
-- [ ] How does Planetary Party relate to the "Leave a Positive Trace" festival brand? Is LAPT a Planetary Party event, or are they separate?
-- [ ] What's the tagline / one-liner?
-
-### Events & Programming
-- [ ] What is the inaugural event? Scale, location, format?
-- [ ] What's the annual event calendar look like? Seasonal rhythm?
-- [ ] Which events happen at Unified Sanctuaries vs. other venues (pre-land acquisition)?
-- [ ] What's the mix of free community events vs. ticketed productions?
-
-### Operations & Structure
-- [ ] Legal entity -- is Planetary Party its own LLC, a DBA under another entity, or a program of Kinship Earth?
-- [ ] Who are the core team members beyond Sydney?
-- [ ] What's the production infrastructure needed? (AV, staging, permits, insurance)
-- [ ] Budget framework for a first event?
-
-### Revenue Model
-- [ ] Ticket sales and pricing tiers
-- [ ] Vendor fees and marketplace revenue
-- [ ] Sponsorship and partnership opportunities
-- [ ] Media/content licensing and distribution revenue
-- [ ] How does revenue sustain PP's own operations and broader movement goals? (Note: PP is not designed primarily as a revenue source for Syd's other projects)
-
-### Digital Presence
-- [ ] Website scope -- standalone site, or a section within a broader ecosystem presence?
-- [ ] Social media strategy and channels
-- [ ] Email list and community building pre-launch
-
-## Initial Planning Steps
-
-1. **Define the brand** -- name confirmation, tagline, visual identity direction, audience
-2. **Map the event calendar** -- what events, when, where, at what scale
-3. **Clarify the entity structure** -- how Planetary Party legally relates to the other three projects
-4. **Scope the first event** -- format, budget, venue, team, timeline
-5. **Build the storytelling engine** -- how every event generates content that feeds the ecosystem
-
-## Key People
-
-- **Syd Harvey Griffith** -- Lead designer and driving force behind Planetary Party. Syd conceived this as the convergence point for all her worlds -- where regenerative finance meets festival culture, where grassroots organizing becomes immersive experience, and where community engagement catalyzes systemic transformation. A movement builder who has supported 40+ land-based projects and pioneered trust-based flow funding, Syd brings an unmatched ability to turn a gathering into a launchpad for real change. She doesn't just throw events -- she engineers entry points into a regenerative future.
-- **Eslerh** -- Film production, multimedia, ritual theater
-- **Michael (Fuego)** -- Festival production, financial operations
-
-## Connection Points
-
-- **<-> Unified Sanctuaries**: Could host gatherings at the site when it exists; US is one venue among many, not the primary beneficiary
-- **<-> Permatours**: Network gatherings and practitioner involvement at events
-- **<-> Kinship Earth**: Storytelling content supports broader fundraising; relationship is collaborative, not financially circular
-- **<-> Other orgs & communities**: PP is designed as a scaffold that many groups can plug into -- supporting emergence beyond Syd's immediate orbit
+**Website:** [planetaryparty.com](https://www.planetaryparty.com/)
+**Entity:** Cultural coordination protocol (fiscal sponsorship through Kinship Earth)
+**Scale:** Global
+**Status:** Active -- planning and activation across 5+ bioregions
 
 ---
 
-*Part of [Sydney's initiatives](../README.md). Planetary Party serves many ecosystems -- Syd's projects are participants, not the primary beneficiaries.*
+## Overview
+
+The Planetary Party is both a cultural meme -- an open-source invitation for communities to organize regenerative celebrations anywhere on Earth -- and the **Planetary Party Protocol (PPP)**, a practical coordination layer that helps regenerative efforts align, resource one another, and scale without centralization.
+
+It operates as three integrated layers:
+
+| Layer | Description |
+|-------|-------------|
+| **A Meme** | An open-source cultural invitation for regenerative celebration anywhere on Earth |
+| **A Living System** | A federated network of bioregional nodes, Flow Funds, nine functional Guilds, and embassies |
+| **A Cultural Technology** | A five-phase Protocol guiding communities through sensing, mapping, resourcing, celebrating, and regenerating |
+
+The Planetary Party is a **coordination layer, not an ownership layer** -- designed so many groups can participate, adapt, and benefit without centralized control.
+
+## The Five-Phase Protocol
+
+| Phase | Name | What Happens |
+|-------|------|-------------|
+| 1 | **SENSE** | Deep listening to place, people, histories, and futures through circles, assemblies, and ritual |
+| 2 | **SEE** | Collective mapping and meaning-making -- revealing patterns, leverage points, and possibilities |
+| 3 | **FLOW** | Resources move toward what communities have named as vital, through trust-based Flow Funds |
+| 4 | **CELEBRATE** | Festivals, ceremonies, and civic gatherings activate projects, seed funding, and build momentum |
+| 5 | **REGENERATE** | Communities track impact, harvest lessons, and reinvest learning into the next cycle |
+
+Each cycle produces lasting "positive-trace" infrastructure: gardens, governance models, water systems, and ongoing community capacity.
+
+## Nine Functional Guilds
+
+| Guild | Focus |
+|-------|-------|
+| Living Systems & Solutions | Land, food, water, energy, ecological restoration |
+| Capacity Building | Training, healing, leadership development |
+| Regenerative Capital Flows | Flow Funds, investment, multi-capital design |
+| Governance | Participatory systems, collective decision-making, legal scaffolding |
+| Events | Gatherings, festivals, cultural activations |
+| Storytelling | Media, myth, narrative infrastructure |
+| Bioregional Intelligence Dashboard | Sense-making, mapping, data collection, impact visibility |
+| Tech | Regenerative tooling and interoperability support |
+| Ecosystem Weaving | Cross-guild synergy and coordination |
+
+## Active Bioregional Deployments
+
+| Bioregion | Status | Focus |
+|-----------|--------|-------|
+| **Colombia** | Active since Q1 2024 | Forest/watershed restoration, regenerative governance across 5 regions |
+| **Jamaica** | Active since Aug 2025 | Post-hurricane recovery, Indigenous-led stewardship with Rastafari Indigenous Village |
+| **Mexico** | Active since Oct 2025 | Cloud Forest bioregion (Veracruz) and Mexico City |
+| **Guatemala** | Active since Nov 2025 | Indigenous-led listening circles around Lake Atitlan |
+| **NE Turtle Island** | Launching Q1 2026 | Bioregional activation series -- mapping, collaboration, Flow Funding readiness |
+
+## What Makes It Unique
+
+- **Protocol, not platform** -- a coordination layer that many groups can plug into
+- **Celebration as catalyst** -- joy, art, and ritual as transformation technologies
+- **Positive-trace infrastructure** -- every gathering leaves lasting regenerative outcomes
+- **Federated sovereignty** -- autonomous bioregions supported by a global network
+- **Built-in media production** -- every event documented for storytelling and distribution
+- **Nine open Guilds** -- participation structures anyone can join and contribute through
+
+## Core Values
+
+- Bioregional Rootedness -- change rooted in specific places
+- Rights of Nature -- prioritizing ecological integrity and future generations
+- Federated Sovereignty -- autonomous bioregions, not centralized control
+- Distributed Intelligence -- knowledge-sharing without hierarchy
+- Celebration as Catalyst -- joy and ritual as transformation technologies
+
+## Key People
+
+- **Syd Harvey Griffith** -- Lead architect; community organizer, movement builder, Executive Director of Kinship Earth
+- **Juan Carlos Kaiten** -- Social Alchemist, vision holder
+- **Eslerh Oreste** -- Film, multimedia, ritual theater
+- **Michael / Fuego** -- Festival production, financial operations
+- **Josie Watson** -- Kinship Earth board, Mycelial Law founder
+- **Nadim Hamdan** -- Regenerative Leadership Consultancy
+
+## Funding Targets
+
+| Milestone | Target | Timeline |
+|-----------|--------|----------|
+| Phase 1 | **$5M** | End of 2026 |
+| Scaled Ecosystem | **$20M** | 2028 |
+
+## Aligned Organizations
+
+- **The Pivot Earth** -- Women-led ecosystem weaver
+- **Holomovement** -- Movement of movements for conscious collaboration
+- **Nalu'ea Living Trust** -- Intergenerational stewardship vehicle
+- **Bioregional Embassy** -- Diplomatic agency bridging governance, finance, and culture
+- **Micelio Media** -- Storytelling studio amplifying bioregional voices
+- **Mycelial Law** -- Earth-law practice exploring biomimicry-inspired legal structures
+- **TerraLux Spatial Network** -- Innovation lab and spatial intelligence platform
+
+## Key Links
+
+- [Website](https://www.planetaryparty.com/)
+- [Funding Needs (Proof of Concept)](https://docs.google.com/document/d/1AGP-2gTkmhJp5MWGMHx_6AMLfuJKW4D_a9xhj1Pn49A/edit?usp=sharing)
+
+## Connection Points
+
+- **Kinship Earth** -- KE serves as fiscal sponsor and financial backbone; provides Flow Funding infrastructure
+- **Permatours** -- Bioregional implementation partner in the Northeast; network practitioners participate in PP gatherings
+- **Unified Sanctuaries** -- Could host gatherings; US provides land-based context for protocol experimentation
+- **Many ecosystems** -- PP is a scaffold that groups beyond this constellation plug into
+
+---
+
+*Part of [Sydney's ecosystem](../README.md) | [Executive Summary](./EXECUTIVE-SUMMARY.md)*
