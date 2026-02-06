@@ -66,9 +66,9 @@ flowchart LR
 
 ### How to Read This Document
 
-This roadmap is **cumulative** -- each tier builds on everything before it. The $500K tier assumes all work from $10K through $250K is complete. Impact numbers are cumulative totals, not incremental additions. Dollar amounts represent total capital raised through Kinship Earth and deployed across the ecosystem.
+Each tier represents **what that specific amount of capital makes possible**. A $10K investment unlocks a concrete set of outcomes; a $250K investment unlocks a different, larger set. These tiers are modular -- the ecosystem can receive multiple investments at any tier, and each one delivers the impact described. Dollar amounts represent capital raised through Kinship Earth and deployed across the ecosystem.
 
-This document focuses purely on **impact** -- what changes in the world at each funding milestone. It is not a financial return projection. It is a map of what becomes possible.
+This document focuses purely on **impact** -- what changes in the world at each funding level. It is not a financial return projection. It is a map of what becomes possible.
 
 ### What We've Already Proven
 
@@ -132,20 +132,20 @@ flowchart LR
     style T12 fill:#4CAF50,stroke:#1B5E20,color:#fff
 ```
 
-| Tier | Amount | Cumulative | Name | What Unlocks |
-|------|--------|------------|------|-------------|
-| 1 | $10K | $10K | **Seed** | Operational essentials, legal foundations, initial outreach |
-| 2 | $25K | $35K | **Sprout** | First professional capacity, content production begins |
-| 3 | $50K | $85K | **Roots** | New Flow Funders onboarded, bioregional map live |
-| 4 | $100K | $185K | **Groundwork** | Full event season, first protocol deployment, governance tools |
-| 5 | $250K | $435K | **Canopy** | Full-time core team, dual-token beta, significant Flow Fund cycle |
-| 6 | $500K | $935K | **Grove** | Multi-bioregion protocol deployments, sanctuary design phase |
-| 7 | $1M | $1.935M | **Watershed** | Chapters model launches, land search begins, platform v1 |
-| 8 | $5M | $6.935M | **Forest** | Land acquired, guild activation, federated architecture |
-| 9 | $10M | $16.935M | **Mountain Range** | Full sanctuary development, 10+ chapters, global protocol adoption |
-| 10 | $25M | $41.935M | **Continental Shelf** | Multiple sanctuary sites, institutional-scale philanthropy |
-| 11 | $50M | $91.935M | **Ocean Current** | Global sanctuary network, chapters on every continent |
-| 12 | $100M | $191.935M | **Planetary** | Permanent regenerative infrastructure layer established worldwide |
+| Tier | Amount | Name | What Unlocks |
+|------|--------|------|-------------|
+| 1 | $10K | **Seed** | Operational essentials, legal foundations, initial outreach |
+| 2 | $25K | **Sprout** | First professional capacity, content production begins |
+| 3 | $50K | **Roots** | New Flow Funders onboarded, bioregional map live |
+| 4 | $100K | **Groundwork** | Full event season, first protocol deployment, governance tools |
+| 5 | $250K | **Canopy** | Full-time core team, dual-token beta, significant Flow Fund cycle |
+| 6 | $500K | **Grove** | Multi-bioregion protocol deployments, sanctuary design phase |
+| 7 | $1M | **Watershed** | Chapters model launches, land search begins, platform v1 |
+| 8 | $5M | **Forest** | Land acquired, guild activation, federated architecture |
+| 9 | $10M | **Mountain Range** | Full sanctuary development, 10+ chapters, global protocol adoption |
+| 10 | $25M | **Continental Shelf** | Multiple sanctuary sites, institutional-scale philanthropy |
+| 11 | $50M | **Ocean Current** | Global sanctuary network, chapters on every continent |
+| 12 | $100M | **Planetary** | Permanent regenerative infrastructure layer established worldwide |
 
 ---
 
@@ -192,8 +192,6 @@ flowchart TD
 ---
 
 ## $10K -- Seed
-
-**Cumulative Capital: $10,000**
 
 The first dollars are foundation-laying. At this stage, the ecosystem formalizes its legal structures, secures the basic tools needed for coordination, and begins outreach to the communities and funders who will carry the work forward. This is the moment of intention made tangible -- registering domains, filing paperwork, purchasing the equipment that turns weekly live sessions into professional content.
 
@@ -243,8 +241,6 @@ At $10K, the digital layer is minimal but intentional: a registered domain, a la
 
 ## $25K -- Sprout
 
-**Cumulative Capital: $35,000**
-
 The ecosystem's first professional capacity comes online. Part-time hires allow Kinship Earth to move beyond founder-only operations, and content production begins in earnest -- turning the Live with Syd sessions, Permatours events, and Planetary Party activations into a storytelling pipeline that drives future fundraising. This is the stage where the ecosystem starts to look and feel like a professional operation, even while remaining deeply grassroots in its values.
 
 Initial content production creates the case-for-support materials that unlock larger grants. Every story documented at this stage -- a Flow Funder's impact in the Ozarks, a natural building workshop in Maine, a listening circle in Guatemala -- becomes evidence for the next round of fundraising.
@@ -274,8 +270,6 @@ The first real digital tool emerges: a basic community portal with member profil
 ---
 
 ## $50K -- Roots
-
-**Cumulative Capital: $85,000**
 
 The Flow Funding network expands meaningfully. Kinship Earth onboards 5-8 new Flow Funders across 2-3 additional bioregions, demonstrating that the model works beyond its founding geography. Each new Flow Funder represents a trusted community leader receiving unrestricted capital to deploy as they see fit -- and each one recommends the next cohort, making the network self-perpetuating. This is where the flywheel begins to turn.
 
@@ -307,8 +301,6 @@ Two significant digital tools launch. First, an **interactive bioregional map** 
 
 ## $100K -- Groundwork
 
-**Cumulative Capital: $185,000**
-
 This is the tier where each entity begins operating with enough resources to deliver on its core promise. Permatours funds a full event season -- workshops, builds, plantings, and festivals across the Northeast. The Planetary Party completes its first full protocol deployment with comprehensive documentation, creating the template for every bioregion that follows. Kinship Earth's Community of Practice matures into a genuine peer-learning network among Flow Funders.
 
 The mutual aid network infrastructure that Permatours has been building informally becomes formalized: working circles, the Permatours Covenant, and community assemblies begin operating as designed. This is the transition from founder-led coordination to distributed governance -- a critical proof point for the entire ecosystem's philosophy.
@@ -338,8 +330,6 @@ The portal evolves from informational to participatory. **Governance tools** all
 ---
 
 ## $250K -- Canopy
-
-**Cumulative Capital: $435,000**
 
 The ecosystem reaches a critical threshold: full-time core team members across entities. This changes everything. Instead of passionate organizers squeezing ecosystem work around other jobs, dedicated professionals can focus entirely on Flow Fund deployment, protocol coordination, event production, storytelling, and community cultivation. Professional media production elevates the storytelling pipeline from documentation to compelling narrative -- the kind of content that moves donors, attracts partners, and inspires replication.
 
@@ -376,14 +366,14 @@ flowchart TD
 
 ### App & Digital Platform
 
-Two major platform milestones. The **dual-token system enters live beta** -- graduating from the design sandbox at the prior tier into real community use: Utility Tokens (pegged 1:1 to USD) begin circulating in the Permatours community marketplace, enabling practitioners to exchange skills, workshop access, and resources without extractive payment platforms. Voice Tokens (non-transferable, capped at 40 per person with 20% seasonal decay) enter testing for governance decisions. Second, a **community marketplace** goes live -- the first concrete expression of the regenerative tokenomics vision, where the economy is circular and value stays local. This is the digital expression of what Permatours has been building physically: mutual aid made visible and scalable.
+Two major platform milestones. The **dual-token system enters live beta** -- graduating from the design sandbox into real community use: Utility Tokens (pegged 1:1 to USD) begin circulating in the Permatours community marketplace, enabling practitioners to exchange skills, workshop access, and resources without extractive payment platforms. Voice Tokens (non-transferable, capped at 40 per person with 20% seasonal decay) enter testing for governance decisions. Second, a **community marketplace** goes live -- the first concrete expression of the regenerative tokenomics vision, where the economy is circular and value stays local. This is the digital expression of what Permatours has been building physically: mutual aid made visible and scalable.
 
 ### Impact at This Stage
 
 - **People & Communities:** 1,000+ people engaged across all platforms and programming
 - **Bioregions Activated:** 8+ bioregions with active Flow Funders, protocol deployments, or chapter presence
 - **Land & Ecosystems:** 12-15 land projects supported, early site identification for Unified Sanctuaries
-- **Capital Deployed:** $75-100K in cumulative Flow Funds deployed to grassroots leaders across bioregions
+- **Capital Deployed:** $75-100K in Flow Funds deployed to grassroots leaders across bioregions
 - **Digital Infrastructure:** Dual-token beta live, community marketplace operational, 500+ platform members
 - **Cultural Reach:** 25+ events, professional documentary content, media licensing begins
 - **Replication:** Chapters model designed, 2-3 pilot chapters identified, Flow Funding Playbook v1 published
@@ -391,8 +381,6 @@ Two major platform milestones. The **dual-token system enters live beta** -- gra
 ---
 
 ## $500K -- Grove
-
-**Cumulative Capital: $935,000**
 
 The Planetary Party Protocol proves it works across cultures, languages, and geographies. Multi-bioregion protocol deployments in Colombia, Jamaica, Mexico, and the Northeast demonstrate that the five-phase cycle (Sense, See, Flow, Celebrate, Regenerate) produces lasting positive-trace infrastructure everywhere it's practiced -- gardens in Aguaclara, governance models in the Northeast, watershed restoration partnerships in the Sierra Nevada de Santa Marta, Indigenous-led stewardship in Jamaica.
 
@@ -451,7 +439,7 @@ flowchart TD
 - **People & Communities:** 2,500+ people across all networks, events, and digital platforms
 - **Bioregions Activated:** 10+ bioregions with active programming, Flow Funding, or protocol presence
 - **Land & Ecosystems:** 15-20 land projects supported, Unified Sanctuaries site shortlist developed
-- **Capital Deployed:** $150-200K in cumulative Flow Funds deployed
+- **Capital Deployed:** $150-200K in Flow Funds deployed to grassroots leaders
 - **Digital Infrastructure:** Tokenomics live in production, content library with 100+ pieces, governance platform operational
 - **Cultural Reach:** 40+ events hosted, media content reaching 10,000+ viewers, first media licensing revenue
 - **Replication:** 2 pilot chapters operational, protocol deployment template adopted by 3+ allied organizations
@@ -460,11 +448,9 @@ flowchart TD
 
 ## $1M -- Watershed
 
-**Cumulative Capital: $1.935M**
-
 A million dollars marks a watershed moment -- the point where the ecosystem transitions from promising proof of concept to recognized field leader. Kinship Earth approaches its near-term target of $2M, establishing itself as a trusted institution in the trust-based philanthropy space. The Permatours chapters model launches in 3-5 regions, proving that the mutual aid network architecture replicates. Unified Sanctuaries begins its land search in earnest, with deposits on promising properties in the Southern Vermont corridor.
 
-This is also the moment the digital platform becomes a true product. Version 1 of the Digital Permaculture platform integrates everything built in prior tiers into a coherent experience: bioregional intelligence dashboard, transparent capital flow tracking, cross-entity membership, and media library. For the first time, a community member in Cascadia can see Flow Funds deployed in Guatemala, watch a natural building workshop from Maine, participate in governance decisions for their local chapter, and discover a Planetary Party activation near them -- all in one place.
+This is also the moment the digital platform becomes a true product. Version 1 of the Digital Permaculture platform delivers a coherent experience: bioregional intelligence dashboard, transparent capital flow tracking, cross-entity membership, and media library. For the first time, a community member in Cascadia can see Flow Funds deployed in Guatemala, watch a natural building workshop from Maine, participate in governance decisions for their local chapter, and discover a Planetary Party activation near them -- all in one place.
 
 ```mermaid
 flowchart TD
@@ -522,7 +508,7 @@ flowchart TD
 - **People & Communities:** 5,000+ people across all platforms, chapters, events, and Flow Funder networks
 - **Bioregions Activated:** 12+ bioregions with active presence
 - **Land & Ecosystems:** 20+ land projects supported, Unified Sanctuaries site identified and under negotiation
-- **Capital Deployed:** $300K+ in cumulative Flow Funds deployed to grassroots leaders
+- **Capital Deployed:** $300K+ in Flow Funds deployed to grassroots leaders
 - **Digital Infrastructure:** Platform v1 live with 1,000+ members, bioregional dashboard operational
 - **Cultural Reach:** 60+ events, content reaching 25,000+ people, media licensing generating revenue
 - **Replication:** 3-5 active chapters, Flow Funding Playbook adopted by 5+ communities, protocol documentation translated into Spanish
@@ -530,8 +516,6 @@ flowchart TD
 ---
 
 ## $5M -- Forest
-
-**Cumulative Capital: $6.935M**
 
 At $5M, the physical and digital visions converge. Unified Sanctuaries acquires land and begins Phase 1 development -- core infrastructure, first eco-homes, permaculture farm establishment, and the initial buildout of the retreat and healing arts center. For the first time, the ecosystem has a physical anchor: a place where all four entities can practice their principles on shared ground, where residents live in a regenerative neighborhood, where the bathhouse and event venue begin to take shape.
 
@@ -602,7 +586,7 @@ flowchart TD
 - **People & Communities:** 15,000+ people across all networks, chapters, Flow Funder communities, and digital platform
 - **Bioregions Activated:** 20+ bioregions with active programming, funding, or protocol presence
 - **Land & Ecosystems:** Land acquired for Unified Sanctuaries (50-200 acres), 30+ land projects supported through Flow Funds and Permatours network, farm establishment underway
-- **Capital Deployed:** $1.5M+ in cumulative Flow Funds deployed to grassroots leaders worldwide
+- **Capital Deployed:** $1.5M+ in Flow Funds deployed to grassroots leaders worldwide
 - **Digital Infrastructure:** Federated platform architecture live, 5+ self-hosted chapter nodes, open-source tools adopted by 10+ external communities
 - **Cultural Reach:** 100+ events hosted, professional documentary content, media reaching 75,000+ people
 - **Replication:** 8+ active chapters, 15+ bioregional deployments, 10+ communities launching their own Flow Funds using the Playbook, open-source governance frameworks forked by 20+ groups
@@ -610,8 +594,6 @@ flowchart TD
 ---
 
 ## $10M -- Mountain Range
-
-**Cumulative Capital: $16.935M**
 
 This is the tier where Unified Sanctuaries becomes fully operational -- 20+ eco-homes occupied, the permaculture farm feeding residents and hosting agri-tourism, the retreat and healing arts center (including the bathhouse) open to visitors, the event venue hosting festivals, conferences, and bioregional congresses. The combined annual revenue potential of $1.4M-$4.5M+ begins to materialize, making the sanctuary increasingly self-sustaining.
 
@@ -656,7 +638,7 @@ The digital layer now mirrors the physical sanctuary. The **Digital Unified Sanc
 - **People & Communities:** 30,000+ people across all networks, with 50+ residents at the first Unified Sanctuaries site
 - **Bioregions Activated:** 30+ bioregions with active programming, funding, or protocol presence
 - **Land & Ecosystems:** 50-200 acres held in community land trust, 40+ land projects supported, permaculture farm operational, retreat center open
-- **Capital Deployed:** $3M+ in cumulative Flow Funds deployed
+- **Capital Deployed:** $3M+ in Flow Funds deployed to grassroots leaders
 - **Digital Infrastructure:** Digital Sanctuaries platform operational, federation protocol connecting 15+ nodes, 5,000+ platform members
 - **Cultural Reach:** 150+ events, Unified Sanctuaries generating $1M+ annual revenue, content reaching 150,000+ people
 - **Replication:** 10+ chapters, protocol adopted by 5+ allied organizations, open-source sanctuary blueprint downloaded by 50+ communities, 20+ independent Flow Funds operational worldwide
@@ -664,8 +646,6 @@ The digital layer now mirrors the physical sanctuary. The **Digital Unified Sanc
 ---
 
 ## $25M -- Continental Shelf
-
-**Cumulative Capital: $41.935M**
 
 The blueprint proves replicable at scale. Second and third Unified Sanctuaries sites begin development in other bioregions -- perhaps Cascadia, Colombia, or the Ozarks -- using the open-source blueprint refined at the Vermont site. Each new sanctuary is locally governed, culturally distinct, and connected to the network through shared protocols and values. Kinship Earth approaches major philanthropic institution scale, with the operational infrastructure, track record, and relationships to deploy capital at the level of established foundations.
 
@@ -688,7 +668,7 @@ The platform evolves into a **multi-sanctuary network** -- connecting all sanctu
 - **People & Communities:** 75,000+ people across all networks and platforms worldwide
 - **Bioregions Activated:** 50+ bioregions with active programming, funding, protocol presence, or chapters
 - **Land & Ecosystems:** 3+ sanctuary sites in development or operational (500+ total acres in community land trust), 60+ land projects supported through Flow Funds
-- **Capital Deployed:** $8M+ in cumulative Flow Funds deployed to grassroots leaders and communities
+- **Capital Deployed:** $8M+ in Flow Funds deployed to grassroots leaders and communities
 - **Digital Infrastructure:** Multi-sanctuary platform, AI-assisted intelligence, 15,000+ platform members, platform adopted by 10+ external communities
 - **Cultural Reach:** 200+ events annually across the network, professional media reaching 500,000+ people
 - **Replication:** 15+ chapters, 30+ independent Flow Funds, 3+ sanctuary sites, protocol adopted by 15+ allied organizations, open-source blueprint adapted on 4+ continents
@@ -696,8 +676,6 @@ The platform evolves into a **multi-sanctuary network** -- connecting all sanctu
 ---
 
 ## $50M -- Ocean Current
-
-**Cumulative Capital: $91.935M**
 
 A network of 5-10 sanctuary sites operates globally -- each a living laboratory, each locally governed, each contributing its learnings back to the commons. Kinship Earth deploys $15M+ annually through Flow Funds, making it one of the most significant trust-based philanthropic channels in the world. Permatours chapters exist on every inhabited continent, proving that the mutual aid network model transcends cultural and geographic boundaries. The Planetary Party is no longer an initiative -- it is a movement protocol practiced by hundreds of communities.
 
@@ -743,7 +721,7 @@ The **full Digital Permaculture ecosystem** reaches operational maturity:
 - **People & Communities:** 200,000+ people across all networks, 500+ residents across sanctuary sites
 - **Bioregions Activated:** 75+ bioregions with active presence worldwide
 - **Land & Ecosystems:** 5-10 sanctuary sites (2,000+ total acres in community land trust), 100+ land projects supported through Flow Funds, measurable ecological restoration across multiple watersheds
-- **Capital Deployed:** $20M+ in cumulative Flow Funds deployed
+- **Capital Deployed:** $20M+ in Flow Funds deployed to grassroots leaders
 - **Digital Infrastructure:** 50,000+ platform members, federated network spanning 6 continents, community-owned infrastructure fully operational
 - **Cultural Reach:** 500+ events annually across the network, media reaching 2M+ people, documentary content distributed internationally
 - **Replication:** 25+ chapters, 50+ independent Flow Funds, 5-10 sanctuary sites, protocol standard for 50+ organizations, open-source tools used by 100+ communities worldwide
@@ -751,8 +729,6 @@ The **full Digital Permaculture ecosystem** reaches operational maturity:
 ---
 
 ## $100M -- Planetary
-
-**Cumulative Capital: $191.935M**
 
 At $100M, the ecosystem approaches Kinship Earth's ten-year vision of $200M raised and deployed. This is not the finish line -- it is the moment where the infrastructure becomes self-perpetuating. A network of 15-20+ sanctuaries worldwide serves as permanent regenerative infrastructure -- land held in trust forever, communities practicing alternative economics, governance models proven across cultures. The open-source blueprint has been adopted by dozens of independent communities with no formal connection to this ecosystem, each adapting the model to their own bioregion, culture, and needs.
 
@@ -803,7 +779,7 @@ The digital platform has become what it was always meant to be:
 - **People & Communities:** 500,000+ people across all networks, 2,000+ residents across sanctuary sites, millions reached through media and educational content
 - **Bioregions Activated:** 100+ bioregions with active programming, funding, or protocol presence
 - **Land & Ecosystems:** 15-20+ sanctuary sites (10,000+ total acres in community land trust), 200+ land projects supported, measurable ecological restoration across dozens of watersheds
-- **Capital Deployed:** $50M+ in cumulative Flow Funds deployed to grassroots leaders and communities worldwide
+- **Capital Deployed:** $50M+ in Flow Funds deployed to grassroots leaders and communities worldwide
 - **Digital Infrastructure:** Federated network spanning every continent, 100,000+ platform members, community-owned infrastructure adopted by hundreds of communities
 - **Cultural Reach:** 1,000+ events annually, media distributed internationally, educational content in 10+ languages
 - **Replication:** 50+ chapters, 100+ independent Flow Funds, 15-20+ sanctuary sites, protocol standard adopted by 100+ organizations, open-source blueprint adapted by dozens of independent communities. **A permanent regenerative infrastructure layer established.**
