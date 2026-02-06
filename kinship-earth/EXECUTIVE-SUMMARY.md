@@ -1,55 +1,47 @@
 # Kinship Earth -- Executive Summary
 
-**Flow Funding & Regenerative Capital -- Global**
+## Overview
 
-*Prepared: February 2026*
+Kinship Earth is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust. Founded by **Sydney Griffith** (Executive Director) and **Susan Davis Mora** (Co-Founder), Kinship Earth exists to catalyze planetary regeneration by transforming how philanthropy functions. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
+
+**Website:** [kinshipearth.org](https://www.kinshipearth.org/) | [flowfunding.org](https://flowfunding.org)
+**Entity:** Private Foundation (Nonprofit 501c3)
+**Scale:** Global
+**Status:** Active -- deploying flow funds across 12+ bioregions
+**Executive Director:** Sydney Griffith
 
 ---
 
-## Overview
+## Mission & Vision
 
-**Kinship Earth** is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust.
+**Mission:** To catalyze planetary regeneration and systemic healing by transforming how philanthropy functions -- moving unrestricted capital directly to trusted grassroots leaders and bioregional organizers through participatory, trust-based grantmaking.
 
-Founded by **Sydney Griffith** (Executive Director) and **Susan Davis Mora** (Co-Founder), Kinship Earth exists to catalyze planetary regeneration and systemic healing by transforming how philanthropy functions. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
-
-- **Website:** [kinshipearth.org](https://www.kinshipearth.org/)
-- **Flow Funding Resource:** [flowfunding.org](https://flowfunding.org)
-- **Entity Type:** Private Foundation (Nonprofit)
-- **Executive Director:** Sydney Griffith
+**Vision:** A world where financial resources reliably flow to the communities and ecosystems that need them most -- governed by trust, relationship, and accountability to life rather than bureaucracy, compliance, and donor preference. Flow Funding is not an alternative to philanthropy. It is philanthropy redesigned for the moment we're in.
 
 ---
 
 ## The Problem
 
-Traditional philanthropy is broken. The current system:
+Traditional philanthropy is structurally broken:
 
-- **Locks up capital:** Foundations distribute only ~7% of assets annually -- 93% stays locked up in endowments
-- **Burdens changemakers:** Grassroots leaders spend countless hours finding grants and writing applications with no guarantee of funding, pulling them away from the work that matters
-- **Enforces conformity:** Even when grants are awarded, recipients must conform to what foundations think they should do -- not what communities actually need
+- **Locks up capital:** Foundations distribute only ~7% of assets annually -- 93% stays locked in endowments
+- **Burdens changemakers:** Grassroots leaders spend countless hours finding grants and writing applications, pulling them away from the work that matters
+- **Enforces conformity:** Recipients must conform to what foundations think they should do -- not what communities actually need
 - **Excludes the most effective actors:** Grassroots groups -- often operating on less than $50,000/year -- consistently deliver more effective, cost-efficient, and responsive solutions, yet remain the most underfunded
 - **Perpetuates inequity:** Indigenous peoples protect 80% of the world's biodiversity but receive less than 1% of climate finance
 
-The systems designed to help are reinforcing the very inequities they claim to solve.
-
 ---
 
-## The Solution: Flow Funding
+## The Core Model: Flow Funding
 
 Flow Funding is a **financial nervous system** that reliably moves resources where they're needed -- not a one-off intervention, but a repeatable, durable system designed to function across time, bioregions, and cohorts.
 
 ### How It Works -- Four Steps
 
-**Step 1 -- Identify Trusted Community Leaders**
-Kinship Earth, guided by Flow Fund Advisors (grassroots leaders with deep bioregional ties), identifies trusted community leaders and organizations with established track records. If they accept the invitation to serve as a "Flow Funder," they receive **unrestricted funds** to deploy in service of their communities and ecosystems.
-
-**Step 2 -- Flow Funders Deploy Resources**
-Flow Funders decide how, when, and where to move resources based on the emergent needs of their communities -- **without submitting applications or asking permission**. Communities decide collectively how to deploy capital to heal the places they call home.
-
-**Step 3 -- Lightweight Reporting & Impact Stories**
-Flow Funders share basic reports of how funds were deployed and are invited to share stories of impact. This model -- inspired by pioneer **Marian Rockefeller Weber** -- replaces cumbersome compliance with relational accountability.
-
-**Step 4 -- Flow Funders Recommend the Next Round**
-Flow Funders recommend the next cohort of trusted community leaders to receive funding, creating a **self-perpetuating, decentralized network** governed by trust, relationship, and accountability to life -- not donor preference.
+1. **Identify Trusted Community Leaders** -- Kinship Earth, guided by Flow Fund Advisors with deep bioregional ties, identifies trusted community leaders. If they accept the invitation, they receive **unrestricted funds** to deploy in service of their communities.
+2. **Flow Funders Deploy Resources** -- Flow Funders decide how, when, and where to move resources based on emergent community needs -- **without submitting applications or asking permission**.
+3. **Lightweight Reporting & Impact Stories** -- Flow Funders share basic reports and are invited to share stories of impact. This model replaces cumbersome compliance with relational accountability.
+4. **Flow Funders Recommend the Next Round** -- Flow Funders recommend the next cohort of trusted community leaders, creating a **self-perpetuating, decentralized network** governed by trust and accountability to life.
 
 ### What Makes Flow Funding Different
 
@@ -63,11 +55,44 @@ Flow Funders recommend the next cohort of trusted community leaders to receive f
 | Top-down power dynamics | Trust-based, relational |
 | One-off grants | Repeatable, durable system |
 
+### Four Core Functions
+
+1. Deploy unrestricted grants to trusted changemakers
+2. Educate donors, family offices, DAFs, and foundations on trust-based philanthropy
+3. Support communities in establishing their own Flow Funding foundations
+4. Serve as both grantmaker and field-builder for the broader movement
+
+### Impact Areas Funded
+
+1. Regeneration of natural systems
+2. Advancing Indigenous rights and land rematriation
+3. Strengthening food sovereignty, food security, and housing security
+4. Supporting social justice and economic equity
+5. Backing community-led disaster preparedness and relief
+6. Improving ecosystem and human health
+
+---
+
+## Capital Strategy & Financial Targets
+
+| Timeframe | Target |
+|-----------|--------|
+| Near-term (2025-2026) | **$2M** by end of 2026 |
+| Medium-term (2026-2028) | **$20M** by end of 2028 |
+| 5-year target | **$10M+** deployed through **100+ flow funding grants** |
+| 5-year target | **20+ bioregional Flow Funds** created |
+| 10-year vision | **$200M** raised and deployed |
+
+### Where Capital Goes
+
+- Renew grants to Cohorts 1 & 2 of Flow Funders
+- Deploy flow funds to bioregional organizing groups around the world
+- Help bioregional communities create their own unique Flow Funds and financially seed them
+- Educate family offices, DAFs, high-net-worth individuals, and foundations on embracing flow funding
+
 ---
 
 ## Impact to Date
-
-### Key Milestones
 
 | Date | Milestone |
 |------|-----------|
@@ -79,14 +104,8 @@ Flow Funders recommend the next cohort of trusted community leaders to receive f
 | By mid-2025 | $300,000 in flow funding grants deployed to 18+ Flow Funders |
 | December 2025 | Continued fundraising and deployment beyond pitch figures |
 
-### Impact Areas Funded
-
-1. Regeneration of natural systems
-2. Advancing Indigenous rights and land rematriation
-3. Strengthening food sovereignty, food security, and housing security
-4. Supporting social justice and economic equity
-5. Backing community-led disaster preparedness and relief
-6. Improving ecosystem and human health
+**Total raised:** $800,000+ since adopting Flow Funding in 2024
+**Total deployed:** $300,000+ to 18+ Flow Funders across 12+ bioregions globally
 
 ### Real-World Examples
 
@@ -97,59 +116,7 @@ Flow Funders recommend the next cohort of trusted community leaders to receive f
 
 ---
 
-## Fundraising Goals
-
-| Timeframe | Target |
-|-----------|--------|
-| Near-term (2025-2026) | **$2 million** by end of 2026 |
-| Medium-term (2026-2028) | **$20 million** by end of 2028 |
-| 5-year target | **$10 million+** deployed through **100+ flow funding grants** |
-| 5-year target | **20+ bioregional flow funds** created |
-| 10-year vision | **$200 million** raised and deployed |
-
-### Where Capital Goes
-
-- Renew grants to Cohorts 1 & 2 of Flow Funders
-- Deploy flow funds to bioregional organizing groups around the world
-- Help bioregional communities create their own unique Flow Funds and financially seed them
-- Educate family offices, DAFs, high-net-worth individuals, and foundations on embracing flow funding
-
----
-
-## Strategic Plan -- Three Phases
-
-### Phase 1: Capital & Cohort Continuity
-- Renew grants to Cohorts 1 & 2 Flow Funders
-- Support Flow Funders in deploying resources within their bioregions
-- Strengthen internal governance, compliance, and reporting clarity
-
-### Phase 2: Education & Field Building
-- Develop educational materials for family offices, DAF holders, foundations, and high-net-worth individuals
-- Co-create the **Flow Funding Playbook** -- a free, modular resource to help communities launch their own flow funds
-
-### Phase 3: Bioregional Scaling
-- Support the emergence of autonomous, place-based Flow Funds worldwide
-- Serve as backbone infrastructure -- not a centralized controller:
-  - **Legal** -- fiscal sponsorship and compliance support
-  - **Educational** -- training, tools, and the Flow Funding Playbook
-  - **Relational** -- connecting bioregional leaders, facilitating shared learning
-
----
-
-## Organizational Structure
-
-### Leadership Team
-
-| Role | Person | Focus |
-|------|--------|-------|
-| Executive Director | Sydney Griffith | Vision, strategy, fundraising, systems design |
-| Co-Founder | Susan Davis Mora | Original flow funding recipient (early 1990s), co-founding vision |
-| Financial Operations | Michael (Fuego) | Accounting, compliance, financial operations |
-
-### Advisors
-
-- **Marian Rockefeller Weber** -- Pioneer of flow funding; advisor to Kinship Earth. Her vision: replace philanthropy's paperwork, reporting, and bureaucracy with relationships, trust, and generosity.
-- Additional advisors bring decades of experience in systems change, community organizing, land restoration, Indigenous sovereignty, and social/environmental justice.
+## Governance Structure
 
 ### Governance Layers
 
@@ -162,68 +129,122 @@ Flow Funders recommend the next cohort of trusted community leaders to receive f
 
 ---
 
+## Legal & Entity Structure
+
+- **Entity Type:** Private Foundation (Nonprofit 501c3)
+- **Fiscal Sponsor:** Serves as fiscal sponsor for the Planetary Party Protocol
+- **Ethical Boundaries:** KE's capital flows serve many communities internationally, not primarily Syd's own projects. Clear firewalls exist to prevent conflicts of interest.
+  - KE -> Permatours: flow funds deployed so Permatours could flow resources **outward** to communities
+  - KE -> Unified Sanctuaries: direct funding is an open question due to potential conflict of interest
+
+---
+
+## Development Phases
+
+### Phase 1 -- Capital & Cohort Continuity
+- Renew grants to Cohorts 1 & 2 Flow Funders
+- Support Flow Funders in deploying resources within their bioregions
+- Strengthen internal governance, compliance, and reporting clarity
+
+### Phase 2 -- Education & Field Building
+- Develop educational materials for family offices, DAF holders, foundations, and high-net-worth individuals
+- Co-create the **Flow Funding Playbook** -- a free, modular resource to help communities launch their own flow funds
+
+### Phase 3 -- Bioregional Scaling
+- Support the emergence of autonomous, place-based Flow Funds worldwide
+- Serve as backbone infrastructure -- not a centralized controller:
+  - **Legal** -- fiscal sponsorship and compliance support
+  - **Educational** -- training, tools, and the Flow Funding Playbook
+  - **Relational** -- connecting bioregional leaders, facilitating shared learning
+
+---
+
 ## Active Bioregions & Collaborations
 
-- **The Ozarks** -- Site of October 2024 bioregional congress
-- **Cascadia** -- Active collaboration with bioregional organizers
-- **Greater Tkaronto** -- Active collaboration area
-- **Northeast / Turtle Island** -- Connected through Permatours network
-- **Unity, Maine** -- Site of aligned bioregional activation
-- **Colombia, Jamaica, Mexico, Guatemala** -- Expanding engagement internationally
+| Bioregion | Status |
+|-----------|--------|
+| **The Ozarks** | Site of October 2024 bioregional congress |
+| **Cascadia** | Active collaboration with bioregional organizers |
+| **Greater Tkaronto** | Active collaboration area |
+| **Northeast / Turtle Island** | Connected through Permatours network |
+| **Unity, Maine** | Site of aligned bioregional activation |
+| **Colombia, Jamaica, Mexico, Guatemala** | Expanding engagement internationally |
 
 ---
 
-## Ecosystem Context
+## Ecosystem & Strategic Partnerships
 
-Kinship Earth operates within a constellation of four interconnected projects, all stewarded by Sydney Griffith:
+Kinship Earth operates within a constellation of four interconnected projects:
 
-| Initiative | Role | Scale |
-|------------|------|-------|
-| **Kinship Earth** | Flow Funding & Regenerative Capital | Global |
-| **Planetary Party** | Cultural & Coordination Protocol | Global |
-| **Permatours** | Permaculture Action & Mutual Aid | Northeast Bioregion |
-| **Unified Sanctuaries** | Land-Based Regenerative Village | Local (Southern Vermont) |
+| Partner Entity | Relationship |
+|---------------|-------------|
+| **Planetary Party** | KE serves as fiscal sponsor; provides financial backbone for PPP ecosystem |
+| **Permatours** | Has deployed flow funds so Permatours could flow resources outward to communities |
+| **Unified Sanctuaries** | May reference as case study; direct funding carefully managed with firewalls |
+| **Many communities** | Primary purpose is deploying capital across bioregions internationally |
 
-**Core principle:** All four are **participants in a wider ecosystem**, not a closed loop. Kinship Earth capital flows serve many communities, with Sydney's projects as participants, not primary beneficiaries. Clear firewalls exist to prevent conflicts of interest.
-
----
-
-## The Case for Flow Funding -- Why Now
-
-- **Catastrophic climate events** -- floods, wildfires, and droughts are accelerating globally
-- **Wars and displacement** -- millions displaced, ecosystems devastated
-- **Biodiversity collapse** -- the most effective stewards (Indigenous communities) remain the most underfunded
-- **Grassroots groups are the most effective responders** -- yet they receive the least funding
-- **A global bioregional resurgence is underway** -- people gathering in their bioregions, organized by natural ecosystems rather than political boundaries
-- **Traditional philanthropy cannot meet this moment** -- its bureaucracy, timelines, and power dynamics are structurally mismatched with the speed and trust required
-
-Flow Funding is not an alternative to philanthropy. It is **philanthropy redesigned for the moment we're in.**
+**Core principle:** All four are participants in a wider ecosystem, not a closed loop. Kinship Earth capital flows serve many communities, with Sydney's projects as participants, not primary beneficiaries.
 
 ---
 
-## How You Can Participate
+## Founding Team
 
-- **Donate** -- Make a gift aligned with your vision for a regenerative bioregional future
-- **Create Your Own Bioregional Flow Fund** -- Kinship Earth provides the legal, educational, and relational backbone
-- **Make Introductions** -- Connect Kinship Earth with aligned donors, family offices, foundations, and grantors
-- **Invite Sydney to Speak** -- Available for events, conferences, podcasts, and gatherings
-- **Share Your Story** -- If you're practicing flow funding or trust-based philanthropy, share your approach
+| Name | Role | Focus |
+|------|------|-------|
+| **Syd Harvey Griffith** | Executive Director | Vision, strategy, fundraising, systems design. Pioneered Bioregional Flow Funding, supported 40+ land-based projects. |
+| **Susan Davis Mora** | Co-Founder | Original flow funding recipient (early 1990s from Marian Rockefeller Weber), co-founding vision |
+| **Michael (Fuego)** | Financial Operations | Accounting, compliance, financial operations |
+| **Marian Rockefeller Weber** | Advisor | Pioneer of flow funding; replace philanthropy's paperwork, reporting, and bureaucracy with relationships, trust, and generosity |
 
 ---
 
-## Key Quotes
+## How to Get Involved
+
+| Pathway | Description |
+|---------|-------------|
+| **Donate** | Make a gift aligned with your vision for a regenerative bioregional future |
+| **Create a Bioregional Flow Fund** | Kinship Earth provides the legal, educational, and relational backbone |
+| **Make Introductions** | Connect Kinship Earth with aligned donors, family offices, foundations, and grantors |
+| **Invite Sydney to Speak** | Available for events, conferences, podcasts, and gatherings |
+| **Share Your Story** | If you're practicing flow funding or trust-based philanthropy, share your approach |
+
+---
+
+## What Makes Kinship Earth Unique
+
+1. **Flow funding model** -- capital moves where needed, not locked in rigid program budgets
+2. **Many-communities approach** -- deploys across bioregions internationally, not just a small internal network
+3. **Invitation-driven** -- no grant applications; communities control decisions
+4. **Organized by bioregions** -- natural ecosystems and culture, not political boundaries
+5. **Self-perpetuating network** -- each cohort of Flow Funders recommends the next, creating decentralized growth
+6. **Storytelling-integrated fundraising** -- content from across the movement supports donor cultivation
+7. **Field-building mission** -- not just deploying capital but helping communities build their own Flow Funds
+8. **Pioneer lineage** -- direct intellectual and relational lineage from Marian Rockefeller Weber's original flow funding vision
+
+---
+
+## Key Risks & Open Questions
+
+- **Fundraising execution:** Achieving $2M by end of 2026 and $20M by 2028 requires significant donor cultivation and foundation engagement
+- **Scaling without centralizing:** As bioregional Flow Funds emerge, maintaining coherence and accountability without imposing top-down control
+- **Conflict of interest management:** Ensuring clear firewalls between KE's capital flows and Syd's other projects, particularly Unified Sanctuaries
+- **Flow Funder accountability:** Balancing trust-based, lightweight reporting with sufficient transparency for donors and foundations
+- **Institutional credibility:** Building the organizational track record to unlock larger institutional grants and foundation partnerships
+- **Sustainability:** Transitioning from founder-dependent fundraising to a self-sustaining model with diversified revenue
+
+---
+
+## Summary
+
+Kinship Earth represents a fundamental redesign of how philanthropic capital reaches the communities and ecosystems that need it most. With $800,000+ raised and $300,000+ deployed to 18+ Flow Funders across 12+ bioregions in its first year, the model has demonstrated real traction. The self-perpetuating Flow Funder network, trust-based accountability structure, and bioregional organizing framework position Kinship Earth to scale from a promising proof of concept to a global infrastructure for regenerative capital deployment -- targeting $200M raised and deployed over the next decade.
+
+---
 
 > *"We're trusting those who know the needs of their communities to do the work and to deploy capital however they see fit. That's what flow funding is."*
 > -- Sydney Griffith
 
 ---
 
-## Contact
-
-- **Website:** [kinshipearth.org](https://www.kinshipearth.org/)
-- **Flow Funding:** [flowfunding.org](https://flowfunding.org)
-- **Executive Director:** Sydney Griffith
-
----
+**Website:** [kinshipearth.org](https://www.kinshipearth.org/) | [flowfunding.org](https://flowfunding.org)
 
 *Prepared February 2026 | Kinship Earth*
