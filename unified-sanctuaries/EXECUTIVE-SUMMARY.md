@@ -27,6 +27,28 @@ Unified Sanctuaries is a land-based regenerative community planned for Southern 
 
 The community is organized around four interdependent platforms, each operating with internal autonomy while sharing infrastructure, governance, and economic systems.
 
+```mermaid
+flowchart TD
+    US["UNIFIED SANCTUARIES\nRegenerative Village"]
+
+    US --> FARM["Permaculture Farm &\nEducation Center\n$315K -- $1M+"]
+    US --> RETREAT["Retreat & Healing Arts\nCenter + Bathhouse\n$570K -- $1.75M"]
+    US --> EVENT["Event Venue +\nInnovation Hall\n$310K -- $1.16M"]
+    US --> LIVING["Community Living /\nRegen Neighborhood\n$195K -- $580K"]
+
+    FARM --> TOTAL["COMBINED ANNUAL\nREVENUE POTENTIAL\n$1.4M -- $4.5M+"]
+    RETREAT --> TOTAL
+    EVENT --> TOTAL
+    LIVING --> TOTAL
+
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style FARM fill:#A5D6A7,stroke:#66BB6A,color:#000
+    style RETREAT fill:#CE93D8,stroke:#AB47BC,color:#000
+    style EVENT fill:#FFE082,stroke:#FFD54F,color:#000
+    style LIVING fill:#90CAF9,stroke:#64B5F6,color:#000
+    style TOTAL fill:#EF5350,stroke:#C62828,color:#fff
+```
+
 ### 1. Permaculture Farm & Education Center
 Regenerative agriculture, food sovereignty, a community cafe, forest school programming, and hands-on education. This pillar anchors the land ethic of the project and provides the nutritional and educational foundation for residents and visitors alike.
 
@@ -58,6 +80,33 @@ Eco-homes, tiny dwellings, shared stewardship, and cooperative living for 20+ ho
 | Seed / Phase 1 Capital Raise | $10,000,000 | End of 2026 |
 | Growth / Phase 2+ Capital Raise | $100,000,000 | 2028 |
 
+```mermaid
+flowchart LR
+    subgraph SOURCES["Capital Sources"]
+        DON["Philanthropy\n& Donations"]
+        INV["Impact\nInvestment"]
+        MEM["Community\nMemberships"]
+        EARN["Earned\nRevenue"]
+    end
+
+    DON --> US["UNIFIED\nSANCTUARIES\n$10M by 2026\n$100M by 2028"]
+    INV --> US
+    MEM --> US
+    EARN --> US
+
+    US --> LAND["Land\nAcquisition"]
+    US --> INFRA["Infrastructure\nDevelopment"]
+    US --> OPS["Operations &\nProgramming"]
+    US --> ECON["Circular Economy\nLaunch"]
+
+    style SOURCES fill:#E8F5E9,stroke:#81C784,color:#000
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style LAND fill:#EFEBE9,stroke:#BCAAA4,color:#000
+    style INFRA fill:#EFEBE9,stroke:#BCAAA4,color:#000
+    style OPS fill:#EFEBE9,stroke:#BCAAA4,color:#000
+    style ECON fill:#EFEBE9,stroke:#BCAAA4,color:#000
+```
+
 Capital sources include philanthropic donations, impact investment, earned revenue, community memberships, and aligned partnerships. The project is actively engaging donors and impact investors during the current pre-acquisition phase.
 
 ---
@@ -65,6 +114,32 @@ Capital sources include philanthropic donations, impact investment, earned reven
 ## Economic Model
 
 Unified Sanctuaries employs a circular internal economy designed to keep value local and reward contribution over capital:
+
+```mermaid
+flowchart TD
+    CLT["SOL COMMUNITY LAND PROJECT\nCommunity Land Trust\nNon-Speculative Stewardship"]
+
+    CLT --> SOL["SOL TOKEN\nUtility Currency\nGoods & Services Exchange"]
+    CLT --> VOICE["VOICE TOKEN\nGovernance Token\nDecision-Making Weight"]
+    CLT --> TRUST["TRUST UNITS\nEquity Through Contribution\nLiquidatable on Exit"]
+
+    SOL --> CIRC["CIRCULAR ECONOMY\nFood, Retreats, Events\nHousing, Services"]
+    VOICE --> GOV["COMMUNITY GOVERNANCE\nConsent-Based Decisions\nContribution = Influence"]
+    TRUST --> EQ["EARNED EQUITY\nBuild Land Improvements\nTangible Value Created"]
+
+    CIRC --> VALUE["VALUE STAYS LOCAL\nRewards Engagement\nNot Speculation"]
+    GOV --> VALUE
+    EQ --> VALUE
+
+    style CLT fill:#8D6E63,stroke:#5D4037,color:#fff
+    style SOL fill:#FFD54F,stroke:#FFC107,color:#000
+    style VOICE fill:#90CAF9,stroke:#42A5F5,color:#000
+    style TRUST fill:#A5D6A7,stroke:#66BB6A,color:#000
+    style CIRC fill:#FFF9C4,stroke:#FFF176,color:#000
+    style GOV fill:#BBDEFB,stroke:#90CAF9,color:#000
+    style EQ fill:#C8E6C9,stroke:#A5D6A7,color:#000
+    style VALUE fill:#00796B,stroke:#004D40,color:#fff
+```
 
 - **Sol Token (Utility):** A community currency exchangeable for goods and services within the ecosystem -- food, retreat sessions, event access, housing credits, and more.
 - **Voice Token (Governance):** Earned through participation and stewardship, granting decision-making weight in community governance. Contribution, not just capital, determines influence.
@@ -78,6 +153,30 @@ Each pillar autonomously structures its own compensation and contribution-reward
 ## Governance Structure
 
 Unified Sanctuaries blends **sociocracy** and **holacracy** principles into a consent-based, rotating governance model:
+
+```mermaid
+flowchart TD
+    AC["ANCHOR CIRCLE\nCentral Governance Council\nConsent-Based / Rotating"]
+
+    AC --> FARM_N["Farm & Education\nAutonomous Node"]
+    AC --> RETREAT_N["Retreat & Healing\nAutonomous Node"]
+    AC --> EVENT_N["Event Venue\nAutonomous Node"]
+    AC --> LIVING_N["Community Living\nAutonomous Node"]
+
+    AC ---|"Shared Infrastructure"| SHARED["Shared Systems\nEconomic Infrastructure\nCore Values & Agreements"]
+
+    FARM_N ---|"Self-Governs"| F_INT["Internal Decisions\nCompensation\nOperations"]
+    RETREAT_N ---|"Self-Governs"| R_INT["Internal Decisions\nCompensation\nOperations"]
+    EVENT_N ---|"Self-Governs"| E_INT["Internal Decisions\nCompensation\nOperations"]
+    LIVING_N ---|"Self-Governs"| L_INT["Internal Decisions\nCompensation\nOperations"]
+
+    style AC fill:#00796B,stroke:#004D40,color:#fff
+    style SHARED fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style FARM_N fill:#A5D6A7,stroke:#66BB6A,color:#000
+    style RETREAT_N fill:#CE93D8,stroke:#AB47BC,color:#000
+    style EVENT_N fill:#FFE082,stroke:#FFD54F,color:#000
+    style LIVING_N fill:#90CAF9,stroke:#64B5F6,color:#000
+```
 
 - **Anchor Circle (Council):** The central governance body that guides interconnected autonomous platforms, maintains shared infrastructure, upholds core values, and stewards the economic systems.
 - **Autonomous Nodes:** Each of the four pillars operates as a self-governing unit with its own internal decision-making, compensation structures, and operational authority -- while remaining accountable to the shared governance framework.
@@ -94,6 +193,22 @@ Unified Sanctuaries blends **sociocracy** and **holacracy** principles into a co
 ---
 
 ## Development Phases
+
+```mermaid
+flowchart LR
+    P1["PHASE 1\nLand & Foundation\n---\nSecure property\nEstablish legal structures\nInvite early members\n$10M raise"]
+
+    P2["PHASE 2\nBuild & Activate\n---\n20+ eco-homes\nFarm & retreat facilities\nLaunch circular economy\nScale revenue"]
+
+    P3["PHASE 3\nBlueprint & Network\n---\nDocument learnings\nPublish open-source blueprint\nSupport new sanctuaries\nGlobal hub"]
+
+    P1 -->|"Foundation\nset"| P2
+    P2 -->|"Community\nthriving"| P3
+
+    style P1 fill:#EFEBE9,stroke:#8D6E63,color:#000
+    style P2 fill:#A1887F,stroke:#795548,color:#fff
+    style P3 fill:#8D6E63,stroke:#5D4037,color:#fff
+```
 
 ### Phase 1 -- Land & Foundation
 - Identify and secure the right property in Southern Vermont
@@ -118,6 +233,23 @@ Unified Sanctuaries blends **sociocracy** and **holacracy** principles into a co
 ---
 
 ## Ecosystem & Strategic Partnerships
+
+```mermaid
+flowchart TD
+    US["UNIFIED SANCTUARIES\nLand-Based Village\nSouthern Vermont"]
+
+    KE["KINSHIP EARTH\nRegenerative Capital\nGlobal"] -.-|"Case study;\nfirewalled funding"| US
+    PP["PLANETARY PARTY\nCoordination Protocol\nGlobal"] -.-|"Can host\ngatherings"| US
+    PT["PERMATOURS\nAction Network\nNortheast"] -.-|"One hub among\nmany; trainings"| US
+
+    US -.-|"Open-source\nblueprint"| WIDER["WIDER MOVEMENT\nOther communities\nadapt the model"]
+
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style WIDER fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
 
 Unified Sanctuaries is one node in a broader ecosystem of regenerative projects:
 

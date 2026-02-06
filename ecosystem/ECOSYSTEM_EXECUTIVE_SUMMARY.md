@@ -10,12 +10,35 @@
 
 Four initiatives -- operating at local, bioregional, and global scales -- form a coherent arc of regenerative systems change. Each answers a distinct question that the others cannot:
 
-| Initiative | Core Question | Scale |
-|------------|--------------|-------|
-| **Kinship Earth** | How does money move differently? | Global |
-| **Planetary Party Protocol** | How do we coordinate without centralizing? | Global |
-| **Permatours** | How do people learn and build together? | Northeast Bioregion |
-| **Unified Sanctuaries** | What does this look like when rooted in land? | Local (Southern Vermont) |
+```mermaid
+flowchart TD
+    subgraph GLOBAL["GLOBAL SCALE"]
+        KE["Kinship Earth\n---\nHow does money\nmove differently?"]
+        PP["Planetary Party Protocol\n---\nHow do we coordinate\nwithout centralizing?"]
+    end
+
+    subgraph BIOREGIONAL["NORTHEAST BIOREGION"]
+        PT["Permatours\n---\nHow do people learn\nand build together?"]
+    end
+
+    subgraph LOCAL["LOCAL -- Southern Vermont"]
+        US["Unified Sanctuaries\n---\nWhat does this look like\nwhen rooted in land?"]
+    end
+
+    KE -->|"Capital"| NEED["CAPITAL\nCOORDINATION\nCAPACITY\nPLACE"]
+    PP -->|"Coordination"| NEED
+    PT -->|"Capacity"| NEED
+    US -->|"Place"| NEED
+
+    style GLOBAL fill:#E3F2FD,stroke:#42A5F5,color:#000
+    style BIOREGIONAL fill:#E8F5E9,stroke:#4CAF50,color:#000
+    style LOCAL fill:#EFEBE9,stroke:#8D6E63,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style NEED fill:#00796B,stroke:#004D40,color:#fff
+```
 
 Together, they address the full spectrum of what regenerative transformation requires: **capital**, **coordination**, **capacity**, and **place**. They are nested, permeable systems -- not a circular pipeline. Each weaves with many other organizations, people, and ecosystems beyond this constellation. Capital, people, and ideas flow in and out -- not around in a closed circuit. This is open-system regeneration, not vertical integration.
 
@@ -34,10 +57,21 @@ All four are stewarded by **Syd Harvey Griffith** -- community organizer, moveme
 Kinship Earth is the financial nervous system of the regenerative movement. It stewards **Flow Funding** -- a participatory, trust-based grantmaking model pioneered by Marian Rockefeller Weber that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust.
 
 **How Flow Funding Works:**
-1. **Identify** trusted community leaders through Flow Fund Advisors with deep bioregional ties
-2. **Deploy** unrestricted funds -- communities decide how, when, and where capital moves
-3. **Report** through lightweight, story-based accountability -- not compliance paperwork
-4. **Recommend** the next cohort of Flow Funders, creating a self-perpetuating, decentralized network
+
+```mermaid
+flowchart LR
+    S1["1. IDENTIFY\nTrusted community leaders\nthrough Flow Fund Advisors\nwith deep bioregional ties"]
+    S2["2. DEPLOY\nUnrestricted funds --\ncommunities decide how,\nwhen, and where capital moves"]
+    S3["3. REPORT\nLightweight, story-based\naccountability -- not\ncompliance paperwork"]
+    S4["4. RECOMMEND\nNext cohort of Flow Funders\ncreating a self-perpetuating\ndecentralized network"]
+
+    S1 --> S2 --> S3 --> S4 --> S1
+
+    style S1 fill:#42A5F5,stroke:#1565C0,color:#fff
+    style S2 fill:#66BB6A,stroke:#43A047,color:#fff
+    style S3 fill:#FFA726,stroke:#F57C00,color:#fff
+    style S4 fill:#AB47BC,stroke:#7B1FA2,color:#fff
+```
 
 **What Makes It Different:**
 Traditional philanthropy locks up 93% of assets in endowments, burdens changemakers with applications, and enforces top-down control. Flow Funding inverts this: it is invitation-driven, community-controlled, organized by bioregions rather than political boundaries, and governed by trust and relationship rather than donor preference. Indigenous peoples protect 80% of the world's biodiversity but receive less than 1% of climate finance -- Flow Funding is designed to correct these structural failures.
@@ -77,39 +111,71 @@ The core insight: **how resources flow is inseparable from how communities gathe
 
 **Three Integrated Layers:**
 
-| Layer | Description |
-|-------|-------------|
-| **A Meme** | An open-source cultural invitation for regenerative celebration anywhere on Earth |
-| **A Living System** | A federated network of bioregional nodes, Flow Funds, nine functional Guilds, intelligence dashboards, and embassies |
-| **A Cultural Technology** | A five-phase Protocol guiding communities through sensing, mapping, resourcing, celebrating, and regenerating |
+```mermaid
+flowchart TD
+    MEME["A MEME\nOpen-source cultural invitation\nfor regenerative celebration\nanywhere on Earth"]
+    LIVING["A LIVING SYSTEM\nFederated network of bioregional\nnodes, Flow Funds, nine Guilds,\ndashboards, and embassies"]
+    TECH["A CULTURAL TECHNOLOGY\nFive-phase Protocol guiding\ncommunities through sensing,\nmapping, resourcing, celebrating,\nand regenerating"]
+
+    MEME --> LIVING --> TECH
+    TECH -.->|"Cycle\nrenews"| MEME
+
+    style MEME fill:#FFF9C4,stroke:#F9A825,color:#000
+    style LIVING fill:#FFE082,stroke:#FFA000,color:#000
+    style TECH fill:#F9A825,stroke:#F57F17,color:#000
+```
 
 **The Five-Phase Protocol:**
 
 Communities move through a living spiral rhythm:
 
-| Phase | Name | What Happens |
-|-------|------|-------------|
-| 1 | **SENSE** | Deep listening to place, people, histories, and futures through circles, assemblies, and ritual |
-| 2 | **SEE** | Collective mapping and meaning-making -- revealing patterns, leverage points, and possibilities |
-| 3 | **FLOW** | Resources move toward what communities have named as vital, through trust-based Flow Funds |
-| 4 | **CELEBRATE** | Festivals, ceremonies, and civic gatherings activate projects, seed funding, and build relational momentum |
-| 5 | **REGENERATE** | Communities track impact, harvest lessons, and reinvest learning into the next cycle |
+```mermaid
+flowchart LR
+    S["SENSE\nDeep listening\nto place, people,\nhistories, futures"]
+    SE["SEE\nCollective mapping\nand meaning-making\nrevealing patterns"]
+    F["FLOW\nResources move\ntoward what\ncommunities name vital"]
+    C["CELEBRATE\nFestivals, ceremonies,\ncivic gatherings\nactivate projects"]
+    R["REGENERATE\nTrack impact,\nharvest lessons,\nreinvest learning"]
+
+    S --> SE --> F --> C --> R
+    R -.->|"Next cycle"| S
+
+    style S fill:#E1BEE7,stroke:#AB47BC,color:#000
+    style SE fill:#C5CAE9,stroke:#5C6BC0,color:#000
+    style F fill:#B2DFDB,stroke:#26A69A,color:#000
+    style C fill:#FFF9C4,stroke:#F9A825,color:#000
+    style R fill:#C8E6C9,stroke:#66BB6A,color:#000
+```
 
 Each cycle produces lasting "positive-trace" infrastructure: gardens, governance models, strengthened relationships, water systems, and ongoing community capacity for collective action.
 
 **Nine Functional Guilds:**
 
-| Guild | Focus |
-|-------|-------|
-| Living Systems & Solutions | Land, food, water, energy, ecological restoration |
-| Capacity Building | Training, healing, leadership development |
-| Regenerative Capital Flows | Flow Funds, investment, multi-capital design |
-| Governance | Participatory systems, collective decision-making, legal scaffolding |
-| Events | Gatherings, festivals, cultural activations |
-| Storytelling | Media, myth, narrative infrastructure |
-| Bioregional Intelligence Dashboard | Sense-making, mapping, data collection, impact visibility |
-| Tech | Regenerative tooling and interoperability support |
-| Ecosystem Weaving | Cross-guild synergy and coordination |
+```mermaid
+flowchart TD
+    PPP["PLANETARY PARTY PROTOCOL\nNine Functional Guilds"]
+
+    PPP --> G1["Living Systems\n& Solutions"]
+    PPP --> G2["Capacity\nBuilding"]
+    PPP --> G3["Regenerative\nCapital Flows"]
+    PPP --> G4["Governance"]
+    PPP --> G5["Events"]
+    PPP --> G6["Storytelling"]
+    PPP --> G7["Bioregional\nIntelligence"]
+    PPP --> G8["Tech"]
+    PPP --> G9["Ecosystem\nWeaving"]
+
+    style PPP fill:#F9A825,stroke:#F57F17,color:#000
+    style G1 fill:#C8E6C9,stroke:#66BB6A,color:#000
+    style G2 fill:#BBDEFB,stroke:#42A5F5,color:#000
+    style G3 fill:#FFD54F,stroke:#FFC107,color:#000
+    style G4 fill:#D1C4E9,stroke:#7E57C2,color:#000
+    style G5 fill:#FFCCBC,stroke:#FF7043,color:#000
+    style G6 fill:#F8BBD0,stroke:#EC407A,color:#000
+    style G7 fill:#B2EBF2,stroke:#26C6DA,color:#000
+    style G8 fill:#CFD8DC,stroke:#78909C,color:#000
+    style G9 fill:#DCEDC8,stroke:#9CCC65,color:#000
+```
 
 Guilds are open participation structures -- not departments -- that anyone can join and contribute through.
 
@@ -154,6 +220,25 @@ Permatours is the hands-on action engine that mobilizes people into regenerative
 
 **Next Evolution -- Three Dimensions:**
 
+```mermaid
+flowchart TD
+    PT["PERMATOURS\nNext Evolution"]
+
+    PT --> MAN["MUTUAL AID NETWORK\nDistributed working circles\nShared agreements (Covenant)\nCommunity assemblies"]
+    PT --> TOK["REGENERATIVE TOKENOMICS\nUtility Tokens (marketplace)\nVoice Tokens (governance)\nSeparated by design"]
+    PT --> CH["CHAPTERS MODEL\nReplicable local chapters\nShared infrastructure\nThree activation pathways"]
+
+    MAN --> OUT["Resources flow outward\nto 40+ community hubs\nacross the Northeast"]
+    TOK --> OUT
+    CH --> OUT
+
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style MAN fill:#C8E6C9,stroke:#81C784,color:#000
+    style TOK fill:#FFF9C4,stroke:#FFF176,color:#000
+    style CH fill:#BBDEFB,stroke:#90CAF9,color:#000
+    style OUT fill:#E8F5E9,stroke:#A5D6A7,color:#000
+```
+
 1. **Mutual Aid Network:** Restructuring into distributed working circles (Event Production, Communications, Conflict Resolution, Grant Writing, Mutual Aid & Rapid Response, Education) operating within shared agreements (the Permatours Covenant) with consistent event rhythms and transparent governance via community assemblies.
 
 2. **Regenerative Tokenomics:** A dual-token system -- Utility Tokens (UT) as community currency for marketplace trades, and Voice Tokens (VT) as non-transferable governance tokens. Economic power, governance power, and cultural reputation are intentionally separated. Anti-speculation safeguards prevent wealth hoarding. Designed to be expandable as a Northeast bioregional token and adaptable for other bioregions.
@@ -174,13 +259,27 @@ Unified Sanctuaries is where the abstract becomes embodied. It is a regenerative
 
 **The Four Pillars:**
 
-| Pillar | Description | Annual Revenue Potential |
-|--------|-------------|------------------------|
-| **Permaculture Farm & Education Center** | Regenerative agriculture, food sovereignty, cafe, forest school | $315K -- $1M+ |
-| **Retreat & Healing Arts Center + Bathhouse** | Somatic therapy, art therapy, herbalism, spa, makerspace | $570K -- $1.75M |
-| **Event Venue + Innovation Hall** | Festivals, concerts, weddings, markets, conferences, AV production | $310K -- $1.16M |
-| **Community Living / Regenerative Neighborhood** | Eco-homes, tiny dwellings, shared stewardship for 20+ households | $195K -- $580K |
-| **Combined** | | **$1.4M -- $4.5M+ annually at maturity** |
+```mermaid
+flowchart TD
+    US["UNIFIED SANCTUARIES\nRegenerative Village\nSouthern Vermont"]
+
+    US --> FARM["Permaculture Farm &\nEducation Center\n$315K -- $1M+"]
+    US --> RETREAT["Retreat & Healing Arts\nCenter + Bathhouse\n$570K -- $1.75M"]
+    US --> EVENT["Event Venue +\nInnovation Hall\n$310K -- $1.16M"]
+    US --> LIVING["Community Living /\nRegen Neighborhood\n$195K -- $580K"]
+
+    FARM --> TOTAL["COMBINED ANNUAL\nREVENUE POTENTIAL\n$1.4M -- $4.5M+"]
+    RETREAT --> TOTAL
+    EVENT --> TOTAL
+    LIVING --> TOTAL
+
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style FARM fill:#A5D6A7,stroke:#66BB6A,color:#000
+    style RETREAT fill:#CE93D8,stroke:#AB47BC,color:#000
+    style EVENT fill:#FFE082,stroke:#FFD54F,color:#000
+    style LIVING fill:#90CAF9,stroke:#64B5F6,color:#000
+    style TOTAL fill:#EF5350,stroke:#C62828,color:#fff
+```
 
 **Economic Model:**
 - **Sol Token (Utility):** Community currency exchangeable for goods and services within the ecosystem
@@ -202,25 +301,53 @@ Unified Sanctuaries is where the abstract becomes embodied. It is a regenerative
 
 These projects are nested at different scales -- not four equal pillars that symmetrically feed each other:
 
-```
-GLOBAL ─────────────────────────────────────────────────────────
-│  Kinship Earth          Planetary Party Protocol              │
-│  (Financial             (Cultural & Coordination              │
-│   Infrastructure)        Layer)                               │
-│                                                               │
-│  ┌─ NORTHEAST BIOREGION ──────────────────────────────────┐  │
-│  │  Permatours                                             │  │
-│  │  (Capacity Building & Mutual Aid Network)               │  │
-│  │                                                         │  │
-│  │  ┌─ LOCAL (Southern Vermont) ───────────────────────┐  │  │
-│  │  │  Unified Sanctuaries                              │  │  │
-│  │  │  (Land-Based Regenerative Village)                 │  │  │
-│  │  └──────────────────────────────────────────────────┘  │  │
-│  └────────────────────────────────────────────────────────┘  │
-└───────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    subgraph GLOBAL["GLOBAL SCALE"]
+        KE["KINSHIP EARTH\nFinancial Infrastructure\n---\nMoves capital through\ntrust-based Flow Funding"]
+        PP["PLANETARY PARTY PROTOCOL\nCultural & Coordination Layer\n---\nAligns communities without\ncentralizing control"]
+    end
+
+    subgraph NE["NORTHEAST BIOREGION"]
+        PT["PERMATOURS\nCapacity Building &\nMutual Aid Network\n---\n50+ events, 40+ sites\n1,000+ active members"]
+
+        subgraph VT["LOCAL -- Southern Vermont"]
+            US["UNIFIED SANCTUARIES\nLand-Based\nRegenerative Village\n---\nFour-pillar model\nOpen-source blueprint"]
+        end
+    end
+
+    KE -.->|"Capital flows\nto communities"| PT
+    PP -.->|"Coordination &\ncultural infrastructure"| PT
+    PT -.->|"One hub\namong many"| US
+
+    style GLOBAL fill:#E3F2FD,stroke:#42A5F5,color:#000
+    style NE fill:#E8F5E9,stroke:#4CAF50,color:#000
+    style VT fill:#EFEBE9,stroke:#8D6E63,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
 ```
 
 ### Flow of Support and Activation
+
+```mermaid
+flowchart TD
+    KE["KINSHIP EARTH\nMoves capital &\nbuilds financial infrastructure"]
+    PP["PLANETARY PARTY\nCoordinates culture,\ncollaboration & activation"]
+    PT["PERMATOURS\nMobilizes people into\nhands-on action"]
+    US["UNIFIED SANCTUARIES\nEmbodies the work\non land"]
+
+    KE -->|"Supports with\ncapital & trust-based\nfinancial infrastructure"| PP
+    PP -->|"Activates & weaves\ncoordination, culture,\nand shared rhythm"| PT
+    PT -->|"Grounds into place\nthrough installations,\nworkshops, mutual aid"| US
+    US -.->|"Feeds learning\nback into\nthe ecosystem"| KE
+
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+```
 
 **Kinship Earth** moves capital and builds trust-based financial infrastructure. It funds people and bioregional efforts globally, creating the economic conditions for regenerative work to happen.
 
@@ -231,6 +358,26 @@ The Protocol **activates and weaves** into **Permatours**, which mobilizes peopl
 Permatours **grounds into place** at **Unified Sanctuaries**, which embodies the work on land. It hosts gatherings, residents, businesses, and experimentation. It feeds learning back into the ecosystem. It serves as a hub for the bioregional/regeneration/environmental movement, bioregional congresses, and the operational work of Permatours, the Planetary Party, and Kinship Earth.
 
 ### Specific Interconnection Points
+
+```mermaid
+flowchart TD
+    KE["KINSHIP\nEARTH"]
+    PP["PLANETARY\nPARTY"]
+    PT["PERMATOURS"]
+    US["UNIFIED\nSANCTUARIES"]
+
+    KE <-->|"Fiscal sponsor\nInitial funder\nStorytelling partner\nCapital Flows Guild\nFormalized via MOUs"| PP
+    KE <-->|"Flow funds flow\noutward through PT\nto communities\nImpact data feeds back"| PT
+    KE <-->|"Case study reference\nFirewalled funding\nOpen-source blueprint\nserves field-building"| US
+    PP <-->|"Bioregional implementation\nActivation Event Series\nIntelligence Dashboard\nCultural infrastructure"| PT
+    PP <-->|"Hosts PP gatherings\nEvent venue activation\nProtocol experimentation\nPlace-based practice"| US
+    PT <-->|"One hub among many\nProjects & trainings\nCapacity building\nNot the center"| US
+
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+```
 
 **Kinship Earth <-> Planetary Party Protocol:**
 - Kinship Earth serves as the **fiscal sponsor** for the Planetary Party, receiving charitable donations and grant funding to support the PPP ecosystem
@@ -273,17 +420,53 @@ Permatours **grounds into place** at **Unified Sanctuaries**, which embodies the
 
 The Bioregional Activation Event Series (launching Northeast, Q1 2026) is the most concrete example of all four platforms operating in concert:
 
-- **Kinship Earth** provides financial backing and Flow Funding readiness
-- **Planetary Party Protocol** provides the coordination framework, governance design, and cultural infrastructure
-- **Permatours** provides the ground-level network, community hubs, volunteer mobilization, and hands-on programming
-- **Unified Sanctuaries** provides a potential venue and land-based context for activation events
-- **The Bioregional Embassy** (an aligned collaborator) contributes spatial intelligence and diplomatic agency
+```mermaid
+flowchart TD
+    BAES["BIOREGIONAL ACTIVATION\nEVENT SERIES\nNortheast Q1 2026"]
+
+    KE["Kinship Earth\nFinancial backing &\nFlow Funding readiness"] --> BAES
+    PP["Planetary Party\nCoordination framework,\ngovernance, cultural infra"] --> BAES
+    PT["Permatours\nGround-level network,\nhubs, volunteers, programming"] --> BAES
+    US["Unified Sanctuaries\nPotential venue &\nland-based context"] --> BAES
+    BE["Bioregional Embassy\nSpatial intelligence &\ndiplomatic agency"] --> BAES
+
+    BAES --> O1["Technology innovators\nSpatial Network, Catalist,\nSocial Roots, Hylo, Bloom"]
+    BAES --> O2["Land-based communities\nTrue North, Hudson Harmonic,\nWally Farms"]
+    BAES --> O3["Sessions on coordination,\nstorytelling, data, credits,\nmutual aid, governance"]
+
+    style BAES fill:#FF7043,stroke:#D84315,color:#fff
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style BE fill:#78909C,stroke:#455A64,color:#fff
+    style O1 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style O2 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style O3 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
 
 The series features interactive presentations from technology innovators (Spatial Network, Catalist, Social Roots, Hylo, Bloom Network) alongside direct contributions from land-based communities (True North, Hudson Harmonic, Wally Farms). Sessions cover coordination tools, storytelling and fundraising, data collection, biocultural/water/carbon credit access, mutual aid and living systems, and governance structures.
 
 ---
 
 ## Positioning Within the Planetary Party Protocol
+
+```mermaid
+flowchart TD
+    PPP["PLANETARY PARTY PROTOCOL\nCoordination, Cultural &\nGovernance Layer"]
+
+    PPP --> KE_R["Kinship Earth\nFINANCIAL INFRASTRUCTURE\nStewarding & flowing capital\nthrough trust-based mechanisms"]
+    PPP --> PT_R["Permatours\nBIOREGIONAL IMPLEMENTATION\nGrounding practices, data,\nand coordination in the NE"]
+    PPP --> US_R["Unified Sanctuaries\nPLACE-BASED HUB\nHosting gatherings, experiments,\nand land-based practice"]
+
+    KE_R & PT_R & US_R --> ALIGN["Aligned through\nshared protocol --\nnot organizational control"]
+
+    style PPP fill:#F9A825,stroke:#F57F17,color:#000
+    style KE_R fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PT_R fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US_R fill:#8D6E63,stroke:#5D4037,color:#fff
+    style ALIGN fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
 
 Permatours, Kinship Earth, and Unified Sanctuaries operate **within** the Planetary Party Protocol ecosystem. The PPP provides the coordination, cultural, and governance layer that allows multiple initiatives to move together without collapsing into a single organization.
 
@@ -298,6 +481,47 @@ Within this ecosystem:
 
 ## Why This Is Not a Closed Loop
 
+```mermaid
+flowchart TD
+    subgraph OPEN["OPEN SYSTEM -- Not a Closed Loop"]
+        KE["Kinship Earth\n12+ bioregions\nglobally"]
+        PP["Planetary Party\nAny community\ncan plug in"]
+        PT["Permatours\n40+ autonomous\npartner sites"]
+        US["Unified Sanctuaries\nOpen-source blueprint\nfor any community"]
+    end
+
+    KE --> EXT1["Grassroots leaders &\ncommunities worldwide"]
+    PP --> EXT2["Groups far beyond\nthis constellation"]
+    PT --> EXT3["NE communities\nwith own missions"]
+    US --> EXT4["Communities adapting\nthe blueprint globally"]
+
+    ALIGNED["ALIGNED ORGANIZATION NETWORK"] --> A1["The Pivot Earth"]
+    ALIGNED --> A2["Holomovement"]
+    ALIGNED --> A3["Nalu'ea Living Trust"]
+    ALIGNED --> A4["Bioregional Embassy"]
+    ALIGNED --> A5["Micelio Media"]
+    ALIGNED --> A6["Mycelial Law"]
+    ALIGNED --> A7["TerraLux Spatial Network"]
+
+    style OPEN fill:#E8F5E9,stroke:#4CAF50,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style EXT1 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style EXT2 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style EXT3 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style EXT4 fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style ALIGNED fill:#00796B,stroke:#004D40,color:#fff
+    style A1 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A2 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A3 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A4 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A5 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A6 fill:#B2DFDB,stroke:#80CBC4,color:#000
+    style A7 fill:#B2DFDB,stroke:#80CBC4,color:#000
+```
+
 A critical design principle runs through the entire ecosystem: **these are participants in a wider movement, not the movement itself.**
 
 **None of these depend exclusively on one another.** Each weaves with many other organizations, people, and ecosystems. Capital, people, and ideas flow in and out -- not around in a closed circuit.
@@ -310,27 +534,30 @@ A critical design principle runs through the entire ecosystem: **these are parti
 
 **Unified Sanctuaries** is "a node, not the trunk" -- one expression among many. Its open-source blueprint is explicitly designed so other communities can adapt it without any connection to this ecosystem.
 
-**The Aligned Organization Network** extends well beyond these four:
-- The Pivot Earth -- Women-led ecosystem weaver
-- Holomovement -- Movement of movements for conscious collaboration
-- Nalu'ea Living Trust -- Intergenerational stewardship vehicle
-- Bioregional Embassy -- Diplomatic agency bridging governance, finance, and culture
-- Micelio Media -- Storytelling studio amplifying bioregional voices
-- Mycelial Law -- Earth-law practice exploring biomimicry-inspired legal structures
-- TerraLux Spatial Network -- Innovation lab and spatial intelligence platform
-
 ---
 
 ## The Connective Tissue: Live with Syd
 
-Live with Syd is the nervous system that makes the four platforms one living ecosystem. Recurring co-creative live sessions are where the ecosystem meets itself, processes together, builds coherence, and invites others in.
+```mermaid
+flowchart TD
+    LWS["LIVE WITH SYD\nThe Nervous System\nWeekly Co-Creative Sessions"]
 
-| Day | Theme | Platform Served |
-|-----|-------|-----------------|
-| **Monday** | Regenerative Capital Flows | Kinship Earth + whole ecosystem |
-| **Wednesday** | Planetary Party Ecosystem | Planetary Party + governance layer |
-| **Friday** | Unified Sanctuaries Development | Unified Sanctuaries + land projects |
-| **Monthly** | Heart Sharing & Grief Transmutation | Whole ecosystem (emotional infrastructure) |
+    LWS --> MON["MONDAY\nRegenerative Capital Flows\nKinship Earth +\nwhole ecosystem"]
+    LWS --> WED["WEDNESDAY\nPlanetary Party Ecosystem\nPlanetary Party +\ngovernance layer"]
+    LWS --> FRI["FRIDAY\nUnified Sanctuaries\nDevelopment +\nland projects"]
+    LWS --> MTH["MONTHLY\nHeart Sharing &\nGrief Transmutation\nWhole ecosystem"]
+
+    MON & WED & FRI & MTH --> CONTENT["CONTENT & STORYTELLING PIPELINE\nImpact narratives for KE fundraising\nEvent media for PP cultural reach\nTour docs for PT network storytelling\nDev updates for US donor pipeline"]
+
+    style LWS fill:#00796B,stroke:#004D40,color:#fff
+    style MON fill:#42A5F5,stroke:#1565C0,color:#fff
+    style WED fill:#F9A825,stroke:#F57F17,color:#000
+    style FRI fill:#8D6E63,stroke:#5D4037,color:#fff
+    style MTH fill:#CE93D8,stroke:#AB47BC,color:#000
+    style CONTENT fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
+
+Live with Syd is the nervous system that makes the four platforms one living ecosystem. Recurring co-creative live sessions are where the ecosystem meets itself, processes together, builds coherence, and invites others in.
 
 These sessions generate a content and storytelling pipeline that serves every platform: impact narratives for Kinship Earth's fundraising, event media for Planetary Party's cultural reach, tour documentation for Permatours' network storytelling, and development updates for Unified Sanctuaries' resident and donor pipeline.
 
@@ -355,27 +582,79 @@ All four platforms are anchored by consistent principles:
 
 The leadership team weaves across all four platforms, ensuring coherence while maintaining distinct operational integrity:
 
-| Person | Kinship Earth | Planetary Party | Permatours | Unified Sanctuaries |
-|--------|:---:|:---:|:---:|:---:|
-| **Syd Harvey Griffith** | Executive Director | Lead Architect | Co-Founder | Lead Visionary |
-| **Michael / Fuego** | Financial Operations | Festival Production, Financial Ops | -- | Accounting, Festival Production |
-| **Josie Watson** | Board Member | Core Steward, Mycelial Law | -- | Earth Law, Governance Design |
-| **Eslerh Oreste** | -- | Film, Multimedia, Ritual Theater | -- | Film, Multimedia, Healing Arts |
-| **Pato** | -- | -- | Permaculture, Nonprofit Mgmt | Permaculture, Building |
-| **Scotty** | -- | -- | Soil Science, Natural Building | Soil Science, Infrastructure |
-| **Susan Davis Mora** | Co-Founder | -- | -- | -- |
-| **Juan Carlos Kaiten** | -- | Vision Holder, Core Steward | -- | -- |
+```mermaid
+flowchart TD
+    subgraph TEAM["SHARED LEADERSHIP TEAM"]
+        SYD["Syd Harvey Griffith\nExec Dir | Lead Architect\nCo-Founder | Lead Visionary"]
+        MF["Michael / Fuego\nFinancial Ops | Festival Production"]
+        JW["Josie Watson\nBoard | Core Steward\nEarth Law | Governance"]
+        EO["Eslerh Oreste\nFilm | Multimedia\nRitual Theater | Healing"]
+        PA["Pato\nPermaculture | Building\nNonprofit Mgmt"]
+        SC["Scotty\nSoil Science | Natural Building\nInfrastructure"]
+        SDM["Susan Davis Mora\nCo-Founder"]
+        JCK["Juan Carlos Kaiten\nVision Holder | Core Steward"]
+    end
+
+    SYD --> KE["Kinship Earth"] & PP["Planetary Party"] & PT["Permatours"] & US["Unified Sanctuaries"]
+    MF --> KE & PP & US
+    JW --> KE & PP & US
+    EO --> PP & US
+    PA --> PT & US
+    SC --> PT & US
+    SDM --> KE
+    JCK --> PP
+
+    style TEAM fill:#F5F5F5,stroke:#9E9E9E,color:#000
+    style SYD fill:#00796B,stroke:#004D40,color:#fff
+    style MF fill:#78909C,stroke:#455A64,color:#fff
+    style JW fill:#78909C,stroke:#455A64,color:#fff
+    style EO fill:#78909C,stroke:#455A64,color:#fff
+    style PA fill:#78909C,stroke:#455A64,color:#fff
+    style SC fill:#78909C,stroke:#455A64,color:#fff
+    style SDM fill:#78909C,stroke:#455A64,color:#fff
+    style JCK fill:#78909C,stroke:#455A64,color:#fff
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+```
 
 ---
 
 ## Combined Capital Strategy
 
-| Platform | Near-Term Target | Medium-Term Target | Revenue Model |
-|----------|-----------------|-------------------|---------------|
-| **Kinship Earth** | $2M by end of 2026 | $20M by 2028 | Philanthropic donations, foundation grants, flow fund administration |
-| **Planetary Party** | $5M by end of 2026 | $20M by 2028 | Events, sponsorships, media licensing, grants, donor cultivation |
-| **Permatours** | $1M by end of 2026 | -- | Grants, donations, fiscal sponsorship fees, event revenue, tokenized marketplace |
-| **Unified Sanctuaries** | $10M by end of 2026 | $100M by 2028 | Earned revenue ($1.4M-$4.5M/yr at maturity), impact investment, philanthropy, memberships |
+```mermaid
+flowchart LR
+    subgraph TARGETS["COMBINED CAPITAL TARGETS"]
+        KE["Kinship Earth\n$2M by 2026\n$20M by 2028"]
+        PP["Planetary Party\n$5M by 2026\n$20M by 2028"]
+        PT["Permatours\n$1M by 2026"]
+        US["Unified Sanctuaries\n$10M by 2026\n$100M by 2028"]
+    end
+
+    subgraph SOURCES["REVENUE MODELS"]
+        KE_S["Philanthropic donations\nFoundation grants\nFlow fund admin"]
+        PP_S["Events & sponsorships\nMedia licensing\nGrants & donors"]
+        PT_S["Grants & donations\nFiscal sponsorship fees\nEvent revenue & tokens"]
+        US_S["Earned revenue\n$1.4M-$4.5M/yr\nImpact investment\nMemberships"]
+    end
+
+    KE --- KE_S
+    PP --- PP_S
+    PT --- PT_S
+    US --- US_S
+
+    style TARGETS fill:#E8F5E9,stroke:#4CAF50,color:#000
+    style SOURCES fill:#FFF9C4,stroke:#FFF176,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style KE_S fill:#BBDEFB,stroke:#90CAF9,color:#000
+    style PP_S fill:#FFF9C4,stroke:#FFF176,color:#000
+    style PT_S fill:#C8E6C9,stroke:#A5D6A7,color:#000
+    style US_S fill:#EFEBE9,stroke:#BCAAA4,color:#000
+```
 
 Capital flows through the ecosystem -- not in a closed circle, but along trust-based pathways that serve many communities. Kinship Earth raises and deploys philanthropic capital. The Planetary Party generates revenue through cultural activation and coordinates resource flows. Permatours mobilizes earned and granted resources into community capacity. Unified Sanctuaries generates earned revenue through its four-pillar model while attracting impact investment.
 
@@ -384,6 +663,28 @@ Capital flows through the ecosystem -- not in a closed circle, but along trust-b
 ## The Case for the Ecosystem
 
 The convergence of ecological, social, economic, and governance crises demands more than isolated interventions. The regenerative movement is no longer nascent -- it is a field phenomenon. Builders, organizers, funders, and cultural workers across every continent are arriving at the same conclusions independently. What is missing is not vision or will, but **coordination infrastructure**.
+
+```mermaid
+flowchart TD
+    CRISIS["Ecological, Social, Economic\n& Governance Crises"]
+
+    CRISIS -->|"Demands"| INFRA["COORDINATION\nINFRASTRUCTURE"]
+
+    INFRA --> FIN["FINANCIAL\nInfrastructure\nthat reaches grassroots\n---\nKinship Earth"]
+    INFRA --> COORD["COORDINATION\nInfrastructure\nthat aligns without centralizing\n---\nPlanetary Party"]
+    INFRA --> CAP["CAPACITY\nInfrastructure\nthat builds skills & mutual aid\n---\nPermatours"]
+    INFRA --> PHYS["PHYSICAL\nInfrastructure\nthat embodies principles on land\n---\nUnified Sanctuaries"]
+
+    FIN & COORD & CAP & PHYS --> RES["RESILIENT ECOSYSTEM\nNo single point of failure\nEach strengthens the others\nAll serve wider communities"]
+
+    style CRISIS fill:#EF5350,stroke:#C62828,color:#fff
+    style INFRA fill:#00796B,stroke:#004D40,color:#fff
+    style FIN fill:#42A5F5,stroke:#1565C0,color:#fff
+    style COORD fill:#F9A825,stroke:#F57F17,color:#000
+    style CAP fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style PHYS fill:#8D6E63,stroke:#5D4037,color:#fff
+    style RES fill:#00796B,stroke:#004D40,color:#fff
+```
 
 This ecosystem provides that infrastructure at every layer:
 

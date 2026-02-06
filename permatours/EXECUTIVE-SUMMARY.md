@@ -23,6 +23,29 @@ Permatours is not a single place or a traditional nonprofit program. It is a **l
 
 ## The Core Model: Permaculture Action Network
 
+```mermaid
+flowchart TD
+    PT["PERMATOURS\nCentral Network\n---\n2,000 subscribers\n1,000 active members"]
+
+    PT --> H1["Sacred Nectar\nSanctuary (NH)"]
+    PT --> H2["Diggers\nCo-Op (ME)"]
+    PT --> H3["Rooted Heart\nFarm (ME)"]
+    PT --> H4["Wild Island\nCenter (ME)"]
+    PT --> H5["Orange Peel\nBakery (MA)"]
+    PT --> H6["40+ More\nPartner Sites"]
+
+    H1 & H2 & H3 & H4 & H5 & H6 --> OUT["RESOURCES FLOW OUTWARD\nTo communities & ecosystems"]
+
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style H1 fill:#C8E6C9,stroke:#81C784,color:#000
+    style H2 fill:#C8E6C9,stroke:#81C784,color:#000
+    style H3 fill:#C8E6C9,stroke:#81C784,color:#000
+    style H4 fill:#C8E6C9,stroke:#81C784,color:#000
+    style H5 fill:#C8E6C9,stroke:#81C784,color:#000
+    style H6 fill:#C8E6C9,stroke:#81C784,color:#000
+    style OUT fill:#E8F5E9,stroke:#A5D6A7,color:#000
+```
+
 Permatours connects permaculture practitioners, land projects, and aligned organizations through hands-on action: natural building workshops, food forest installations, herbal education, community festivals, skill-shares, and mutual aid coordination. Every event is documented, creating an ongoing body of educational media and storytelling that amplifies impact and inspires replication.
 
 ### Programming Delivered (2021-2025)
@@ -37,10 +60,6 @@ Permatours connects permaculture practitioners, land projects, and aligned organ
 - The Northeast Eco Communities Convergence
 - Skill-sharing, volunteer coordination, and mutual aid rapid response
 
-### Partner Network
-
-40+ partner sites including Sacred Nectar Sanctuary (NH), Diggers Co-Op (ME), Rooted Heart Farm (ME), Wild Island Center (ME), Blackbirds Daughter Botanicals (NH), Orange Peel Bakery (Martha's Vineyard, MA), and dozens of community land trusts, urban farms, and homesteads.
-
 ### Network Scale
 
 2,000 email subscribers, 1,000 active members -- proven model for mobilizing volunteers, coordinating land-based projects, and co-creating educational experiences that build real capacity.
@@ -53,40 +72,88 @@ Permatours is evolving from a small team of under-resourced organizers into a **
 
 ### 1. Mutual Aid Network
 
-Restructuring into distributed working circles:
+```mermaid
+flowchart TD
+    COV["PERMATOURS COVENANT\nShared Agreements"]
 
-- **Event Production & Logistics** -- co-creating hands-on events
-- **Communications & Storytelling** -- documenting impact and amplifying partner communities
-- **Conflict Resolution & Care** -- trained mediators, accountability processes, community repair
-- **Grant Writing & Resource Mobilization** -- unlocking funding and flowing it to community hubs
-- **Mutual Aid & Rapid Response** -- pre-vetted volunteers, shared asset maps, emergency coordination
-- **Education & Skill-Sharing** -- curriculum development, educator coordination, knowledge exchange
+    COV --> EP["Event Production\n& Logistics"]
+    COV --> CS["Communications\n& Storytelling"]
+    COV --> CR["Conflict Resolution\n& Care"]
+    COV --> GW["Grant Writing &\nResource Mobilization"]
+    COV --> MA["Mutual Aid &\nRapid Response"]
+    COV --> ED["Education &\nSkill-Sharing"]
 
-Each circle operates within shared agreements (the Permatours Covenant) with transparent governance via community assemblies.
+    EP & CS & CR & GW & MA & ED --> ASM["COMMUNITY ASSEMBLIES\nTransparent Governance\nCollective Decision-Making"]
+
+    style COV fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style EP fill:#C8E6C9,stroke:#81C784,color:#000
+    style CS fill:#C8E6C9,stroke:#81C784,color:#000
+    style CR fill:#C8E6C9,stroke:#81C784,color:#000
+    style GW fill:#C8E6C9,stroke:#81C784,color:#000
+    style MA fill:#C8E6C9,stroke:#81C784,color:#000
+    style ED fill:#C8E6C9,stroke:#81C784,color:#000
+    style ASM fill:#2E7D32,stroke:#1B5E20,color:#fff
+```
+
+Restructuring into distributed working circles, each operating within shared agreements (the Permatours Covenant) with transparent governance via community assemblies.
 
 ### 2. Regenerative Tokenomics
 
-A dual-token system designed to recognize contributions, coordinate participation, and enable shared exchange -- without speculation or extraction:
+```mermaid
+flowchart LR
+    subgraph ECONOMIC["Economic Power"]
+        UT["UTILITY TOKEN\n1 UT = $1 USD\nNon-liquid\nMarketplace trades\nWorkshop access\nSkill exchanges"]
+    end
 
-**Utility Tokens (UT)** -- Community currency (1 UT = $1 USD, non-liquid) for marketplace trades, workshop access, skill exchanges, and mutual aid. Immediately earnable and spendable by anyone through verified labor.
+    subgraph GOVERNANCE["Governance Power"]
+        VT["VOICE TOKEN\nNon-transferable\n40 VT cap per person\n20% seasonal decay\nVoting on proposals\nNetwork decisions"]
+    end
 
-**Voice Tokens (VT)** -- Non-transferable governance tokens representing trust, consistency, and active participation. Used for voting on proposals and network decisions. Capped at 40 VT per person with 20% seasonal decay -- ensuring governance power reflects current participation, not historical accumulation.
+    subgraph REPUTATION["Cultural Reputation"]
+        REP["PARTICIPATION\nRecord\nCommunity standing\nNot tokenized"]
+    end
 
-**Key design principles:**
-- Economic power (UT), governance power (VT), and cultural reputation are intentionally separated
-- Anti-speculation safeguards: UT cannot convert to cash; VT cannot be traded; transfer limits prevent wealth hoarding
-- Seasonal assemblies review supply, marketplace health, and rotate roles
-- Designed to be expandable as a Northeast bioregional token and adaptable for other bioregions
+    UT x--x|"Intentionally\nseparated"| VT
+    VT x--x|"Intentionally\nseparated"| REP
+
+    style ECONOMIC fill:#FFF9C4,stroke:#FFF176,color:#000
+    style GOVERNANCE fill:#BBDEFB,stroke:#90CAF9,color:#000
+    style REPUTATION fill:#F3E5F5,stroke:#CE93D8,color:#000
+    style UT fill:#FFD54F,stroke:#FFC107,color:#000
+    style VT fill:#90CAF9,stroke:#42A5F5,color:#000
+    style REP fill:#CE93D8,stroke:#AB47BC,color:#000
+```
+
+A dual-token system designed to recognize contributions, coordinate participation, and enable shared exchange -- without speculation or extraction. Economic power (UT), governance power (VT), and cultural reputation are intentionally separated to prevent concentration.
 
 ### 3. Chapters Model
 
-A replicable model so communities can adapt Permatours locally while staying connected:
+```mermaid
+flowchart TD
+    CORE["PERMATOURS CORE\n501c3 Infrastructure"]
 
-- **Local chapters** activated by volunteer point-people in their bioregion
-- **Shared infrastructure** -- 501(c)(3) fiscal sponsorship, volunteer database, Discord coordination, marketing tools, educational resources
-- **Three activation pathways:** consulting, backend production, and co-hosted pilot events
-- **Hub criteria** -- partner sites provide affordable housing/stays, healthy food, educational gatherings, regenerative practices, and community benefit
-- **Global applicability** -- while currently Northeast-focused, designed to serve bioregions worldwide
+    CORE -->|"Fiscal sponsorship\nVolunteer database\nDiscord coordination\nMarketing tools\nEducational resources"| CH1["Chapter:\nBioregion A"]
+    CORE --> CH2["Chapter:\nBioregion B"]
+    CORE --> CH3["Chapter:\nBioregion C"]
+    CORE --> CH4["Future\nChapters"]
+
+    subgraph PATHS["Three Activation Pathways"]
+        P1["Consulting\nSupport"]
+        P2["Backend\nProduction"]
+        P3["Co-Hosted\nPilot Events"]
+    end
+
+    PATHS --> CH1 & CH2 & CH3
+
+    style CORE fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style CH1 fill:#C8E6C9,stroke:#81C784,color:#000
+    style CH2 fill:#C8E6C9,stroke:#81C784,color:#000
+    style CH3 fill:#C8E6C9,stroke:#81C784,color:#000
+    style CH4 fill:#E8F5E9,stroke:#C8E6C9,color:#000
+    style PATHS fill:#E8F5E9,stroke:#81C784,color:#000
+```
+
+A replicable model so communities can adapt Permatours locally while staying connected to the broader network.
 
 ---
 
@@ -125,6 +192,22 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 
 ## Development Phases
 
+```mermaid
+flowchart LR
+    P1["PHASE 1\nStrengthen &\nRestructure\n---\nContinue events\nForm working circles\nFormalize Covenant\nStrengthen 40+ hubs"]
+
+    P2["PHASE 2\nDeploy &\nScale\n---\nLaunch tokenomics\nActivate chapters\nCollect impact data\nBioregional exchange"]
+
+    P3["PHASE 3\nBlueprint &\nReplicate\n---\nDocument learnings\nPublish blueprints\nExpand beyond NE\nPPP implementation partner"]
+
+    P1 -->|"Network\nformalized"| P2
+    P2 -->|"Model\nproven"| P3
+
+    style P1 fill:#E8F5E9,stroke:#4CAF50,color:#000
+    style P2 fill:#66BB6A,stroke:#43A047,color:#fff
+    style P3 fill:#4CAF50,stroke:#2E7D32,color:#fff
+```
+
 ### Phase 1 -- Strengthen & Restructure
 - Continue hands-on, land-based learning events across the NE bioregion
 - Restructure into distributed working circles (Mutual Aid Network)
@@ -146,6 +229,24 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 ---
 
 ## Ecosystem & Strategic Partnerships
+
+```mermaid
+flowchart TD
+    PT["PERMATOURS\nAction Network\nNortheast"]
+
+    KE["KINSHIP EARTH"] -->|"Flow funds\noutward to\ncommunities"| PT
+    PP["PLANETARY PARTY"] -.-|"Bioregional\nimplementation\npartner"| PT
+    PT -.-|"One hub\namong many"| US["UNIFIED\nSANCTUARIES"]
+    PT -->|"Resources flow\noutward"| HUBS["40+ NE HUBS\nDistributed Nodes"]
+    PT -.-|"Connected through\nfounding team"| DIG["DIGGERS\nCOOPERATIVE"]
+
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style HUBS fill:#C8E6C9,stroke:#81C784,color:#000
+    style DIG fill:#E8F5E9,stroke:#A5D6A7,color:#000
+```
 
 | Partner Entity | Relationship |
 |---------------|-------------|

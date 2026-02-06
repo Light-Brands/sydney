@@ -29,6 +29,25 @@ We are witnessing converging crises -- a legitimacy crisis in institutions, a me
 
 ## The Core Model: Three Integrated Layers
 
+```mermaid
+flowchart TD
+    PP["THE PLANETARY PARTY"]
+
+    PP --> MEME["A MEME\nOpen-source cultural\ninvitation for regenerative\ncelebration anywhere"]
+    PP --> SYSTEM["A LIVING SYSTEM\nFederated bioregional nodes\nFlow Funds, 9 Guilds\nDashboards & Embassies"]
+    PP --> TECH["A CULTURAL TECHNOLOGY\nFive-phase Protocol\nSense > See > Flow >\nCelebrate > Regenerate"]
+
+    MEME --> OUTPUT["POSITIVE-TRACE\nINFRASTRUCTURE\nGardens, governance,\nwater systems,\nrelationships"]
+    SYSTEM --> OUTPUT
+    TECH --> OUTPUT
+
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style MEME fill:#FFF9C4,stroke:#FFF176,color:#000
+    style SYSTEM fill:#FFE082,stroke:#FFD54F,color:#000
+    style TECH fill:#FFD54F,stroke:#FFC107,color:#000
+    style OUTPUT fill:#00796B,stroke:#004D40,color:#fff
+```
+
 | Layer | Description |
 |-------|-------------|
 | **A Meme** | An open-source cultural invitation for communities to organize regenerative celebrations anywhere on Earth |
@@ -37,19 +56,53 @@ We are witnessing converging crises -- a legitimacy crisis in institutions, a me
 
 ### The Five-Phase Protocol
 
-Communities move through a living spiral rhythm cyclically:
+```mermaid
+flowchart LR
+    S["1. SENSE\nDeep listening\nCircles & ritual"]
+    SE["2. SEE\nCollective mapping\nMeaning-making"]
+    F["3. FLOW\nResources move\nTrust-based\nFlow Funds"]
+    C["4. CELEBRATE\nFestivals &\nceremonies\nBuild momentum"]
+    R["5. REGENERATE\nTrack impact\nHarvest lessons\nReinvest"]
 
-| Phase | Name | What Happens |
-|-------|------|-------------|
-| 1 | **SENSE** | Deep listening to place, people, histories, and futures through circles, assemblies, and ritual |
-| 2 | **SEE** | Collective mapping and meaning-making -- revealing patterns, leverage points, and possibilities |
-| 3 | **FLOW** | Resources move toward what communities have named as vital, through trust-based Flow Funds |
-| 4 | **CELEBRATE** | Festivals, ceremonies, and civic gatherings activate projects, seed funding, and build relational momentum |
-| 5 | **REGENERATE** | Communities track impact, harvest lessons, and reinvest learning into the next cycle |
+    S --> SE --> F --> C --> R
+    R -->|"Next cycle\ndeepens"| S
 
-Each cycle produces lasting "positive-trace" infrastructure: gardens, governance models, strengthened relationships, water systems, and ongoing community capacity.
+    style S fill:#E8F5E9,stroke:#81C784,color:#000
+    style SE fill:#C8E6C9,stroke:#66BB6A,color:#000
+    style F fill:#FFE082,stroke:#FFD54F,color:#000
+    style C fill:#F9A825,stroke:#F57F17,color:#000
+    style R fill:#00796B,stroke:#004D40,color:#fff
+```
+
+Communities move through a living spiral rhythm cyclically. Each cycle produces lasting "positive-trace" infrastructure: gardens, governance models, strengthened relationships, water systems, and ongoing community capacity.
 
 ### Nine Functional Guilds
+
+```mermaid
+flowchart TD
+    PPP["PLANETARY PARTY\nPROTOCOL"]
+
+    PPP --> G1["Living Systems\n& Solutions"]
+    PPP --> G2["Capacity\nBuilding"]
+    PPP --> G3["Regenerative\nCapital Flows"]
+    PPP --> G4["Governance"]
+    PPP --> G5["Events"]
+    PPP --> G6["Storytelling"]
+    PPP --> G7["Bioregional\nIntelligence\nDashboard"]
+    PPP --> G8["Tech"]
+    PPP --> G9["Ecosystem\nWeaving"]
+
+    style PPP fill:#F9A825,stroke:#F57F17,color:#000
+    style G1 fill:#A5D6A7,stroke:#66BB6A,color:#000
+    style G2 fill:#90CAF9,stroke:#42A5F5,color:#000
+    style G3 fill:#FFD54F,stroke:#FFC107,color:#000
+    style G4 fill:#CE93D8,stroke:#AB47BC,color:#000
+    style G5 fill:#FFAB91,stroke:#FF8A65,color:#000
+    style G6 fill:#F48FB1,stroke:#EC407A,color:#000
+    style G7 fill:#80DEEA,stroke:#4DD0E1,color:#000
+    style G8 fill:#B0BEC5,stroke:#78909C,color:#000
+    style G9 fill:#C8E6C9,stroke:#81C784,color:#000
+```
 
 | Guild | Focus |
 |-------|-------|
@@ -111,6 +164,35 @@ Guilds are not departments -- they are open participation structures that anyone
 
 ## Governance Structure
 
+```mermaid
+flowchart TD
+    CF["CORE FRACTAL\nCoordinating Body\nSyd, Josie, Juan Carlos"]
+    EC["EARTH COUNCIL\nIndigenous Wisdom Keepers\nSeasonal Guidance"]
+
+    CF --> GUILDS["NINE OPEN GUILDS\nDistributed Participation\n& Decision-Making"]
+    EC -->|"Seasonal\nguidance"| CF
+
+    GUILDS --> BIO["BIOREGIONAL NODES\nAutonomous Regions\nFederated Sovereignty"]
+
+    BIO --> COL["Colombia"]
+    BIO --> JAM["Jamaica"]
+    BIO --> MEX["Mexico"]
+    BIO --> GUA["Guatemala"]
+    BIO --> NE["NE Turtle\nIsland"]
+    BIO --> FUT["Future\nBioregions"]
+
+    style CF fill:#F9A825,stroke:#F57F17,color:#000
+    style EC fill:#00796B,stroke:#004D40,color:#fff
+    style GUILDS fill:#FFE082,stroke:#FFD54F,color:#000
+    style BIO fill:#FFF9C4,stroke:#FFF176,color:#000
+    style COL fill:#FFF9C4,stroke:#FFE082,color:#000
+    style JAM fill:#FFF9C4,stroke:#FFE082,color:#000
+    style MEX fill:#FFF9C4,stroke:#FFE082,color:#000
+    style GUA fill:#FFF9C4,stroke:#FFE082,color:#000
+    style NE fill:#FFF9C4,stroke:#FFE082,color:#000
+    style FUT fill:#FFFDE7,stroke:#FFF9C4,color:#000
+```
+
 - **Core Fractal** -- Coordinating body (Syd Harvey Griffith, Josie Watson, Juan Carlos Kaiten)
 - **Earth Council** -- Indigenous wisdom keepers providing seasonal guidance
 - **Guild-Based Participation** -- Distributed decision-making through nine open Guilds
@@ -139,6 +221,23 @@ Guilds are not departments -- they are open participation structures that anyone
 
 ## Development Phases
 
+```mermaid
+flowchart LR
+    P1["PHASE 1\nBuild Coordination\nLayer"]
+    P2["PHASE 2\nAssemble\nEcosystem"]
+    P3["PHASE 3\nActivate\nBioregionally"]
+    P4["PHASE 4\nDistributed\nAdoption"]
+    P5["PHASE 5\nCoherence\nWithout Control"]
+
+    P1 --> P2 --> P3 --> P4 --> P5
+
+    style P1 fill:#FFFDE7,stroke:#FFF176,color:#000
+    style P2 fill:#FFF9C4,stroke:#FFE082,color:#000
+    style P3 fill:#FFE082,stroke:#FFD54F,color:#000
+    style P4 fill:#FFD54F,stroke:#FFC107,color:#000
+    style P5 fill:#F9A825,stroke:#F57F17,color:#000
+```
+
 ### Phase 1 -- Build the Coordination Layer
 Fund core coordination, storytelling, and governance infrastructure to establish a coherent backbone for the Protocol.
 
@@ -157,6 +256,35 @@ Hold alignment through shared values, community agreements, and relational accou
 ---
 
 ## Ecosystem & Strategic Partnerships
+
+```mermaid
+flowchart TD
+    PP["PLANETARY PARTY\nCoordination Protocol\nGlobal"]
+
+    KE["KINSHIP EARTH"] -->|"Fiscal sponsor &\nfinancial backbone"| PP
+    PP -.-|"Bioregional\nimplementation"| PT["PERMATOURS"]
+    PP -.-|"Can host\ngatherings"| US["UNIFIED\nSANCTUARIES"]
+    PP -->|"Open scaffold\nfor many groups"| MANY["MANY ECOSYSTEMS\nBeyond this\nconstellation"]
+
+    subgraph ALIGNED["Aligned Organizations"]
+        A1["The Pivot Earth"]
+        A2["Holomovement"]
+        A3["Nalu'ea Living Trust"]
+        A4["Bioregional Embassy"]
+        A5["Micelio Media"]
+        A6["Mycelial Law"]
+        A7["TerraLux Spatial Network"]
+    end
+
+    PP -.- ALIGNED
+
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style MANY fill:#E0E0E0,stroke:#9E9E9E,color:#000
+    style ALIGNED fill:#FFF8E1,stroke:#FFE082,color:#000
+```
 
 | Partner Entity | Relationship |
 |---------------|-------------|

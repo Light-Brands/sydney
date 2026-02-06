@@ -38,10 +38,58 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 
 ### How It Works -- Four Steps
 
+```mermaid
+flowchart LR
+    S1["1. IDENTIFY\nTrusted community\nleaders via Flow\nFund Advisors"]
+    S2["2. DEPLOY\nUnrestricted funds\nCommunities decide\nhow capital moves"]
+    S3["3. REPORT\nLightweight, story-based\naccountability\nNot compliance"]
+    S4["4. RECOMMEND\nFlow Funders nominate\nnext cohort\nSelf-perpetuating network"]
+
+    S1 --> S2 --> S3 --> S4
+    S4 -->|"Next cycle"| S1
+
+    style S1 fill:#42A5F5,stroke:#1565C0,color:#fff
+    style S2 fill:#66BB6A,stroke:#43A047,color:#fff
+    style S3 fill:#FFA726,stroke:#FB8C00,color:#000
+    style S4 fill:#AB47BC,stroke:#7B1FA2,color:#fff
+```
+
 1. **Identify Trusted Community Leaders** -- Kinship Earth, guided by Flow Fund Advisors with deep bioregional ties, identifies trusted community leaders. If they accept the invitation, they receive **unrestricted funds** to deploy in service of their communities.
 2. **Flow Funders Deploy Resources** -- Flow Funders decide how, when, and where to move resources based on emergent community needs -- **without submitting applications or asking permission**.
 3. **Lightweight Reporting & Impact Stories** -- Flow Funders share basic reports and are invited to share stories of impact. This model replaces cumbersome compliance with relational accountability.
 4. **Flow Funders Recommend the Next Round** -- Flow Funders recommend the next cohort of trusted community leaders, creating a **self-perpetuating, decentralized network** governed by trust and accountability to life.
+
+### Capital Flow Architecture
+
+```mermaid
+flowchart TD
+    DONORS["DONORS\nFoundations, Family Offices\nDAFs, Individuals"]
+    KE["KINSHIP EARTH\nPrivate Foundation\n501c3"]
+    FFA["FLOW FUND ADVISORS\nBioregional Leaders\nIdentify Flow Funders"]
+    FF["FLOW FUNDERS\n18+ Active\n12+ Bioregions"]
+
+    DONORS -->|"Philanthropic\ncapital"| KE
+    KE -->|"Unrestricted\ngrants"| FF
+    FFA -->|"Identify &\ninvite"| FF
+
+    FF --> C1["Ozarks\nCommunities"]
+    FF --> C2["Cascadia\nCommunities"]
+    FF --> C3["NE Turtle Island\nCommunities"]
+    FF --> C4["Colombia, Jamaica\nMexico, Guatemala"]
+    FF --> C5["Greater Tkaronto\nCommunities"]
+
+    FF -->|"Recommend\nnext cohort"| FFA
+
+    style DONORS fill:#E3F2FD,stroke:#90CAF9,color:#000
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style FFA fill:#90CAF9,stroke:#42A5F5,color:#000
+    style FF fill:#1565C0,stroke:#0D47A1,color:#fff
+    style C1 fill:#E8F5E9,stroke:#81C784,color:#000
+    style C2 fill:#E8F5E9,stroke:#81C784,color:#000
+    style C3 fill:#E8F5E9,stroke:#81C784,color:#000
+    style C4 fill:#E8F5E9,stroke:#81C784,color:#000
+    style C5 fill:#E8F5E9,stroke:#81C784,color:#000
+```
 
 ### What Makes Flow Funding Different
 
@@ -118,6 +166,30 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 
 ## Governance Structure
 
+```mermaid
+flowchart TD
+    BOARD["BOARD MEMBERS\nGovernance Oversight"]
+    ADV["ADVISORS\nStrategic Guidance\nMarian Rockefeller Weber"]
+    TEAM["TEAM MEMBERS\nOperational Staff"]
+    FFA["FLOW FUND ADVISORS\nGrassroots Leaders\nIdentify Candidates"]
+    FF["FLOW FUNDERS\n18+ Active\nDeploy Funds"]
+    COP["COMMUNITY OF PRACTICE\nLaunched Oct 2024\nFlow Funders + Team + Donors"]
+
+    BOARD --> TEAM
+    ADV --> TEAM
+    TEAM --> FFA
+    FFA --> FF
+    FF --> COP
+    COP -->|"Shared learning\nfeeds back"| TEAM
+
+    style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
+    style ADV fill:#42A5F5,stroke:#1565C0,color:#fff
+    style TEAM fill:#64B5F6,stroke:#42A5F5,color:#000
+    style FFA fill:#90CAF9,stroke:#64B5F6,color:#000
+    style FF fill:#BBDEFB,stroke:#90CAF9,color:#000
+    style COP fill:#E3F2FD,stroke:#BBDEFB,color:#000
+```
+
 ### Governance Layers
 
 1. **Board Members** -- Governance oversight
@@ -140,6 +212,22 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 ---
 
 ## Development Phases
+
+```mermaid
+flowchart LR
+    P1["PHASE 1\nCapital & Cohort\nContinuity\n---\nRenew grants\nDeploy resources\nStrengthen governance"]
+
+    P2["PHASE 2\nEducation &\nField Building\n---\nEducate donors & foundations\nCreate Flow Funding Playbook\nFree modular resource"]
+
+    P3["PHASE 3\nBioregional\nScaling\n---\nAutonomous Flow Funds\nBackbone infrastructure\nLegal + Educational + Relational"]
+
+    P1 -->|"Cohorts\nrenewed"| P2
+    P2 -->|"Playbook\npublished"| P3
+
+    style P1 fill:#E3F2FD,stroke:#42A5F5,color:#000
+    style P2 fill:#64B5F6,stroke:#1E88E5,color:#fff
+    style P3 fill:#42A5F5,stroke:#1565C0,color:#fff
+```
 
 ### Phase 1 -- Capital & Cohort Continuity
 - Renew grants to Cohorts 1 & 2 Flow Funders
@@ -173,6 +261,22 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 ---
 
 ## Ecosystem & Strategic Partnerships
+
+```mermaid
+flowchart TD
+    KE["KINSHIP EARTH\nFlow Funding\nGlobal"]
+
+    KE -->|"Fiscal sponsor &\nfinancial backbone"| PP["PLANETARY PARTY\nCoordination Protocol"]
+    KE -->|"Flow funds outward\nto communities"| PT["PERMATOURS\nAction Network"]
+    KE -.-|"Case study;\nfirewalled"| US["UNIFIED\nSANCTUARIES"]
+    KE -->|"Primary purpose:\ncapital to many"| MANY["MANY COMMUNITIES\n12+ Bioregions\nGlobally"]
+
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style MANY fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
 
 Kinship Earth operates within a constellation of four interconnected projects:
 
