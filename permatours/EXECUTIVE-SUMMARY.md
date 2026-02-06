@@ -25,16 +25,16 @@ Permatours is not a single place or a traditional nonprofit program. It is a **l
 
 ```mermaid
 flowchart TD
-    PT["PERMATOURS\nCentral Network\n---\n2,000 subscribers\n1,000 active members"]
+    PT["PERMATOURS<br/>Central Network<br/>---<br/>2,000 subscribers<br/>1,000 active members"]
 
-    PT --> H1["Sacred Nectar\nSanctuary (NH)"]
-    PT --> H2["Diggers\nCo-Op (ME)"]
-    PT --> H3["Rooted Heart\nFarm (ME)"]
-    PT --> H4["Wild Island\nCenter (ME)"]
-    PT --> H5["Orange Peel\nBakery (MA)"]
-    PT --> H6["40+ More\nPartner Sites"]
+    PT --> H1["Sacred Nectar<br/>Sanctuary (NH)"]
+    PT --> H2["Diggers<br/>Co-Op (ME)"]
+    PT --> H3["Rooted Heart<br/>Farm (ME)"]
+    PT --> H4["Wild Island<br/>Center (ME)"]
+    PT --> H5["Orange Peel<br/>Bakery (MA)"]
+    PT --> H6["40+ More<br/>Partner Sites"]
 
-    H1 & H2 & H3 & H4 & H5 & H6 --> OUT["RESOURCES FLOW OUTWARD\nTo communities & ecosystems"]
+    H1 & H2 & H3 & H4 & H5 & H6 --> OUT["RESOURCES FLOW OUTWARD<br/>To communities & ecosystems"]
 
     style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
     style H1 fill:#C8E6C9,stroke:#81C784,color:#000
@@ -74,16 +74,16 @@ Permatours is evolving from a small team of under-resourced organizers into a **
 
 ```mermaid
 flowchart TD
-    COV["PERMATOURS COVENANT\nShared Agreements"]
+    COV["PERMATOURS COVENANT<br/>Shared Agreements"]
 
-    COV --> EP["Event Production\n& Logistics"]
-    COV --> CS["Communications\n& Storytelling"]
-    COV --> CR["Conflict Resolution\n& Care"]
-    COV --> GW["Grant Writing &\nResource Mobilization"]
-    COV --> MA["Mutual Aid &\nRapid Response"]
-    COV --> ED["Education &\nSkill-Sharing"]
+    COV --> EP["Event Production<br/>& Logistics"]
+    COV --> CS["Communications<br/>& Storytelling"]
+    COV --> CR["Conflict Resolution<br/>& Care"]
+    COV --> GW["Grant Writing &<br/>Resource Mobilization"]
+    COV --> MA["Mutual Aid &<br/>Rapid Response"]
+    COV --> ED["Education &<br/>Skill-Sharing"]
 
-    EP & CS & CR & GW & MA & ED --> ASM["COMMUNITY ASSEMBLIES\nTransparent Governance\nCollective Decision-Making"]
+    EP & CS & CR & GW & MA & ED --> ASM["COMMUNITY ASSEMBLIES<br/>Transparent Governance<br/>Collective Decision-Making"]
 
     style COV fill:#4CAF50,stroke:#2E7D32,color:#fff
     style EP fill:#C8E6C9,stroke:#81C784,color:#000
@@ -102,19 +102,19 @@ Restructuring into distributed working circles, each operating within shared agr
 ```mermaid
 flowchart LR
     subgraph ECONOMIC["Economic Power"]
-        UT["UTILITY TOKEN\n1 UT = $1 USD\nNon-liquid\nMarketplace trades\nWorkshop access\nSkill exchanges"]
+        UT["UTILITY TOKEN<br/>1 UT = $1 USD<br/>Non-liquid<br/>Marketplace trades<br/>Workshop access<br/>Skill exchanges"]
     end
 
     subgraph GOVERNANCE["Governance Power"]
-        VT["VOICE TOKEN\nNon-transferable\n40 VT cap per person\n20% seasonal decay\nVoting on proposals\nNetwork decisions"]
+        VT["VOICE TOKEN<br/>Non-transferable<br/>40 VT cap per person<br/>20% seasonal decay<br/>Voting on proposals<br/>Network decisions"]
     end
 
     subgraph REPUTATION["Cultural Reputation"]
-        REP["PARTICIPATION\nRecord\nCommunity standing\nNot tokenized"]
+        REP["PARTICIPATION<br/>Record<br/>Community standing<br/>Not tokenized"]
     end
 
-    UT x--x|"Intentionally\nseparated"| VT
-    VT x--x|"Intentionally\nseparated"| REP
+    UT x--x|"Intentionally<br/>separated"| VT
+    VT x--x|"Intentionally<br/>separated"| REP
 
     style ECONOMIC fill:#FFF9C4,stroke:#FFF176,color:#000
     style GOVERNANCE fill:#BBDEFB,stroke:#90CAF9,color:#000
@@ -130,17 +130,17 @@ A dual-token system designed to recognize contributions, coordinate participatio
 
 ```mermaid
 flowchart TD
-    CORE["PERMATOURS CORE\n501c3 Infrastructure"]
+    CORE["PERMATOURS CORE<br/>501c3 Infrastructure"]
 
-    CORE -->|"Fiscal sponsorship\nVolunteer database\nDiscord coordination\nMarketing tools\nEducational resources"| CH1["Chapter:\nBioregion A"]
-    CORE --> CH2["Chapter:\nBioregion B"]
-    CORE --> CH3["Chapter:\nBioregion C"]
-    CORE --> CH4["Future\nChapters"]
+    CORE -->|"Fiscal sponsorship<br/>Volunteer database<br/>Discord coordination<br/>Marketing tools<br/>Educational resources"| CH1["Chapter:<br/>Bioregion A"]
+    CORE --> CH2["Chapter:<br/>Bioregion B"]
+    CORE --> CH3["Chapter:<br/>Bioregion C"]
+    CORE --> CH4["Future<br/>Chapters"]
 
     subgraph PATHS["Three Activation Pathways"]
-        P1["Consulting\nSupport"]
-        P2["Backend\nProduction"]
-        P3["Co-Hosted\nPilot Events"]
+        P1["Consulting<br/>Support"]
+        P2["Backend<br/>Production"]
+        P3["Co-Hosted<br/>Pilot Events"]
     end
 
     PATHS --> CH1 & CH2 & CH3
@@ -194,14 +194,14 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1\nStrengthen &\nRestructure\n---\nContinue events\nForm working circles\nFormalize Covenant\nStrengthen 40+ hubs"]
+    P1["PHASE 1<br/>Strengthen &<br/>Restructure<br/>---<br/>Continue events<br/>Form working circles<br/>Formalize Covenant<br/>Strengthen 40+ hubs"]
 
-    P2["PHASE 2\nDeploy &\nScale\n---\nLaunch tokenomics\nActivate chapters\nCollect impact data\nBioregional exchange"]
+    P2["PHASE 2<br/>Deploy &<br/>Scale<br/>---<br/>Launch tokenomics<br/>Activate chapters<br/>Collect impact data<br/>Bioregional exchange"]
 
-    P3["PHASE 3\nBlueprint &\nReplicate\n---\nDocument learnings\nPublish blueprints\nExpand beyond NE\nPPP implementation partner"]
+    P3["PHASE 3<br/>Blueprint &<br/>Replicate<br/>---<br/>Document learnings<br/>Publish blueprints<br/>Expand beyond NE<br/>PPP implementation partner"]
 
-    P1 -->|"Network\nformalized"| P2
-    P2 -->|"Model\nproven"| P3
+    P1 -->|"Network<br/>formalized"| P2
+    P2 -->|"Model<br/>proven"| P3
 
     style P1 fill:#E8F5E9,stroke:#4CAF50,color:#000
     style P2 fill:#66BB6A,stroke:#43A047,color:#fff
@@ -232,13 +232,13 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    PT["PERMATOURS\nAction Network\nNortheast"]
+    PT["PERMATOURS<br/>Action Network<br/>Northeast"]
 
-    KE["KINSHIP EARTH"] -->|"Flow funds\noutward to\ncommunities"| PT
-    PP["PLANETARY PARTY"] -.-|"Bioregional\nimplementation\npartner"| PT
-    PT -.-|"One hub\namong many"| US["UNIFIED\nSANCTUARIES"]
-    PT -->|"Resources flow\noutward"| HUBS["40+ NE HUBS\nDistributed Nodes"]
-    PT -.-|"Connected through\nfounding team"| DIG["DIGGERS\nCOOPERATIVE"]
+    KE["KINSHIP EARTH"] -->|"Flow funds<br/>outward to<br/>communities"| PT
+    PP["PLANETARY PARTY"] -.-|"Bioregional<br/>implementation<br/>partner"| PT
+    PT -.-|"One hub<br/>among many"| US["UNIFIED<br/>SANCTUARIES"]
+    PT -->|"Resources flow<br/>outward"| HUBS["40+ NE HUBS<br/>Distributed Nodes"]
+    PT -.-|"Connected through<br/>founding team"| DIG["DIGGERS<br/>COOPERATIVE"]
 
     style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff

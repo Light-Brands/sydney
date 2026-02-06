@@ -29,14 +29,14 @@ The community is organized around four interdependent platforms, each operating 
 
 ```mermaid
 flowchart TD
-    US["UNIFIED SANCTUARIES\nRegenerative Village"]
+    US["UNIFIED SANCTUARIES<br/>Regenerative Village"]
 
-    US --> FARM["Permaculture Farm &\nEducation Center\n$315K -- $1M+"]
-    US --> RETREAT["Retreat & Healing Arts\nCenter + Bathhouse\n$570K -- $1.75M"]
-    US --> EVENT["Event Venue +\nInnovation Hall\n$310K -- $1.16M"]
-    US --> LIVING["Community Living /\nRegen Neighborhood\n$195K -- $580K"]
+    US --> FARM["Permaculture Farm &<br/>Education Center<br/>$315K -- $1M+"]
+    US --> RETREAT["Retreat & Healing Arts<br/>Center + Bathhouse<br/>$570K -- $1.75M"]
+    US --> EVENT["Event Venue +<br/>Innovation Hall<br/>$310K -- $1.16M"]
+    US --> LIVING["Community Living /<br/>Regen Neighborhood<br/>$195K -- $580K"]
 
-    FARM --> TOTAL["COMBINED ANNUAL\nREVENUE POTENTIAL\n$1.4M -- $4.5M+"]
+    FARM --> TOTAL["COMBINED ANNUAL<br/>REVENUE POTENTIAL<br/>$1.4M -- $4.5M+"]
     RETREAT --> TOTAL
     EVENT --> TOTAL
     LIVING --> TOTAL
@@ -83,21 +83,21 @@ Eco-homes, tiny dwellings, shared stewardship, and cooperative living for 20+ ho
 ```mermaid
 flowchart LR
     subgraph SOURCES["Capital Sources"]
-        DON["Philanthropy\n& Donations"]
-        INV["Impact\nInvestment"]
-        MEM["Community\nMemberships"]
-        EARN["Earned\nRevenue"]
+        DON["Philanthropy<br/>& Donations"]
+        INV["Impact<br/>Investment"]
+        MEM["Community<br/>Memberships"]
+        EARN["Earned<br/>Revenue"]
     end
 
-    DON --> US["UNIFIED\nSANCTUARIES\n$10M by 2026\n$100M by 2028"]
+    DON --> US["UNIFIED<br/>SANCTUARIES<br/>$10M by 2026<br/>$100M by 2028"]
     INV --> US
     MEM --> US
     EARN --> US
 
-    US --> LAND["Land\nAcquisition"]
-    US --> INFRA["Infrastructure\nDevelopment"]
-    US --> OPS["Operations &\nProgramming"]
-    US --> ECON["Circular Economy\nLaunch"]
+    US --> LAND["Land<br/>Acquisition"]
+    US --> INFRA["Infrastructure<br/>Development"]
+    US --> OPS["Operations &<br/>Programming"]
+    US --> ECON["Circular Economy<br/>Launch"]
 
     style SOURCES fill:#E8F5E9,stroke:#81C784,color:#000
     style US fill:#8D6E63,stroke:#5D4037,color:#fff
@@ -117,17 +117,17 @@ Unified Sanctuaries employs a circular internal economy designed to keep value l
 
 ```mermaid
 flowchart TD
-    CLT["SOL COMMUNITY LAND PROJECT\nCommunity Land Trust\nNon-Speculative Stewardship"]
+    CLT["SOL COMMUNITY LAND PROJECT<br/>Community Land Trust<br/>Non-Speculative Stewardship"]
 
-    CLT --> SOL["SOL TOKEN\nUtility Currency\nGoods & Services Exchange"]
-    CLT --> VOICE["VOICE TOKEN\nGovernance Token\nDecision-Making Weight"]
-    CLT --> TRUST["TRUST UNITS\nEquity Through Contribution\nLiquidatable on Exit"]
+    CLT --> SOL["SOL TOKEN<br/>Utility Currency<br/>Goods & Services Exchange"]
+    CLT --> VOICE["VOICE TOKEN<br/>Governance Token<br/>Decision-Making Weight"]
+    CLT --> TRUST["TRUST UNITS<br/>Equity Through Contribution<br/>Liquidatable on Exit"]
 
-    SOL --> CIRC["CIRCULAR ECONOMY\nFood, Retreats, Events\nHousing, Services"]
-    VOICE --> GOV["COMMUNITY GOVERNANCE\nConsent-Based Decisions\nContribution = Influence"]
-    TRUST --> EQ["EARNED EQUITY\nBuild Land Improvements\nTangible Value Created"]
+    SOL --> CIRC["CIRCULAR ECONOMY<br/>Food, Retreats, Events<br/>Housing, Services"]
+    VOICE --> GOV["COMMUNITY GOVERNANCE<br/>Consent-Based Decisions<br/>Contribution = Influence"]
+    TRUST --> EQ["EARNED EQUITY<br/>Build Land Improvements<br/>Tangible Value Created"]
 
-    CIRC --> VALUE["VALUE STAYS LOCAL\nRewards Engagement\nNot Speculation"]
+    CIRC --> VALUE["VALUE STAYS LOCAL<br/>Rewards Engagement<br/>Not Speculation"]
     GOV --> VALUE
     EQ --> VALUE
 
@@ -156,19 +156,19 @@ Unified Sanctuaries blends **sociocracy** and **holacracy** principles into a co
 
 ```mermaid
 flowchart TD
-    AC["ANCHOR CIRCLE\nCentral Governance Council\nConsent-Based / Rotating"]
+    AC["ANCHOR CIRCLE<br/>Central Governance Council<br/>Consent-Based / Rotating"]
 
-    AC --> FARM_N["Farm & Education\nAutonomous Node"]
-    AC --> RETREAT_N["Retreat & Healing\nAutonomous Node"]
-    AC --> EVENT_N["Event Venue\nAutonomous Node"]
-    AC --> LIVING_N["Community Living\nAutonomous Node"]
+    AC --> FARM_N["Farm & Education<br/>Autonomous Node"]
+    AC --> RETREAT_N["Retreat & Healing<br/>Autonomous Node"]
+    AC --> EVENT_N["Event Venue<br/>Autonomous Node"]
+    AC --> LIVING_N["Community Living<br/>Autonomous Node"]
 
-    AC ---|"Shared Infrastructure"| SHARED["Shared Systems\nEconomic Infrastructure\nCore Values & Agreements"]
+    AC ---|"Shared Infrastructure"| SHARED["Shared Systems<br/>Economic Infrastructure<br/>Core Values & Agreements"]
 
-    FARM_N ---|"Self-Governs"| F_INT["Internal Decisions\nCompensation\nOperations"]
-    RETREAT_N ---|"Self-Governs"| R_INT["Internal Decisions\nCompensation\nOperations"]
-    EVENT_N ---|"Self-Governs"| E_INT["Internal Decisions\nCompensation\nOperations"]
-    LIVING_N ---|"Self-Governs"| L_INT["Internal Decisions\nCompensation\nOperations"]
+    FARM_N ---|"Self-Governs"| F_INT["Internal Decisions<br/>Compensation<br/>Operations"]
+    RETREAT_N ---|"Self-Governs"| R_INT["Internal Decisions<br/>Compensation<br/>Operations"]
+    EVENT_N ---|"Self-Governs"| E_INT["Internal Decisions<br/>Compensation<br/>Operations"]
+    LIVING_N ---|"Self-Governs"| L_INT["Internal Decisions<br/>Compensation<br/>Operations"]
 
     style AC fill:#00796B,stroke:#004D40,color:#fff
     style SHARED fill:#E0E0E0,stroke:#9E9E9E,color:#000
@@ -196,14 +196,14 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1\nLand & Foundation\n---\nSecure property\nEstablish legal structures\nInvite early members\n$10M raise"]
+    P1["PHASE 1<br/>Land & Foundation<br/>---<br/>Secure property<br/>Establish legal structures<br/>Invite early members<br/>$10M raise"]
 
-    P2["PHASE 2\nBuild & Activate\n---\n20+ eco-homes\nFarm & retreat facilities\nLaunch circular economy\nScale revenue"]
+    P2["PHASE 2<br/>Build & Activate<br/>---<br/>20+ eco-homes<br/>Farm & retreat facilities<br/>Launch circular economy<br/>Scale revenue"]
 
-    P3["PHASE 3\nBlueprint & Network\n---\nDocument learnings\nPublish open-source blueprint\nSupport new sanctuaries\nGlobal hub"]
+    P3["PHASE 3<br/>Blueprint & Network<br/>---<br/>Document learnings<br/>Publish open-source blueprint<br/>Support new sanctuaries<br/>Global hub"]
 
-    P1 -->|"Foundation\nset"| P2
-    P2 -->|"Community\nthriving"| P3
+    P1 -->|"Foundation<br/>set"| P2
+    P2 -->|"Community<br/>thriving"| P3
 
     style P1 fill:#EFEBE9,stroke:#8D6E63,color:#000
     style P2 fill:#A1887F,stroke:#795548,color:#fff
@@ -236,13 +236,13 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    US["UNIFIED SANCTUARIES\nLand-Based Village\nSouthern Vermont"]
+    US["UNIFIED SANCTUARIES<br/>Land-Based Village<br/>Southern Vermont"]
 
-    KE["KINSHIP EARTH\nRegenerative Capital\nGlobal"] -.-|"Case study;\nfirewalled funding"| US
-    PP["PLANETARY PARTY\nCoordination Protocol\nGlobal"] -.-|"Can host\ngatherings"| US
-    PT["PERMATOURS\nAction Network\nNortheast"] -.-|"One hub among\nmany; trainings"| US
+    KE["KINSHIP EARTH<br/>Regenerative Capital<br/>Global"] -.-|"Case study;<br/>firewalled funding"| US
+    PP["PLANETARY PARTY<br/>Coordination Protocol<br/>Global"] -.-|"Can host<br/>gatherings"| US
+    PT["PERMATOURS<br/>Action Network<br/>Northeast"] -.-|"One hub among<br/>many; trainings"| US
 
-    US -.-|"Open-source\nblueprint"| WIDER["WIDER MOVEMENT\nOther communities\nadapt the model"]
+    US -.-|"Open-source<br/>blueprint"| WIDER["WIDER MOVEMENT<br/>Other communities<br/>adapt the model"]
 
     style US fill:#8D6E63,stroke:#5D4037,color:#fff
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff

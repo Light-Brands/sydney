@@ -13,19 +13,19 @@ Four initiatives -- operating at local, bioregional, and global scales -- form a
 ```mermaid
 flowchart TD
     subgraph GLOBAL["GLOBAL SCALE"]
-        KE["Kinship Earth\n---\nHow does money\nmove differently?"]
-        PP["Planetary Party Protocol\n---\nHow do we coordinate\nwithout centralizing?"]
+        KE["Kinship Earth<br/>---<br/>How does money<br/>move differently?"]
+        PP["Planetary Party Protocol<br/>---<br/>How do we coordinate<br/>without centralizing?"]
     end
 
     subgraph BIOREGIONAL["NORTHEAST BIOREGION"]
-        PT["Permatours\n---\nHow do people learn\nand build together?"]
+        PT["Permatours<br/>---<br/>How do people learn<br/>and build together?"]
     end
 
     subgraph LOCAL["LOCAL -- Southern Vermont"]
-        US["Unified Sanctuaries\n---\nWhat does this look like\nwhen rooted in land?"]
+        US["Unified Sanctuaries<br/>---<br/>What does this look like<br/>when rooted in land?"]
     end
 
-    KE -->|"Capital"| NEED["CAPITAL\nCOORDINATION\nCAPACITY\nPLACE"]
+    KE -->|"Capital"| NEED["CAPITAL<br/>COORDINATION<br/>CAPACITY<br/>PLACE"]
     PP -->|"Coordination"| NEED
     PT -->|"Capacity"| NEED
     US -->|"Place"| NEED
@@ -60,10 +60,10 @@ Kinship Earth is the financial nervous system of the regenerative movement. It s
 
 ```mermaid
 flowchart LR
-    S1["1. IDENTIFY\nTrusted community leaders\nthrough Flow Fund Advisors\nwith deep bioregional ties"]
-    S2["2. DEPLOY\nUnrestricted funds --\ncommunities decide how,\nwhen, and where capital moves"]
-    S3["3. REPORT\nLightweight, story-based\naccountability -- not\ncompliance paperwork"]
-    S4["4. RECOMMEND\nNext cohort of Flow Funders\ncreating a self-perpetuating\ndecentralized network"]
+    S1["1. IDENTIFY<br/>Trusted community leaders<br/>through Flow Fund Advisors<br/>with deep bioregional ties"]
+    S2["2. DEPLOY<br/>Unrestricted funds --<br/>communities decide how,<br/>when, and where capital moves"]
+    S3["3. REPORT<br/>Lightweight, story-based<br/>accountability -- not<br/>compliance paperwork"]
+    S4["4. RECOMMEND<br/>Next cohort of Flow Funders<br/>creating a self-perpetuating<br/>decentralized network"]
 
     S1 --> S2 --> S3 --> S4 --> S1
 
@@ -113,12 +113,12 @@ The core insight: **how resources flow is inseparable from how communities gathe
 
 ```mermaid
 flowchart TD
-    MEME["A MEME\nOpen-source cultural invitation\nfor regenerative celebration\nanywhere on Earth"]
-    LIVING["A LIVING SYSTEM\nFederated network of bioregional\nnodes, Flow Funds, nine Guilds,\ndashboards, and embassies"]
-    TECH["A CULTURAL TECHNOLOGY\nFive-phase Protocol guiding\ncommunities through sensing,\nmapping, resourcing, celebrating,\nand regenerating"]
+    MEME["A MEME<br/>Open-source cultural invitation<br/>for regenerative celebration<br/>anywhere on Earth"]
+    LIVING["A LIVING SYSTEM<br/>Federated network of bioregional<br/>nodes, Flow Funds, nine Guilds,<br/>dashboards, and embassies"]
+    TECH["A CULTURAL TECHNOLOGY<br/>Five-phase Protocol guiding<br/>communities through sensing,<br/>mapping, resourcing, celebrating,<br/>and regenerating"]
 
     MEME --> LIVING --> TECH
-    TECH -.->|"Cycle\nrenews"| MEME
+    TECH -.->|"Cycle<br/>renews"| MEME
 
     style MEME fill:#FFF9C4,stroke:#F9A825,color:#000
     style LIVING fill:#FFE082,stroke:#FFA000,color:#000
@@ -131,11 +131,11 @@ Communities move through a living spiral rhythm:
 
 ```mermaid
 flowchart LR
-    S["SENSE\nDeep listening\nto place, people,\nhistories, futures"]
-    SE["SEE\nCollective mapping\nand meaning-making\nrevealing patterns"]
-    F["FLOW\nResources move\ntoward what\ncommunities name vital"]
-    C["CELEBRATE\nFestivals, ceremonies,\ncivic gatherings\nactivate projects"]
-    R["REGENERATE\nTrack impact,\nharvest lessons,\nreinvest learning"]
+    S["SENSE<br/>Deep listening<br/>to place, people,<br/>histories, futures"]
+    SE["SEE<br/>Collective mapping<br/>and meaning-making<br/>revealing patterns"]
+    F["FLOW<br/>Resources move<br/>toward what<br/>communities name vital"]
+    C["CELEBRATE<br/>Festivals, ceremonies,<br/>civic gatherings<br/>activate projects"]
+    R["REGENERATE<br/>Track impact,<br/>harvest lessons,<br/>reinvest learning"]
 
     S --> SE --> F --> C --> R
     R -.->|"Next cycle"| S
@@ -153,17 +153,17 @@ Each cycle produces lasting "positive-trace" infrastructure: gardens, governance
 
 ```mermaid
 flowchart TD
-    PPP["PLANETARY PARTY PROTOCOL\nNine Functional Guilds"]
+    PPP["PLANETARY PARTY PROTOCOL<br/>Nine Functional Guilds"]
 
-    PPP --> G1["Living Systems\n& Solutions"]
-    PPP --> G2["Capacity\nBuilding"]
-    PPP --> G3["Regenerative\nCapital Flows"]
+    PPP --> G1["Living Systems<br/>& Solutions"]
+    PPP --> G2["Capacity<br/>Building"]
+    PPP --> G3["Regenerative<br/>Capital Flows"]
     PPP --> G4["Governance"]
     PPP --> G5["Events"]
     PPP --> G6["Storytelling"]
-    PPP --> G7["Bioregional\nIntelligence"]
+    PPP --> G7["Bioregional<br/>Intelligence"]
     PPP --> G8["Tech"]
-    PPP --> G9["Ecosystem\nWeaving"]
+    PPP --> G9["Ecosystem<br/>Weaving"]
 
     style PPP fill:#F9A825,stroke:#F57F17,color:#000
     style G1 fill:#C8E6C9,stroke:#66BB6A,color:#000
@@ -222,13 +222,13 @@ Permatours is the hands-on action engine that mobilizes people into regenerative
 
 ```mermaid
 flowchart TD
-    PT["PERMATOURS\nNext Evolution"]
+    PT["PERMATOURS<br/>Next Evolution"]
 
-    PT --> MAN["MUTUAL AID NETWORK\nDistributed working circles\nShared agreements (Covenant)\nCommunity assemblies"]
-    PT --> TOK["REGENERATIVE TOKENOMICS\nUtility Tokens (marketplace)\nVoice Tokens (governance)\nSeparated by design"]
-    PT --> CH["CHAPTERS MODEL\nReplicable local chapters\nShared infrastructure\nThree activation pathways"]
+    PT --> MAN["MUTUAL AID NETWORK<br/>Distributed working circles<br/>Shared agreements (Covenant)<br/>Community assemblies"]
+    PT --> TOK["REGENERATIVE TOKENOMICS<br/>Utility Tokens (marketplace)<br/>Voice Tokens (governance)<br/>Separated by design"]
+    PT --> CH["CHAPTERS MODEL<br/>Replicable local chapters<br/>Shared infrastructure<br/>Three activation pathways"]
 
-    MAN --> OUT["Resources flow outward\nto 40+ community hubs\nacross the Northeast"]
+    MAN --> OUT["Resources flow outward<br/>to 40+ community hubs<br/>across the Northeast"]
     TOK --> OUT
     CH --> OUT
 
@@ -261,14 +261,14 @@ Unified Sanctuaries is where the abstract becomes embodied. It is a regenerative
 
 ```mermaid
 flowchart TD
-    US["UNIFIED SANCTUARIES\nRegenerative Village\nSouthern Vermont"]
+    US["UNIFIED SANCTUARIES<br/>Regenerative Village<br/>Southern Vermont"]
 
-    US --> FARM["Permaculture Farm &\nEducation Center\n$315K -- $1M+"]
-    US --> RETREAT["Retreat & Healing Arts\nCenter + Bathhouse\n$570K -- $1.75M"]
-    US --> EVENT["Event Venue +\nInnovation Hall\n$310K -- $1.16M"]
-    US --> LIVING["Community Living /\nRegen Neighborhood\n$195K -- $580K"]
+    US --> FARM["Permaculture Farm &<br/>Education Center<br/>$315K -- $1M+"]
+    US --> RETREAT["Retreat & Healing Arts<br/>Center + Bathhouse<br/>$570K -- $1.75M"]
+    US --> EVENT["Event Venue +<br/>Innovation Hall<br/>$310K -- $1.16M"]
+    US --> LIVING["Community Living /<br/>Regen Neighborhood<br/>$195K -- $580K"]
 
-    FARM --> TOTAL["COMBINED ANNUAL\nREVENUE POTENTIAL\n$1.4M -- $4.5M+"]
+    FARM --> TOTAL["COMBINED ANNUAL<br/>REVENUE POTENTIAL<br/>$1.4M -- $4.5M+"]
     RETREAT --> TOTAL
     EVENT --> TOTAL
     LIVING --> TOTAL
@@ -304,21 +304,21 @@ These projects are nested at different scales -- not four equal pillars that sym
 ```mermaid
 flowchart TD
     subgraph GLOBAL["GLOBAL SCALE"]
-        KE["KINSHIP EARTH\nFinancial Infrastructure\n---\nMoves capital through\ntrust-based Flow Funding"]
-        PP["PLANETARY PARTY PROTOCOL\nCultural & Coordination Layer\n---\nAligns communities without\ncentralizing control"]
+        KE["KINSHIP EARTH<br/>Financial Infrastructure<br/>---<br/>Moves capital through<br/>trust-based Flow Funding"]
+        PP["PLANETARY PARTY PROTOCOL<br/>Cultural & Coordination Layer<br/>---<br/>Aligns communities without<br/>centralizing control"]
     end
 
     subgraph NE["NORTHEAST BIOREGION"]
-        PT["PERMATOURS\nCapacity Building &\nMutual Aid Network\n---\n50+ events, 40+ sites\n1,000+ active members"]
+        PT["PERMATOURS<br/>Capacity Building &<br/>Mutual Aid Network<br/>---<br/>50+ events, 40+ sites<br/>1,000+ active members"]
 
         subgraph VT["LOCAL -- Southern Vermont"]
-            US["UNIFIED SANCTUARIES\nLand-Based\nRegenerative Village\n---\nFour-pillar model\nOpen-source blueprint"]
+            US["UNIFIED SANCTUARIES<br/>Land-Based<br/>Regenerative Village<br/>---<br/>Four-pillar model<br/>Open-source blueprint"]
         end
     end
 
-    KE -.->|"Capital flows\nto communities"| PT
-    PP -.->|"Coordination &\ncultural infrastructure"| PT
-    PT -.->|"One hub\namong many"| US
+    KE -.->|"Capital flows<br/>to communities"| PT
+    PP -.->|"Coordination &<br/>cultural infrastructure"| PT
+    PT -.->|"One hub<br/>among many"| US
 
     style GLOBAL fill:#E3F2FD,stroke:#42A5F5,color:#000
     style NE fill:#E8F5E9,stroke:#4CAF50,color:#000
@@ -333,15 +333,15 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    KE["KINSHIP EARTH\nMoves capital &\nbuilds financial infrastructure"]
-    PP["PLANETARY PARTY\nCoordinates culture,\ncollaboration & activation"]
-    PT["PERMATOURS\nMobilizes people into\nhands-on action"]
-    US["UNIFIED SANCTUARIES\nEmbodies the work\non land"]
+    KE["KINSHIP EARTH<br/>Moves capital &<br/>builds financial infrastructure"]
+    PP["PLANETARY PARTY<br/>Coordinates culture,<br/>collaboration & activation"]
+    PT["PERMATOURS<br/>Mobilizes people into<br/>hands-on action"]
+    US["UNIFIED SANCTUARIES<br/>Embodies the work<br/>on land"]
 
-    KE -->|"Supports with\ncapital & trust-based\nfinancial infrastructure"| PP
-    PP -->|"Activates & weaves\ncoordination, culture,\nand shared rhythm"| PT
-    PT -->|"Grounds into place\nthrough installations,\nworkshops, mutual aid"| US
-    US -.->|"Feeds learning\nback into\nthe ecosystem"| KE
+    KE -->|"Supports with<br/>capital & trust-based<br/>financial infrastructure"| PP
+    PP -->|"Activates & weaves<br/>coordination, culture,<br/>and shared rhythm"| PT
+    PT -->|"Grounds into place<br/>through installations,<br/>workshops, mutual aid"| US
+    US -.->|"Feeds learning<br/>back into<br/>the ecosystem"| KE
 
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
     style PP fill:#F9A825,stroke:#F57F17,color:#000
@@ -361,17 +361,17 @@ Permatours **grounds into place** at **Unified Sanctuaries**, which embodies the
 
 ```mermaid
 flowchart TD
-    KE["KINSHIP\nEARTH"]
-    PP["PLANETARY\nPARTY"]
+    KE["KINSHIP<br/>EARTH"]
+    PP["PLANETARY<br/>PARTY"]
     PT["PERMATOURS"]
-    US["UNIFIED\nSANCTUARIES"]
+    US["UNIFIED<br/>SANCTUARIES"]
 
-    KE <-->|"Fiscal sponsor\nInitial funder\nStorytelling partner\nCapital Flows Guild\nFormalized via MOUs"| PP
-    KE <-->|"Flow funds flow\noutward through PT\nto communities\nImpact data feeds back"| PT
-    KE <-->|"Case study reference\nFirewalled funding\nOpen-source blueprint\nserves field-building"| US
-    PP <-->|"Bioregional implementation\nActivation Event Series\nIntelligence Dashboard\nCultural infrastructure"| PT
-    PP <-->|"Hosts PP gatherings\nEvent venue activation\nProtocol experimentation\nPlace-based practice"| US
-    PT <-->|"One hub among many\nProjects & trainings\nCapacity building\nNot the center"| US
+    KE <-->|"Fiscal sponsor<br/>Initial funder<br/>Storytelling partner<br/>Capital Flows Guild<br/>Formalized via MOUs"| PP
+    KE <-->|"Flow funds flow<br/>outward through PT<br/>to communities<br/>Impact data feeds back"| PT
+    KE <-->|"Case study reference<br/>Firewalled funding<br/>Open-source blueprint<br/>serves field-building"| US
+    PP <-->|"Bioregional implementation<br/>Activation Event Series<br/>Intelligence Dashboard<br/>Cultural infrastructure"| PT
+    PP <-->|"Hosts PP gatherings<br/>Event venue activation<br/>Protocol experimentation<br/>Place-based practice"| US
+    PT <-->|"One hub among many<br/>Projects & trainings<br/>Capacity building<br/>Not the center"| US
 
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
     style PP fill:#F9A825,stroke:#F57F17,color:#000
@@ -422,17 +422,17 @@ The Bioregional Activation Event Series (launching Northeast, Q1 2026) is the mo
 
 ```mermaid
 flowchart TD
-    BAES["BIOREGIONAL ACTIVATION\nEVENT SERIES\nNortheast Q1 2026"]
+    BAES["BIOREGIONAL ACTIVATION<br/>EVENT SERIES<br/>Northeast Q1 2026"]
 
-    KE["Kinship Earth\nFinancial backing &\nFlow Funding readiness"] --> BAES
-    PP["Planetary Party\nCoordination framework,\ngovernance, cultural infra"] --> BAES
-    PT["Permatours\nGround-level network,\nhubs, volunteers, programming"] --> BAES
-    US["Unified Sanctuaries\nPotential venue &\nland-based context"] --> BAES
-    BE["Bioregional Embassy\nSpatial intelligence &\ndiplomatic agency"] --> BAES
+    KE["Kinship Earth<br/>Financial backing &<br/>Flow Funding readiness"] --> BAES
+    PP["Planetary Party<br/>Coordination framework,<br/>governance, cultural infra"] --> BAES
+    PT["Permatours<br/>Ground-level network,<br/>hubs, volunteers, programming"] --> BAES
+    US["Unified Sanctuaries<br/>Potential venue &<br/>land-based context"] --> BAES
+    BE["Bioregional Embassy<br/>Spatial intelligence &<br/>diplomatic agency"] --> BAES
 
-    BAES --> O1["Technology innovators\nSpatial Network, Catalist,\nSocial Roots, Hylo, Bloom"]
-    BAES --> O2["Land-based communities\nTrue North, Hudson Harmonic,\nWally Farms"]
-    BAES --> O3["Sessions on coordination,\nstorytelling, data, credits,\nmutual aid, governance"]
+    BAES --> O1["Technology innovators<br/>Spatial Network, Catalist,<br/>Social Roots, Hylo, Bloom"]
+    BAES --> O2["Land-based communities<br/>True North, Hudson Harmonic,<br/>Wally Farms"]
+    BAES --> O3["Sessions on coordination,<br/>storytelling, data, credits,<br/>mutual aid, governance"]
 
     style BAES fill:#FF7043,stroke:#D84315,color:#fff
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -453,13 +453,13 @@ The series features interactive presentations from technology innovators (Spatia
 
 ```mermaid
 flowchart TD
-    PPP["PLANETARY PARTY PROTOCOL\nCoordination, Cultural &\nGovernance Layer"]
+    PPP["PLANETARY PARTY PROTOCOL<br/>Coordination, Cultural &<br/>Governance Layer"]
 
-    PPP --> KE_R["Kinship Earth\nFINANCIAL INFRASTRUCTURE\nStewarding & flowing capital\nthrough trust-based mechanisms"]
-    PPP --> PT_R["Permatours\nBIOREGIONAL IMPLEMENTATION\nGrounding practices, data,\nand coordination in the NE"]
-    PPP --> US_R["Unified Sanctuaries\nPLACE-BASED HUB\nHosting gatherings, experiments,\nand land-based practice"]
+    PPP --> KE_R["Kinship Earth<br/>FINANCIAL INFRASTRUCTURE<br/>Stewarding & flowing capital<br/>through trust-based mechanisms"]
+    PPP --> PT_R["Permatours<br/>BIOREGIONAL IMPLEMENTATION<br/>Grounding practices, data,<br/>and coordination in the NE"]
+    PPP --> US_R["Unified Sanctuaries<br/>PLACE-BASED HUB<br/>Hosting gatherings, experiments,<br/>and land-based practice"]
 
-    KE_R & PT_R & US_R --> ALIGN["Aligned through\nshared protocol --\nnot organizational control"]
+    KE_R & PT_R & US_R --> ALIGN["Aligned through<br/>shared protocol --<br/>not organizational control"]
 
     style PPP fill:#F9A825,stroke:#F57F17,color:#000
     style KE_R fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -484,16 +484,16 @@ Within this ecosystem:
 ```mermaid
 flowchart TD
     subgraph OPEN["OPEN SYSTEM -- Not a Closed Loop"]
-        KE["Kinship Earth\n12+ bioregions\nglobally"]
-        PP["Planetary Party\nAny community\ncan plug in"]
-        PT["Permatours\n40+ autonomous\npartner sites"]
-        US["Unified Sanctuaries\nOpen-source blueprint\nfor any community"]
+        KE["Kinship Earth<br/>12+ bioregions<br/>globally"]
+        PP["Planetary Party<br/>Any community<br/>can plug in"]
+        PT["Permatours<br/>40+ autonomous<br/>partner sites"]
+        US["Unified Sanctuaries<br/>Open-source blueprint<br/>for any community"]
     end
 
-    KE --> EXT1["Grassroots leaders &\ncommunities worldwide"]
-    PP --> EXT2["Groups far beyond\nthis constellation"]
-    PT --> EXT3["NE communities\nwith own missions"]
-    US --> EXT4["Communities adapting\nthe blueprint globally"]
+    KE --> EXT1["Grassroots leaders &<br/>communities worldwide"]
+    PP --> EXT2["Groups far beyond<br/>this constellation"]
+    PT --> EXT3["NE communities<br/>with own missions"]
+    US --> EXT4["Communities adapting<br/>the blueprint globally"]
 
     ALIGNED["ALIGNED ORGANIZATION NETWORK"] --> A1["The Pivot Earth"]
     ALIGNED --> A2["Holomovement"]
@@ -540,14 +540,14 @@ A critical design principle runs through the entire ecosystem: **these are parti
 
 ```mermaid
 flowchart TD
-    LWS["LIVE WITH SYD\nThe Nervous System\nWeekly Co-Creative Sessions"]
+    LWS["LIVE WITH SYD<br/>The Nervous System<br/>Weekly Co-Creative Sessions"]
 
-    LWS --> MON["MONDAY\nRegenerative Capital Flows\nKinship Earth +\nwhole ecosystem"]
-    LWS --> WED["WEDNESDAY\nPlanetary Party Ecosystem\nPlanetary Party +\ngovernance layer"]
-    LWS --> FRI["FRIDAY\nUnified Sanctuaries\nDevelopment +\nland projects"]
-    LWS --> MTH["MONTHLY\nHeart Sharing &\nGrief Transmutation\nWhole ecosystem"]
+    LWS --> MON["MONDAY<br/>Regenerative Capital Flows<br/>Kinship Earth +<br/>whole ecosystem"]
+    LWS --> WED["WEDNESDAY<br/>Planetary Party Ecosystem<br/>Planetary Party +<br/>governance layer"]
+    LWS --> FRI["FRIDAY<br/>Unified Sanctuaries<br/>Development +<br/>land projects"]
+    LWS --> MTH["MONTHLY<br/>Heart Sharing &<br/>Grief Transmutation<br/>Whole ecosystem"]
 
-    MON & WED & FRI & MTH --> CONTENT["CONTENT & STORYTELLING PIPELINE\nImpact narratives for KE fundraising\nEvent media for PP cultural reach\nTour docs for PT network storytelling\nDev updates for US donor pipeline"]
+    MON & WED & FRI & MTH --> CONTENT["CONTENT & STORYTELLING PIPELINE<br/>Impact narratives for KE fundraising<br/>Event media for PP cultural reach<br/>Tour docs for PT network storytelling<br/>Dev updates for US donor pipeline"]
 
     style LWS fill:#00796B,stroke:#004D40,color:#fff
     style MON fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -585,14 +585,14 @@ The leadership team weaves across all four platforms, ensuring coherence while m
 ```mermaid
 flowchart TD
     subgraph TEAM["SHARED LEADERSHIP TEAM"]
-        SYD["Syd Harvey Griffith\nExec Dir | Lead Architect\nCo-Founder | Lead Visionary"]
-        MF["Michael / Fuego\nFinancial Ops | Festival Production"]
-        JW["Josie Watson\nBoard | Core Steward\nEarth Law | Governance"]
-        EO["Eslerh Oreste\nFilm | Multimedia\nRitual Theater | Healing"]
-        PA["Pato\nPermaculture | Building\nNonprofit Mgmt"]
-        SC["Scotty\nSoil Science | Natural Building\nInfrastructure"]
-        SDM["Susan Davis Mora\nCo-Founder"]
-        JCK["Juan Carlos Kaiten\nVision Holder | Core Steward"]
+        SYD["Syd Harvey Griffith<br/>Exec Dir | Lead Architect<br/>Co-Founder | Lead Visionary"]
+        MF["Michael / Fuego<br/>Financial Ops | Festival Production"]
+        JW["Josie Watson<br/>Board | Core Steward<br/>Earth Law | Governance"]
+        EO["Eslerh Oreste<br/>Film | Multimedia<br/>Ritual Theater | Healing"]
+        PA["Pato<br/>Permaculture | Building<br/>Nonprofit Mgmt"]
+        SC["Scotty<br/>Soil Science | Natural Building<br/>Infrastructure"]
+        SDM["Susan Davis Mora<br/>Co-Founder"]
+        JCK["Juan Carlos Kaiten<br/>Vision Holder | Core Steward"]
     end
 
     SYD --> KE["Kinship Earth"] & PP["Planetary Party"] & PT["Permatours"] & US["Unified Sanctuaries"]
@@ -626,17 +626,17 @@ flowchart TD
 ```mermaid
 flowchart LR
     subgraph TARGETS["COMBINED CAPITAL TARGETS"]
-        KE["Kinship Earth\n$2M by 2026\n$20M by 2028"]
-        PP["Planetary Party\n$5M by 2026\n$20M by 2028"]
-        PT["Permatours\n$1M by 2026"]
-        US["Unified Sanctuaries\n$10M by 2026\n$100M by 2028"]
+        KE["Kinship Earth<br/>$2M by 2026<br/>$20M by 2028"]
+        PP["Planetary Party<br/>$5M by 2026<br/>$20M by 2028"]
+        PT["Permatours<br/>$1M by 2026"]
+        US["Unified Sanctuaries<br/>$10M by 2026<br/>$100M by 2028"]
     end
 
     subgraph SOURCES["REVENUE MODELS"]
-        KE_S["Philanthropic donations\nFoundation grants\nFlow fund admin"]
-        PP_S["Events & sponsorships\nMedia licensing\nGrants & donors"]
-        PT_S["Grants & donations\nFiscal sponsorship fees\nEvent revenue & tokens"]
-        US_S["Earned revenue\n$1.4M-$4.5M/yr\nImpact investment\nMemberships"]
+        KE_S["Philanthropic donations<br/>Foundation grants<br/>Flow fund admin"]
+        PP_S["Events & sponsorships<br/>Media licensing<br/>Grants & donors"]
+        PT_S["Grants & donations<br/>Fiscal sponsorship fees<br/>Event revenue & tokens"]
+        US_S["Earned revenue<br/>$1.4M-$4.5M/yr<br/>Impact investment<br/>Memberships"]
     end
 
     KE --- KE_S
@@ -666,16 +666,16 @@ The convergence of ecological, social, economic, and governance crises demands m
 
 ```mermaid
 flowchart TD
-    CRISIS["Ecological, Social, Economic\n& Governance Crises"]
+    CRISIS["Ecological, Social, Economic<br/>& Governance Crises"]
 
-    CRISIS -->|"Demands"| INFRA["COORDINATION\nINFRASTRUCTURE"]
+    CRISIS -->|"Demands"| INFRA["COORDINATION<br/>INFRASTRUCTURE"]
 
-    INFRA --> FIN["FINANCIAL\nInfrastructure\nthat reaches grassroots\n---\nKinship Earth"]
-    INFRA --> COORD["COORDINATION\nInfrastructure\nthat aligns without centralizing\n---\nPlanetary Party"]
-    INFRA --> CAP["CAPACITY\nInfrastructure\nthat builds skills & mutual aid\n---\nPermatours"]
-    INFRA --> PHYS["PHYSICAL\nInfrastructure\nthat embodies principles on land\n---\nUnified Sanctuaries"]
+    INFRA --> FIN["FINANCIAL<br/>Infrastructure<br/>that reaches grassroots<br/>---<br/>Kinship Earth"]
+    INFRA --> COORD["COORDINATION<br/>Infrastructure<br/>that aligns without centralizing<br/>---<br/>Planetary Party"]
+    INFRA --> CAP["CAPACITY<br/>Infrastructure<br/>that builds skills & mutual aid<br/>---<br/>Permatours"]
+    INFRA --> PHYS["PHYSICAL<br/>Infrastructure<br/>that embodies principles on land<br/>---<br/>Unified Sanctuaries"]
 
-    FIN & COORD & CAP & PHYS --> RES["RESILIENT ECOSYSTEM\nNo single point of failure\nEach strengthens the others\nAll serve wider communities"]
+    FIN & COORD & CAP & PHYS --> RES["RESILIENT ECOSYSTEM<br/>No single point of failure<br/>Each strengthens the others<br/>All serve wider communities"]
 
     style CRISIS fill:#EF5350,stroke:#C62828,color:#fff
     style INFRA fill:#00796B,stroke:#004D40,color:#fff

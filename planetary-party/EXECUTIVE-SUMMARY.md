@@ -33,11 +33,11 @@ We are witnessing converging crises -- a legitimacy crisis in institutions, a me
 flowchart TD
     PP["THE PLANETARY PARTY"]
 
-    PP --> MEME["A MEME\nOpen-source cultural\ninvitation for regenerative\ncelebration anywhere"]
-    PP --> SYSTEM["A LIVING SYSTEM\nFederated bioregional nodes\nFlow Funds, 9 Guilds\nDashboards & Embassies"]
-    PP --> TECH["A CULTURAL TECHNOLOGY\nFive-phase Protocol\nSense > See > Flow >\nCelebrate > Regenerate"]
+    PP --> MEME["A MEME<br/>Open-source cultural<br/>invitation for regenerative<br/>celebration anywhere"]
+    PP --> SYSTEM["A LIVING SYSTEM<br/>Federated bioregional nodes<br/>Flow Funds, 9 Guilds<br/>Dashboards & Embassies"]
+    PP --> TECH["A CULTURAL TECHNOLOGY<br/>Five-phase Protocol<br/>Sense > See > Flow ><br/>Celebrate > Regenerate"]
 
-    MEME --> OUTPUT["POSITIVE-TRACE\nINFRASTRUCTURE\nGardens, governance,\nwater systems,\nrelationships"]
+    MEME --> OUTPUT["POSITIVE-TRACE<br/>INFRASTRUCTURE<br/>Gardens, governance,<br/>water systems,<br/>relationships"]
     SYSTEM --> OUTPUT
     TECH --> OUTPUT
 
@@ -58,14 +58,14 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    S["1. SENSE\nDeep listening\nCircles & ritual"]
-    SE["2. SEE\nCollective mapping\nMeaning-making"]
-    F["3. FLOW\nResources move\nTrust-based\nFlow Funds"]
-    C["4. CELEBRATE\nFestivals &\nceremonies\nBuild momentum"]
-    R["5. REGENERATE\nTrack impact\nHarvest lessons\nReinvest"]
+    S["1. SENSE<br/>Deep listening<br/>Circles & ritual"]
+    SE["2. SEE<br/>Collective mapping<br/>Meaning-making"]
+    F["3. FLOW<br/>Resources move<br/>Trust-based<br/>Flow Funds"]
+    C["4. CELEBRATE<br/>Festivals &<br/>ceremonies<br/>Build momentum"]
+    R["5. REGENERATE<br/>Track impact<br/>Harvest lessons<br/>Reinvest"]
 
     S --> SE --> F --> C --> R
-    R -->|"Next cycle\ndeepens"| S
+    R -->|"Next cycle<br/>deepens"| S
 
     style S fill:#E8F5E9,stroke:#81C784,color:#000
     style SE fill:#C8E6C9,stroke:#66BB6A,color:#000
@@ -80,17 +80,17 @@ Communities move through a living spiral rhythm cyclically. Each cycle produces 
 
 ```mermaid
 flowchart TD
-    PPP["PLANETARY PARTY\nPROTOCOL"]
+    PPP["PLANETARY PARTY<br/>PROTOCOL"]
 
-    PPP --> G1["Living Systems\n& Solutions"]
-    PPP --> G2["Capacity\nBuilding"]
-    PPP --> G3["Regenerative\nCapital Flows"]
+    PPP --> G1["Living Systems<br/>& Solutions"]
+    PPP --> G2["Capacity<br/>Building"]
+    PPP --> G3["Regenerative<br/>Capital Flows"]
     PPP --> G4["Governance"]
     PPP --> G5["Events"]
     PPP --> G6["Storytelling"]
-    PPP --> G7["Bioregional\nIntelligence\nDashboard"]
+    PPP --> G7["Bioregional<br/>Intelligence<br/>Dashboard"]
     PPP --> G8["Tech"]
-    PPP --> G9["Ecosystem\nWeaving"]
+    PPP --> G9["Ecosystem<br/>Weaving"]
 
     style PPP fill:#F9A825,stroke:#F57F17,color:#000
     style G1 fill:#A5D6A7,stroke:#66BB6A,color:#000
@@ -166,20 +166,20 @@ Guilds are not departments -- they are open participation structures that anyone
 
 ```mermaid
 flowchart TD
-    CF["CORE FRACTAL\nCoordinating Body\nSyd, Josie, Juan Carlos"]
-    EC["EARTH COUNCIL\nIndigenous Wisdom Keepers\nSeasonal Guidance"]
+    CF["CORE FRACTAL<br/>Coordinating Body<br/>Syd, Josie, Juan Carlos"]
+    EC["EARTH COUNCIL<br/>Indigenous Wisdom Keepers<br/>Seasonal Guidance"]
 
-    CF --> GUILDS["NINE OPEN GUILDS\nDistributed Participation\n& Decision-Making"]
-    EC -->|"Seasonal\nguidance"| CF
+    CF --> GUILDS["NINE OPEN GUILDS<br/>Distributed Participation<br/>& Decision-Making"]
+    EC -->|"Seasonal<br/>guidance"| CF
 
-    GUILDS --> BIO["BIOREGIONAL NODES\nAutonomous Regions\nFederated Sovereignty"]
+    GUILDS --> BIO["BIOREGIONAL NODES<br/>Autonomous Regions<br/>Federated Sovereignty"]
 
     BIO --> COL["Colombia"]
     BIO --> JAM["Jamaica"]
     BIO --> MEX["Mexico"]
     BIO --> GUA["Guatemala"]
-    BIO --> NE["NE Turtle\nIsland"]
-    BIO --> FUT["Future\nBioregions"]
+    BIO --> NE["NE Turtle<br/>Island"]
+    BIO --> FUT["Future<br/>Bioregions"]
 
     style CF fill:#F9A825,stroke:#F57F17,color:#000
     style EC fill:#00796B,stroke:#004D40,color:#fff
@@ -223,11 +223,11 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1\nBuild Coordination\nLayer"]
-    P2["PHASE 2\nAssemble\nEcosystem"]
-    P3["PHASE 3\nActivate\nBioregionally"]
-    P4["PHASE 4\nDistributed\nAdoption"]
-    P5["PHASE 5\nCoherence\nWithout Control"]
+    P1["PHASE 1<br/>Build Coordination<br/>Layer"]
+    P2["PHASE 2<br/>Assemble<br/>Ecosystem"]
+    P3["PHASE 3<br/>Activate<br/>Bioregionally"]
+    P4["PHASE 4<br/>Distributed<br/>Adoption"]
+    P5["PHASE 5<br/>Coherence<br/>Without Control"]
 
     P1 --> P2 --> P3 --> P4 --> P5
 
@@ -259,12 +259,12 @@ Hold alignment through shared values, community agreements, and relational accou
 
 ```mermaid
 flowchart TD
-    PP["PLANETARY PARTY\nCoordination Protocol\nGlobal"]
+    PP["PLANETARY PARTY<br/>Coordination Protocol<br/>Global"]
 
-    KE["KINSHIP EARTH"] -->|"Fiscal sponsor &\nfinancial backbone"| PP
-    PP -.-|"Bioregional\nimplementation"| PT["PERMATOURS"]
-    PP -.-|"Can host\ngatherings"| US["UNIFIED\nSANCTUARIES"]
-    PP -->|"Open scaffold\nfor many groups"| MANY["MANY ECOSYSTEMS\nBeyond this\nconstellation"]
+    KE["KINSHIP EARTH"] -->|"Fiscal sponsor &<br/>financial backbone"| PP
+    PP -.-|"Bioregional<br/>implementation"| PT["PERMATOURS"]
+    PP -.-|"Can host<br/>gatherings"| US["UNIFIED<br/>SANCTUARIES"]
+    PP -->|"Open scaffold<br/>for many groups"| MANY["MANY ECOSYSTEMS<br/>Beyond this<br/>constellation"]
 
     subgraph ALIGNED["Aligned Organizations"]
         A1["The Pivot Earth"]

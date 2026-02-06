@@ -40,10 +40,10 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 
 ```mermaid
 flowchart LR
-    S1["1. IDENTIFY\nTrusted community\nleaders via Flow\nFund Advisors"]
-    S2["2. DEPLOY\nUnrestricted funds\nCommunities decide\nhow capital moves"]
-    S3["3. REPORT\nLightweight, story-based\naccountability\nNot compliance"]
-    S4["4. RECOMMEND\nFlow Funders nominate\nnext cohort\nSelf-perpetuating network"]
+    S1["1. IDENTIFY<br/>Trusted community<br/>leaders via Flow<br/>Fund Advisors"]
+    S2["2. DEPLOY<br/>Unrestricted funds<br/>Communities decide<br/>how capital moves"]
+    S3["3. REPORT<br/>Lightweight, story-based<br/>accountability<br/>Not compliance"]
+    S4["4. RECOMMEND<br/>Flow Funders nominate<br/>next cohort<br/>Self-perpetuating network"]
 
     S1 --> S2 --> S3 --> S4
     S4 -->|"Next cycle"| S1
@@ -63,22 +63,22 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    DONORS["DONORS\nFoundations, Family Offices\nDAFs, Individuals"]
-    KE["KINSHIP EARTH\nPrivate Foundation\n501c3"]
-    FFA["FLOW FUND ADVISORS\nBioregional Leaders\nIdentify Flow Funders"]
-    FF["FLOW FUNDERS\n18+ Active\n12+ Bioregions"]
+    DONORS["DONORS<br/>Foundations, Family Offices<br/>DAFs, Individuals"]
+    KE["KINSHIP EARTH<br/>Private Foundation<br/>501c3"]
+    FFA["FLOW FUND ADVISORS<br/>Bioregional Leaders<br/>Identify Flow Funders"]
+    FF["FLOW FUNDERS<br/>18+ Active<br/>12+ Bioregions"]
 
-    DONORS -->|"Philanthropic\ncapital"| KE
-    KE -->|"Unrestricted\ngrants"| FF
-    FFA -->|"Identify &\ninvite"| FF
+    DONORS -->|"Philanthropic<br/>capital"| KE
+    KE -->|"Unrestricted<br/>grants"| FF
+    FFA -->|"Identify &<br/>invite"| FF
 
-    FF --> C1["Ozarks\nCommunities"]
-    FF --> C2["Cascadia\nCommunities"]
-    FF --> C3["NE Turtle Island\nCommunities"]
-    FF --> C4["Colombia, Jamaica\nMexico, Guatemala"]
-    FF --> C5["Greater Tkaronto\nCommunities"]
+    FF --> C1["Ozarks<br/>Communities"]
+    FF --> C2["Cascadia<br/>Communities"]
+    FF --> C3["NE Turtle Island<br/>Communities"]
+    FF --> C4["Colombia, Jamaica<br/>Mexico, Guatemala"]
+    FF --> C5["Greater Tkaronto<br/>Communities"]
 
-    FF -->|"Recommend\nnext cohort"| FFA
+    FF -->|"Recommend<br/>next cohort"| FFA
 
     style DONORS fill:#E3F2FD,stroke:#90CAF9,color:#000
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -168,19 +168,19 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-    BOARD["BOARD MEMBERS\nGovernance Oversight"]
-    ADV["ADVISORS\nStrategic Guidance\nMarian Rockefeller Weber"]
-    TEAM["TEAM MEMBERS\nOperational Staff"]
-    FFA["FLOW FUND ADVISORS\nGrassroots Leaders\nIdentify Candidates"]
-    FF["FLOW FUNDERS\n18+ Active\nDeploy Funds"]
-    COP["COMMUNITY OF PRACTICE\nLaunched Oct 2024\nFlow Funders + Team + Donors"]
+    BOARD["BOARD MEMBERS<br/>Governance Oversight"]
+    ADV["ADVISORS<br/>Strategic Guidance<br/>Marian Rockefeller Weber"]
+    TEAM["TEAM MEMBERS<br/>Operational Staff"]
+    FFA["FLOW FUND ADVISORS<br/>Grassroots Leaders<br/>Identify Candidates"]
+    FF["FLOW FUNDERS<br/>18+ Active<br/>Deploy Funds"]
+    COP["COMMUNITY OF PRACTICE<br/>Launched Oct 2024<br/>Flow Funders + Team + Donors"]
 
     BOARD --> TEAM
     ADV --> TEAM
     TEAM --> FFA
     FFA --> FF
     FF --> COP
-    COP -->|"Shared learning\nfeeds back"| TEAM
+    COP -->|"Shared learning<br/>feeds back"| TEAM
 
     style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
     style ADV fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -215,14 +215,14 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1\nCapital & Cohort\nContinuity\n---\nRenew grants\nDeploy resources\nStrengthen governance"]
+    P1["PHASE 1<br/>Capital & Cohort<br/>Continuity<br/>---<br/>Renew grants<br/>Deploy resources<br/>Strengthen governance"]
 
-    P2["PHASE 2\nEducation &\nField Building\n---\nEducate donors & foundations\nCreate Flow Funding Playbook\nFree modular resource"]
+    P2["PHASE 2<br/>Education &<br/>Field Building<br/>---<br/>Educate donors & foundations<br/>Create Flow Funding Playbook<br/>Free modular resource"]
 
-    P3["PHASE 3\nBioregional\nScaling\n---\nAutonomous Flow Funds\nBackbone infrastructure\nLegal + Educational + Relational"]
+    P3["PHASE 3<br/>Bioregional<br/>Scaling<br/>---<br/>Autonomous Flow Funds<br/>Backbone infrastructure<br/>Legal + Educational + Relational"]
 
-    P1 -->|"Cohorts\nrenewed"| P2
-    P2 -->|"Playbook\npublished"| P3
+    P1 -->|"Cohorts<br/>renewed"| P2
+    P2 -->|"Playbook<br/>published"| P3
 
     style P1 fill:#E3F2FD,stroke:#42A5F5,color:#000
     style P2 fill:#64B5F6,stroke:#1E88E5,color:#fff
@@ -264,12 +264,12 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    KE["KINSHIP EARTH\nFlow Funding\nGlobal"]
+    KE["KINSHIP EARTH<br/>Flow Funding<br/>Global"]
 
-    KE -->|"Fiscal sponsor &\nfinancial backbone"| PP["PLANETARY PARTY\nCoordination Protocol"]
-    KE -->|"Flow funds outward\nto communities"| PT["PERMATOURS\nAction Network"]
-    KE -.-|"Case study;\nfirewalled"| US["UNIFIED\nSANCTUARIES"]
-    KE -->|"Primary purpose:\ncapital to many"| MANY["MANY COMMUNITIES\n12+ Bioregions\nGlobally"]
+    KE -->|"Fiscal sponsor &<br/>financial backbone"| PP["PLANETARY PARTY<br/>Coordination Protocol"]
+    KE -->|"Flow funds outward<br/>to communities"| PT["PERMATOURS<br/>Action Network"]
+    KE -.-|"Case study;<br/>firewalled"| US["UNIFIED<br/>SANCTUARIES"]
+    KE -->|"Primary purpose:<br/>capital to many"| MANY["MANY COMMUNITIES<br/>12+ Bioregions<br/>Globally"]
 
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
     style PP fill:#F9A825,stroke:#F57F17,color:#000
