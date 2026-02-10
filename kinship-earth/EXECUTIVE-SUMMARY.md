@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kinship Earth is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust. Founded by **Sydney Griffith** (Executive Director) and **Susan Davis Mora** (Co-Founder), Kinship Earth exists to catalyze planetary regeneration by transforming how philanthropy functions. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
+Kinship Earth is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust. Founded by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora**, Kinship Earth exists to catalyze planetary regeneration by transforming how philanthropy functions. In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its primary objective. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
 
 **Website:** [kinshipearth.org](https://www.kinshipearth.org/) | [flowfunding.org](https://flowfunding.org)
 **Entity:** Private Foundation (Nonprofit 501c3)
@@ -144,7 +144,7 @@ flowchart TD
 
 | Date | Milestone |
 |------|-----------|
-| Early 1990s | Marian Rockefeller Weber gives Susan Davis Mora one of the first-ever flow funding grants |
+| Early 1990s | Marian Rockefeller Weber gives Susan Davis Moora one of the first-ever flow funding grants |
 | June 2024 | Kinship Earth Flow Fund officially launched |
 | August 2024 | $500,000 raised |
 | October 2024 | First Community of Practice launched; Ozarks Bioregional Congress held |
@@ -291,12 +291,14 @@ Kinship Earth operates within a constellation of four interconnected projects:
 
 ---
 
-## Founding Team
+## Founders & Leadership
 
 | Name | Role | Focus |
 |------|------|-------|
-| **Syd Harvey Griffith** | Executive Director | Vision, strategy, fundraising, systems design. Pioneered Bioregional Flow Funding, supported 40+ land-based projects. |
-| **Susan Davis Mora** | Co-Founder | Original flow funding recipient (early 1990s from Marian Rockefeller Weber), co-founding vision |
+| **Stephen Gomes** | Founder | Co-founded Kinship Earth |
+| **Susan Davis Moora** | Founder | Co-founded Kinship Earth; original flow funding recipient (early 1990s from Marian Rockefeller Weber) |
+| **Walter Moora** | Founder | Co-founded Kinship Earth |
+| **Sydney Griffith** | Executive Director | Brought on in 2024 to lead the pivot to Flow Funding. Vision, strategy, fundraising, systems design. Supported 40+ land-based projects. |
 | **Michael (Fuego)** | Financial Operations | Accounting, compliance, financial operations |
 | **Marian Rockefeller Weber** | Advisor | Pioneer of flow funding; replace philanthropy's paperwork, reporting, and bureaucracy with relationships, trust, and generosity |
 
