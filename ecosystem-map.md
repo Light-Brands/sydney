@@ -1,47 +1,45 @@
 # Ecosystem Map
 
-> *How four initiatives at different scales relate to each other and to a wider movement -- with explicit boundaries around funding, scope, and centralization.*
+> *How a constellation of interconnected initiatives revolves around Sydney's advocacy and voice -- each capable of operating independently while thriving together through shared values and vision.*
 
-This document maps the relationships, scale differences, ethical boundaries, and community infrastructure across the initiatives stewarded by Syd Harvey Griffith. These projects are **participants in a wider ecosystem**, not the ecosystem itself. They operate at different scales (local, bioregional, global), maintain important boundaries (especially around funding), and are designed to make room for many other communities, organizations, and initiatives beyond Syd's direct orbit.
+This document maps the relationships, scale differences, ethical boundaries, and community infrastructure across the ecosystem stewarded by Syd Harvey Griffith. At the center is **Live with Syd** -- Sydney's personal advocacy brand and the connective tissue that holds everything together. These projects are **participants in a wider ecosystem**, not the ecosystem itself. They operate at different scales (local, bioregional, global), maintain important boundaries (especially around funding), and are designed to make room for many other communities, organizations, and initiatives beyond Syd's direct orbit.
 
 ---
 
-## The Architect
+## Syd is the Center
 
-Syd Harvey Griffith is a community organizer, movement builder, and regenerative finance leader who stewards four initiatives that are deeply related but operate at different scales and serve different purposes. She isn't designing a closed system where everything feeds everything else -- she's contributing to a wider regenerative movement through multiple expressions, each with its own integrity.
+**Syd Harvey Griffith** is a community organizer, movement builder, and regenerative finance leader who serves as the voice and connective tissue for a constellation of interconnected initiatives. Through **Live with Syd** -- her personal advocacy brand -- she translates complex regenerative work into compelling narratives, cultivates community, and coordinates action across multiple scales.
 
-Syd holds Executive Director roles, co-founder titles, and lead design seats across all four projects -- but more than titles, she holds a connective vision that recognizes these projects as **participants in something larger**. She's supported 40+ land-based projects, pioneered trust-based flow funding, and built networks that span from a single site in Vermont to global coordination.
+She isn't designing a closed system where everything feeds everything else -- she's contributing to a wider regenerative movement through multiple expressions, each with its own integrity. While Syd holds Executive Director roles, co-founder titles, and lead design seats across multiple projects, what matters most is her role as **advocate, storyteller, and weaver** -- making connections visible, amplifying the work, and holding space for emergence.
 
-Through Live with Syd, she also serves as a primary facilitator, educator, and public interface -- hosting weekly sessions that make the relationships and boundaries between these initiatives visible and participatory.
+Through weekly Live with Syd sessions, she serves as primary facilitator, educator, and public interface -- making the relationships and boundaries between initiatives visible and participatory, while each project maintains its own independence and leadership.
 
 ```mermaid
 graph TD
-    SYD(("Syd Harvey Griffith\nArchitect & Steward"))
+    LWS{{"LIVE WITH SYD<br/>Syd Harvey Griffith<br/>Advocacy & Voice<br/>THE GLUE"}}
 
-    SYD --- PP["PLANETARY PARTY\nCoordination Protocol\n🌍 Global"]
-    SYD --- KE["KINSHIP EARTH\nRegenerative Capital\n🌍 Global"]
-    SYD --- PT["PERMATOURS\nAction Network\n🌿 Northeast"]
-    SYD --- US["UNIFIED SANCTUARIES\nPhysical Site\n📍 Local (VT)"]
+    LWS ---|"voices &<br/>connects"| PP["PLANETARY PARTY<br/>Coordination Protocol<br/>🌍 Global"]
+    LWS ---|"voices &<br/>connects"| KE["KINSHIP EARTH<br/>Regenerative Capital<br/>🌍 Global"]
+    LWS ---|"voices &<br/>connects"| PT["PERMATOURS<br/>Action Network<br/>🌿 Northeast"]
+    LWS ---|"voices &<br/>connects"| US["UNIFIED SANCTUARIES<br/>Physical Site<br/>📍 Local (VT)"]
 
-    LWS{{"LIVE WITH SYD\nConnective Tissue"}}
-    LWS -.-> PP & PT & US & KE
+    PP -.-|"serves many<br/>ecosystems"| WIDER(("WIDER MOVEMENT<br/>Other communities,<br/>orgs, & initiatives"))
+    KE -.-|"deploys capital<br/>to many communities"| WIDER
+    PT -.-|"flows resources<br/>outward"| WIDER
 
-    SYD -.-|"participates in"| WIDER(("WIDER MOVEMENT\nOther communities,\norgs, & initiatives"))
-
-    style SYD fill:#00796B,stroke:#004D40,color:#fff
+    style LWS fill:#FF6B9D,stroke:#C2185B,color:#fff
     style PP fill:#F9A825,stroke:#F57F17,color:#000
     style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
     style US fill:#8D6E63,stroke:#5D4037,color:#fff
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
-    style LWS fill:#AB47BC,stroke:#7B1FA2,color:#fff
     style WIDER fill:#E0E0E0,stroke:#9E9E9E,color:#000
 ```
 
 ---
 
-## The Four Initiatives (at Different Scales)
+## The Initiatives (at Different Scales)
 
-These are not four equal pillars that symmetrically feed each other. They operate at different scales, have different scopes, and maintain ethical boundaries around how they relate -- especially financially.
+At the center is **Live with Syd** -- Sydney's advocacy platform that serves as the voice and connective tissue for all other initiatives. The four operational initiatives are not equal pillars that symmetrically feed each other. They operate at different scales, have different scopes, and maintain ethical boundaries around how they relate -- especially financially. Each can run independently while remaining interconnected through shared values and Sydney's advocacy.
 
 ```mermaid
 flowchart TD
@@ -256,9 +254,9 @@ A nonprofit deploying flow funds across multiple bioregions and communities inte
 
 ---
 
-## Live with Syd -- The Nervous System
+## Live with Syd -- The Advocacy Platform & Connective Tissue
 
-Live with Syd is not a fifth project -- it is the connective tissue that makes the four pillars one living system. These recurring, co-creative live sessions are where the ecosystem meets itself, processes together, builds coherence, and invites others in.
+**Live with Syd** is Sydney's personal advocacy brand and the glue that holds the entire ecosystem together. Far more than just connective infrastructure, it is a platform in its own right -- the voice, storytelling engine, and community hub for all initiatives. Through weekly co-creative sessions, Live with Syd translates complex regenerative work into compelling narratives, cultivates relationships across projects, and creates the conditions for emergence. This is where the ecosystem meets itself, processes together, builds coherence, and invites others in.
 
 ```mermaid
 flowchart TD
@@ -747,17 +745,20 @@ flowchart TD
 
 ## Key Insight
 
+**Syd is the center** -- through Live with Syd, she serves as the voice, storyteller, and connective tissue for all initiatives. Each project can run independently with its own leadership and governance, while remaining interconnected through shared values, cross-pollination of learning, and Sydney's advocacy.
+
 These initiatives are deeply related, but they are **not a closed or self-feeding loop**. The design principles that matter most:
 
-1. **Scale is explicit** -- local (Unified Sanctuaries), bioregional (Permatours), global (Planetary Party, Kinship Earth)
-2. **Ethical boundaries are visible** -- especially around funding flows between Syd's own projects
-3. **Hubs exist, but no single project is over-centralized** -- Unified Sanctuaries is a node, not the trunk
-4. **Syd's projects are participants in a wider ecosystem**, not the ecosystem itself
-5. **Room exists for emergence** -- other organizations, communities, and initiatives that are not affiliated with Syd are essential to the picture
+1. **Syd/Live with Syd is the hub** -- the advocacy platform and glue that holds everything together
+2. **Scale is explicit** -- local (Unified Sanctuaries), bioregional (Permatours), global (Planetary Party, Kinship Earth, Live with Syd)
+3. **Ethical boundaries are visible** -- especially around funding flows between Syd's own projects
+4. **Independent yet interconnected** -- each initiative can operate autonomously while supporting the whole
+5. **Participants in a wider ecosystem** -- Syd's projects serve a movement larger than any single person's orbit
+6. **Room exists for emergence** -- other organizations, communities, and initiatives beyond Syd's orbit are essential
 
 Planetary Party is a scaffold many groups can plug into. Kinship Earth unlocks capacity for many communities. Permatours flows resources outward. Unified Sanctuaries is one blueprint among many possible expressions.
 
-Live with Syd makes the connections between these initiatives visible, cultivates the relationships that power them, and holds the emotional container that sustains the people doing the work.
+**Live with Syd** makes the connections between these initiatives visible, translates their work into compelling stories, cultivates the relationships that power them, and holds the emotional container that sustains the people doing the work. It is the voice of the ecosystem.
 
 ```mermaid
 flowchart TD
