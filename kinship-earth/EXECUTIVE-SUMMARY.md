@@ -172,27 +172,25 @@ flowchart TD
 ```mermaid
 flowchart TD
     BOARD["BOARD MEMBERS<br/>Governance Oversight"]
-    ADV["ADVISORS<br/>Strategic Guidance<br/>Including Marion Rockefeller Weber"]
-    TEAM["TEAM MEMBERS<br/>Operational Staff"]
-    FFA["FLOW FUND ADVISORS<br/>AND KINSHIP EARTH LEADERSHIP<br/>Identify Flow Funder Candidates"]
-    FF["FLOW FUNDERS<br/>(Engaged in a Community of<br/>Practice with Our Donors)"]
-    COP["COMMUNITY OF PRACTICE<br/>Launched Oct 2024<br/>Flow Funders + Team + Donors"]
+    BOA["BOARD OF ADVISORS<br/>Offer Guidance"]
+    TEAM["TEAM<br/>Executive Director<br/>& Operational Support"]
+    FFA["FLOW FUND ADVISORS &<br/>OTHER MEMBERS OF KINSHIP<br/>EARTH'S LEADERSHIP TEAM<br/>Identify Flow Funder Candidates,<br/>as do existing Flow Funders"]
+    FF["FLOW FUNDERS<br/>Deploy Funds<br/>(And engage in a Community of<br/>Practice w/ our Donors and Team)"]
 
     BOARD --> TEAM
-    ADV --> TEAM
+    BOA --> TEAM
     TEAM --> FFA
     FFA --> FF
-    FF --> COP
-    COP -->|"Shared learning<br/>feeds back"| TEAM
-    COP -->|"Shared learning<br/>feeds back"| BOARD
-    COP -->|"Shared learning<br/>feeds back"| ADV
+    FF -->|"Learnings are<br/>fed back"| BOARD
+    FF -->|"Learnings are<br/>fed back"| BOA
+    FF -->|"Learnings are<br/>fed back"| TEAM
+    FF -->|"Learnings are<br/>fed back"| FFA
 
     style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
-    style ADV fill:#42A5F5,stroke:#1565C0,color:#fff
+    style BOA fill:#42A5F5,stroke:#1565C0,color:#fff
     style TEAM fill:#64B5F6,stroke:#42A5F5,color:#000
     style FFA fill:#90CAF9,stroke:#64B5F6,color:#000
     style FF fill:#BBDEFB,stroke:#90CAF9,color:#000
-    style COP fill:#E3F2FD,stroke:#BBDEFB,color:#000
 ```
 
 ### Governance Layers
@@ -202,7 +200,7 @@ flowchart TD
 3. **Team Members** -- Operational staff
 4. **Flow Fund Advisors** -- Grassroots community leaders who identify Flow Funder candidates
 5. **Flow Funders** -- Trusted community leaders, non profits, and bioregional organizing groups who receive and deploy funds
-6. **Communities of Practice** -- First CoP launched in October 2024 - bringing Flow Funders, team, and donors together for shared learning and growth
+6. **Communities of Practice (CoP)** -- First CoP launched in October 2024 - bringing Flow Funders, team members, and donors together for shared learning and growth
 
 ---
 
@@ -221,7 +219,7 @@ flowchart LR
 
     P2["PHASE 2<br/>Education &<br/>Field Building<br/>(Q1 2026 - Q4 2026)<br/>---<br/>Publish Flow Funding Playbook<br/>Renew grants Cohort 1 & 2<br/>Refine CoP for Cohort 3"]
 
-    P3["PHASE 3<br/>Bioregional<br/>Scaling<br/>(Q4 2026 onwards)<br/>---<br/>Autonomous Flow Funds<br/>Backbone infrastructure<br/>Legal + Educational + Relational"]
+    P3["PHASE 3<br/>Bioregional<br/>Scaling<br/>(Q4 2026 onwards)<br/>---<br/>Supporting the Creation of<br/>Autonomous Flow Funds;<br/>Providing Backbone infrastructure -<br/>Legal + Educational + Relational"]
 
     P1 --> P2
     P2 --> P3
@@ -233,7 +231,7 @@ flowchart LR
 
 ### Phase 1 -- Capital & Cohort Continuity (Q4 2024 - present)
 - Flow Funding to 3 Cohorts
-- Support Bioregional Organizing Groups with creating their own Flow Funding Foundations
+- Supporting Bioregional Organizing Groups with creating their own Flow Funding Foundations
 - Educating Family Offices, Foundations, DAFs, and high net worth individuals on how and why to practice Flow Funding
 
 ### Phase 2 -- Education & Field Building (Q1 2026 - Q4 2026)
@@ -243,7 +241,7 @@ flowchart LR
 
 ### Phase 3 -- Bioregional Scaling (Q4 2026 onwards)
 - Support the emergence of autonomous, place-based Flow Funds worldwide
-- Serve as backbone infrastructure -- not a centralized controller:
+- Serve as backbone infrastructure -- not a centralized controller, offering:
   - **Legal** -- compliance support
   - **Educational** -- training, tools, and the Flow Funding Playbook
   - **Relational** -- connecting bioregional leaders, facilitating shared learning
@@ -270,11 +268,11 @@ flowchart LR
 |------|------|-------|
 | **Stephen Gomes** | Founder, Board Member | Co-founded Kinship Earth |
 | **Susan Davis Moora** | Founder | Co-founded Kinship Earth; original flow funding recipient (early 1990s from Marion Rockefeller Weber) |
-| **Walter Moora** | Founder, Board Member | Co-founded Kinship Earth |
+| **Walter Moora** | Founder, Board Member | Co-founded Kinship Earth, bioregional tokenomics, community gardening |
 | **Sydney Griffith** | Executive Director | Brought on in 2024 to lead the pivot to Flow Funding. Vision, strategy, fundraising, systems design. Supported 40+ land-based projects. |
 | **George Orbelian** | Board Member | Ocean conservation, Buckminster Fuller Institute, and network weaving |
 | **Terry Mollner** | Board Member | The Sensation of Oneness and Common Good Capitalism |
-| **Josie Watson** | Board Member | Earth law / Mycelial Law |
+| **Josie Watson** | Board Member | Earth law / Mycelial Law, network building, NE of Turtle Island bioregional tending |
 | **Marion Rockefeller Weber** | Advisor | Pioneer of flow funding |
 
 ---
