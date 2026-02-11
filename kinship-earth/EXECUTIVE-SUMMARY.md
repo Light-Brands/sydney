@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kinship Earth is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Maximum trust. Founded by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora**, Kinship Earth exists to catalyze planetary regeneration by transforming how philanthropy functions. In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its primary objective. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
+Kinship Earth is a private foundation stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizers. No grant applications. Minimal reporting. Grounded in trust and in the wisdom of those closest to their communities' needs. Founded by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora**, Kinship Earth exists to catalyze planetary regeneration by transforming how philanthropy functions. In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its primary objective. The organization serves as both **financial infrastructure** and **education platform**, addressing the structural gaps in traditional institutional philanthropy that keep resources locked away from the communities that need them most.
 
 **Website:** [kinshipearth.org](https://www.kinshipearth.org/) | [flowfunding.org](https://flowfunding.org)
 **Entity:** Private Foundation (Nonprofit 501c3)
@@ -14,7 +14,7 @@ Kinship Earth is a private foundation stewarding **Flow Funding** -- a participa
 
 ## Mission & Vision
 
-**Mission:** To catalyze planetary regeneration and systemic healing by transforming how philanthropy functions -- moving unrestricted capital directly to trusted grassroots leaders and bioregional organizers through participatory, trust-based grantmaking.
+**Mission:** To catalyze planetary regeneration and systemic healing by transforming how philanthropy functions -- moving unrestricted capital directly to trusted grassroots leaders and bioregional organizing groups through participatory, trust-based grant-making.
 
 **Vision:** A world where financial resources reliably flow to the communities and ecosystems that need them most -- governed by trust, relationship, and accountability to life rather than bureaucracy, compliance, and donor preference. Flow Funding is not an alternative to philanthropy. It is philanthropy redesigned for the moment we're in.
 
@@ -26,7 +26,7 @@ Traditional philanthropy is structurally broken:
 
 - **Locks up capital:** Foundations distribute only ~7% of assets annually -- 93% stays locked in endowments
 - **Burdens changemakers:** Grassroots leaders spend countless hours finding grants and writing applications, pulling them away from the work that matters
-- **Enforces conformity:** Recipients must conform to what foundations think they should do -- not what communities actually need
+- **Enforces conformity:** Recipients oftentimes must conform to what foundations think they should do -- not what communities actually need
 - **Excludes the most effective actors:** Grassroots groups -- often operating on less than $50,000/year -- consistently deliver more effective, cost-efficient, and responsive solutions, yet remain the most underfunded
 - **Perpetuates inequity:** Indigenous peoples protect 80% of the world's biodiversity but receive less than 1% of climate finance
 
@@ -40,10 +40,10 @@ Flow Funding is a **financial nervous system** that reliably moves resources whe
 
 ```mermaid
 flowchart LR
-    S1["1. IDENTIFY<br/>Trusted community<br/>leaders via Flow<br/>Fund Advisors"]
-    S2["2. DEPLOY<br/>Unrestricted funds<br/>Communities decide<br/>how capital moves"]
-    S3["3. REPORT<br/>Lightweight, story-based<br/>accountability<br/>Not compliance"]
-    S4["4. RECOMMEND<br/>Flow Funders nominate<br/>next cohort<br/>Self-perpetuating network"]
+    S1["1. IDENTIFY<br/>Trusted community<br/>leaders via Flow Fund<br/>Advisors, Kinship Earth<br/>leadership, and existing<br/>Flow Funders"]
+    S2["2. DEPLOY<br/>Unrestricted funds;<br/>Community leaders and<br/>organizing groups decide<br/>how capital moves"]
+    S3["3. REPORT<br/>Lightweight, story-based<br/>accountability;<br/>No heavy compliance;<br/>minimal reporting"]
+    S4["4. RECOMMEND<br/>Flow Funders nominate<br/>next cohort when<br/>funding allows;<br/>Cultivating a self-<br/>perpetuating network"]
 
     S1 --> S2 --> S3 --> S4
     S4 -->|"Next cycle"| S1
@@ -54,10 +54,10 @@ flowchart LR
     style S4 fill:#AB47BC,stroke:#7B1FA2,color:#fff
 ```
 
-1. **Identify Trusted Community Leaders** -- Kinship Earth, guided by Flow Fund Advisors with deep bioregional ties, identifies trusted community leaders. If they accept the invitation, they receive **unrestricted funds** to deploy in service of their communities.
+1. **Identify Trusted Community Leaders** -- Kinship Earth, guided by its Flow Fund Advisors and leadership team with deep bioregional ties, identifies trusted community leaders, non profits, and bioregional organizing groups. If they accept the invitation, they receive **unrestricted funds** to deploy in service of their communities.
 2. **Flow Funders Deploy Resources** -- Flow Funders decide how, when, and where to move resources based on emergent community needs -- **without submitting applications or asking permission**.
 3. **Lightweight Reporting & Impact Stories** -- Flow Funders share basic reports and are invited to share stories of impact. This model replaces cumbersome compliance with relational accountability.
-4. **Flow Funders Recommend the Next Round** -- Flow Funders recommend the next cohort of trusted community leaders, creating a **self-perpetuating, decentralized network** governed by trust and accountability to life.
+4. **Flow Funders Recommend the Next Round** -- Flow Funders recommend the next cohort of trusted community leaders, creating a **self-perpetuating network** governed by trust and accountability to life.
 
 ### Capital Flow Architecture
 
@@ -65,30 +65,27 @@ flowchart LR
 flowchart TD
     DONORS["DONORS<br/>Foundations, Family Offices<br/>DAFs, Individuals"]
     KE["KINSHIP EARTH<br/>Private Foundation<br/>501c3"]
-    FFA["FLOW FUND ADVISORS<br/>Bioregional Leaders<br/>Identify Flow Funders"]
-    FF["FLOW FUNDERS<br/>18+ Active<br/>12+ Bioregions"]
+    FF["FLOW FUNDERS<br/>23 Flow Funders<br/>12+ Bioregions Resourced"]
 
     DONORS -->|"Philanthropic<br/>capital"| KE
     KE -->|"Unrestricted<br/>grants"| FF
-    FFA -->|"Identify &<br/>invite"| FF
 
-    FF --> C1["Ozarks<br/>Communities"]
-    FF --> C2["Cascadia<br/>Communities"]
-    FF --> C3["NE Turtle Island<br/>Communities"]
-    FF --> C4["Colombia, Jamaica<br/>Mexico, Guatemala"]
-    FF --> C5["Greater Tkaronto<br/>Communities"]
-
-    FF -->|"Recommend<br/>next cohort"| FFA
+    FF --> C1["Cascadia"]
+    FF --> C2["NE of Turtle Island"]
+    FF --> C3["Cloud Forest<br/>(in Mexico)"]
+    FF --> C4["Montego Bay<br/>(in Jamaica)"]
+    FF --> C5["Bioregions throughout<br/>Colombia"]
+    FF --> C6["East Africa"]
 
     style DONORS fill:#E3F2FD,stroke:#90CAF9,color:#000
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
-    style FFA fill:#90CAF9,stroke:#42A5F5,color:#000
     style FF fill:#1565C0,stroke:#0D47A1,color:#fff
     style C1 fill:#E8F5E9,stroke:#81C784,color:#000
     style C2 fill:#E8F5E9,stroke:#81C784,color:#000
     style C3 fill:#E8F5E9,stroke:#81C784,color:#000
     style C4 fill:#E8F5E9,stroke:#81C784,color:#000
     style C5 fill:#E8F5E9,stroke:#81C784,color:#000
+    style C6 fill:#E8F5E9,stroke:#81C784,color:#000
 ```
 
 ### What Makes Flow Funding Different
@@ -105,7 +102,7 @@ flowchart TD
 
 ### Four Core Functions
 
-1. Deploy unrestricted grants to trusted changemakers
+1. Deploy unrestricted grants to trusted changemakers and bioregional organizing groups
 2. Educate donors, family offices, DAFs, and foundations on trust-based philanthropy
 3. Support communities in establishing their own Flow Funding foundations
 4. Serve as both grantmaker and field-builder for the broader movement
@@ -128,7 +125,7 @@ flowchart TD
 | Near-term (2025-2026) | **$2M** by end of 2026 |
 | Medium-term (2026-2028) | **$20M** by end of 2028 |
 | 5-year target | **$10M+** deployed through **100+ flow funding grants** |
-| 5-year target | **20+ bioregional Flow Funds** created |
+| 5-year target | **Supporting the launch of and financially seeding 20+ bioregional Flow Funds** |
 | 10-year vision | **$200M** raised and deployed |
 
 ### Where Capital Goes
@@ -144,23 +141,29 @@ flowchart TD
 
 | Date | Milestone |
 |------|-----------|
-| Early 1990s | Marian Rockefeller Weber gives Susan Davis Moora one of the first-ever flow funding grants |
+| Early 1990s | Marion Rockefeller Weber gives Susan Davis Moora one of the first-ever flow funding grants |
+| May 2021 | Kinship Earth Founded |
 | June 2024 | Kinship Earth Flow Fund officially launched |
 | August 2024 | $500,000 raised |
-| October 2024 | First Community of Practice launched; Ozarks Bioregional Congress held |
-| February 2025 | $150,000 grant received from NOBO Foundation |
+| October 2024 | Flow Funding Cohort 1 launched, funds deployed, and First Community of Practice kicked off |
+| February 2025 | $150,000 grant received from Novo Foundation |
 | By mid-2025 | $300,000 in flow funding grants deployed to 18+ Flow Funders |
+| Nov 2025 | Another $150,000 grant received from Novo Foundation |
 | December 2025 | Continued fundraising and deployment beyond pitch figures |
+| Q1 2026 | $70K deployed to bioregional organizing groups around the world, including in Jamaica, Colombia, Mexico, and the Northeast of Turtle Island |
 
 **Total raised:** $800,000+ since adopting Flow Funding in 2024
-**Total deployed:** $300,000+ to 18+ Flow Funders across 12+ bioregions globally
+**Total deployed:** $370,000+ to 23 Flow Funders across 12+ bioregions globally
 
 ### Real-World Examples
 
 - **Food Sovereignty on Reservations:** A Flow Funder purchased a freeze dryer for a reservation so produce and herbs could be preserved through winter -- strengthening nutrition, reducing reliance on processed foods, and building long-term community resilience.
 - **Protecting Sacred Waters in Minnesota:** A Flow Funder helped prevent toxic mining waste from being dumped in a waterway -- protecting sacred waters, uplifting treaty rights, preserving ecosystems, and affirming Indigenous sovereignty.
 - **Family Food Security:** A Flow Funder expanded a program teaching families to grow food and raise chickens -- creating lasting food security, self-sufficiency, and empowerment.
-- **Ozarks Bioregional Congress (October 2024):** Strengthened intergenerational networks, deepened ecological literacy, and catalyzed cross-state collaborations around land trusts, water stewardship, and community-rooted solutions.
+- **Tumianuma Women's Gardens (Ecuador):** Cultivating permaculture food forests and gardens, as well as cultural exchange, run by local women.
+- **The Slim Butte Agricultural Program (Pine Ridge, South Dakota, USA):** Gaining critical winter heating and a truck for food delivery (Via The Fountain).
+- **The East African Coastal Forest Women's Flow Fund:** Supporting 10 women restoring ecosystems across five countries (Via Regenerosity).
+- **Regenerate Cascadia:** Piloting 8 landscape hubs across the Cascadia Bioregion (Pacific Northwest, USA, & Canada) that coordinate regeneration and finance at a bioregional scale.
 
 ---
 
@@ -169,10 +172,10 @@ flowchart TD
 ```mermaid
 flowchart TD
     BOARD["BOARD MEMBERS<br/>Governance Oversight"]
-    ADV["ADVISORS<br/>Strategic Guidance<br/>Marian Rockefeller Weber"]
+    ADV["ADVISORS<br/>Strategic Guidance<br/>Including Marion Rockefeller Weber"]
     TEAM["TEAM MEMBERS<br/>Operational Staff"]
-    FFA["FLOW FUND ADVISORS<br/>Grassroots Leaders<br/>Identify Candidates"]
-    FF["FLOW FUNDERS<br/>18+ Active<br/>Deploy Funds"]
+    FFA["FLOW FUND ADVISORS<br/>AND KINSHIP EARTH LEADERSHIP<br/>Identify Flow Funder Candidates"]
+    FF["FLOW FUNDERS<br/>(Engaged in a Community of<br/>Practice with Our Donors)"]
     COP["COMMUNITY OF PRACTICE<br/>Launched Oct 2024<br/>Flow Funders + Team + Donors"]
 
     BOARD --> TEAM
@@ -181,6 +184,8 @@ flowchart TD
     FFA --> FF
     FF --> COP
     COP -->|"Shared learning<br/>feeds back"| TEAM
+    COP -->|"Shared learning<br/>feeds back"| BOARD
+    COP -->|"Shared learning<br/>feeds back"| ADV
 
     style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
     style ADV fill:#42A5F5,stroke:#1565C0,color:#fff
@@ -193,11 +198,11 @@ flowchart TD
 ### Governance Layers
 
 1. **Board Members** -- Governance oversight
-2. **Advisors** -- Strategic guidance (including Marian Rockefeller Weber)
+2. **Advisors** -- Strategic guidance (including Marion Rockefeller Weber)
 3. **Team Members** -- Operational staff
 4. **Flow Fund Advisors** -- Grassroots community leaders who identify Flow Funder candidates
-5. **Flow Funders** -- Trusted community leaders who receive and deploy funds (18+ active)
-6. **Community of Practice** -- Launched October 2024, bringing Flow Funders, team, and donors together
+5. **Flow Funders** -- Trusted community leaders, non profits, and bioregional organizing groups who receive and deploy funds
+6. **Communities of Practice** -- First CoP launched in October 2024 - bringing Flow Funders, team, and donors together for shared learning and growth
 
 ---
 
@@ -205,9 +210,6 @@ flowchart TD
 
 - **Entity Type:** Private Foundation (Nonprofit 501c3)
 - **Fiscal Sponsor:** Serves as fiscal sponsor for the Planetary Party Protocol
-- **Ethical Boundaries:** KE's capital flows serve many communities internationally, not primarily Syd's own projects. Clear firewalls exist to prevent conflicts of interest.
-  - KE -> Permatours: flow funds deployed so Permatours could flow resources **outward** to communities
-  - KE -> Unified Sanctuaries: direct funding is an open question due to potential conflict of interest
 
 ---
 
@@ -215,33 +217,34 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1<br/>Capital & Cohort<br/>Continuity<br/>---<br/>Renew grants<br/>Deploy resources<br/>Strengthen governance"]
+    P1["PHASE 1<br/>Capital & Cohort<br/>Continuity<br/>(Q4 2024 - present)<br/>---<br/>Flow Funding to 3 Cohorts<br/>Support Bioregional Groups<br/>Educate Philanthropists"]
 
-    P2["PHASE 2<br/>Education &<br/>Field Building<br/>---<br/>Educate donors & foundations<br/>Create Flow Funding Playbook<br/>Free modular resource"]
+    P2["PHASE 2<br/>Education &<br/>Field Building<br/>(Q1 2026 - Q4 2026)<br/>---<br/>Publish Flow Funding Playbook<br/>Renew grants Cohort 1 & 2<br/>Refine CoP for Cohort 3"]
 
-    P3["PHASE 3<br/>Bioregional<br/>Scaling<br/>---<br/>Autonomous Flow Funds<br/>Backbone infrastructure<br/>Legal + Educational + Relational"]
+    P3["PHASE 3<br/>Bioregional<br/>Scaling<br/>(Q4 2026 onwards)<br/>---<br/>Autonomous Flow Funds<br/>Backbone infrastructure<br/>Legal + Educational + Relational"]
 
-    P1 -->|"Cohorts<br/>renewed"| P2
-    P2 -->|"Playbook<br/>published"| P3
+    P1 --> P2
+    P2 --> P3
 
     style P1 fill:#E3F2FD,stroke:#42A5F5,color:#000
     style P2 fill:#64B5F6,stroke:#1E88E5,color:#fff
     style P3 fill:#42A5F5,stroke:#1565C0,color:#fff
 ```
 
-### Phase 1 -- Capital & Cohort Continuity
-- Renew grants to Cohorts 1 & 2 Flow Funders
-- Support Flow Funders in deploying resources within their bioregions
-- Strengthen internal governance, compliance, and reporting clarity
+### Phase 1 -- Capital & Cohort Continuity (Q4 2024 - present)
+- Flow Funding to 3 Cohorts
+- Support Bioregional Organizing Groups with creating their own Flow Funding Foundations
+- Educating Family Offices, Foundations, DAFs, and high net worth individuals on how and why to practice Flow Funding
 
-### Phase 2 -- Education & Field Building
-- Develop educational materials for family offices, DAF holders, foundations, and high-net-worth individuals
-- Co-create the **Flow Funding Playbook** -- a free, modular resource to help communities launch their own flow funds
+### Phase 2 -- Education & Field Building (Q1 2026 - Q4 2026)
+- Publish a **Bioregional Flow Funding Playbook** -- a free, modular resource to help communities launch their own flow funds (Q1, 2026)
+- Renew grants to Flow Funders in Cohort 1 & 2
+- Refine our Community of Practice Processes for Cohort 3, just beginning (Q1, 2026)
 
-### Phase 3 -- Bioregional Scaling
+### Phase 3 -- Bioregional Scaling (Q4 2026 onwards)
 - Support the emergence of autonomous, place-based Flow Funds worldwide
 - Serve as backbone infrastructure -- not a centralized controller:
-  - **Legal** -- fiscal sponsorship and compliance support
+  - **Legal** -- compliance support
   - **Educational** -- training, tools, and the Flow Funding Playbook
   - **Relational** -- connecting bioregional leaders, facilitating shared learning
 
@@ -251,43 +254,13 @@ flowchart LR
 
 | Bioregion | Status |
 |-----------|--------|
-| **The Ozarks** | Site of October 2024 bioregional congress |
 | **Cascadia** | Active collaboration with bioregional organizers |
-| **Greater Tkaronto** | Active collaboration area |
-| **Northeast / Turtle Island** | Connected through Permatours network |
-| **Unity, Maine** | Site of aligned bioregional activation |
-| **Colombia, Jamaica, Mexico, Guatemala** | Expanding engagement internationally |
-
----
-
-## Ecosystem & Strategic Partnerships
-
-```mermaid
-flowchart TD
-    KE["KINSHIP EARTH<br/>Flow Funding<br/>Global"]
-
-    KE -->|"Fiscal sponsor &<br/>financial backbone"| PP["PLANETARY PARTY<br/>Coordination Protocol"]
-    KE -->|"Flow funds outward<br/>to communities"| PT["PERMATOURS<br/>Action Network"]
-    KE -.-|"Case study;<br/>firewalled"| US["UNIFIED<br/>SANCTUARIES"]
-    KE -->|"Primary purpose:<br/>capital to many"| MANY["MANY COMMUNITIES<br/>12+ Bioregions<br/>Globally"]
-
-    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
-    style PP fill:#F9A825,stroke:#F57F17,color:#000
-    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style US fill:#8D6E63,stroke:#5D4037,color:#fff
-    style MANY fill:#E0E0E0,stroke:#9E9E9E,color:#000
-```
-
-Kinship Earth operates within a constellation of four interconnected projects:
-
-| Partner Entity | Relationship |
-|---------------|-------------|
-| **Planetary Party** | KE serves as fiscal sponsor; provides financial backbone for PPP ecosystem |
-| **Permatours** | Has deployed flow funds so Permatours could flow resources outward to communities |
-| **Unified Sanctuaries** | May reference as case study; direct funding carefully managed with firewalls |
-| **Many communities** | Primary purpose is deploying capital across bioregions internationally |
-
-**Core principle:** All four are participants in a wider ecosystem, not a closed loop. Kinship Earth capital flows serve many communities, with Sydney's projects as participants, not primary beneficiaries.
+| **Greater Tkaronto Bioregion** | Active collaboration area |
+| **Northeast (Turtle Island)** | Active collaboration area |
+| **Montego Bay (in Jamaica)** | Active engagement internationally |
+| **Bioregions throughout Colombia** | Active engagement internationally |
+| **East Africa** | Active engagement internationally |
+| **Cloud Forest (in Mexico)** | Active engagement internationally |
 
 ---
 
@@ -295,12 +268,14 @@ Kinship Earth operates within a constellation of four interconnected projects:
 
 | Name | Role | Focus |
 |------|------|-------|
-| **Stephen Gomes** | Founder | Co-founded Kinship Earth |
-| **Susan Davis Moora** | Founder | Co-founded Kinship Earth; original flow funding recipient (early 1990s from Marian Rockefeller Weber) |
-| **Walter Moora** | Founder | Co-founded Kinship Earth |
+| **Stephen Gomes** | Founder, Board Member | Co-founded Kinship Earth |
+| **Susan Davis Moora** | Founder | Co-founded Kinship Earth; original flow funding recipient (early 1990s from Marion Rockefeller Weber) |
+| **Walter Moora** | Founder, Board Member | Co-founded Kinship Earth |
 | **Sydney Griffith** | Executive Director | Brought on in 2024 to lead the pivot to Flow Funding. Vision, strategy, fundraising, systems design. Supported 40+ land-based projects. |
-| **Michael (Fuego)** | Financial Operations | Accounting, compliance, financial operations |
-| **Marian Rockefeller Weber** | Advisor | Pioneer of flow funding; replace philanthropy's paperwork, reporting, and bureaucracy with relationships, trust, and generosity |
+| **George Orbelian** | Board Member | Ocean conservation, Buckminster Fuller Institute, and network weaving |
+| **Terry Mollner** | Board Member | The Sensation of Oneness and Common Good Capitalism |
+| **Josie Watson** | Board Member | Earth law / Mycelial Law |
+| **Marion Rockefeller Weber** | Advisor | Pioneer of flow funding |
 
 ---
 
@@ -325,7 +300,7 @@ Kinship Earth operates within a constellation of four interconnected projects:
 5. **Self-perpetuating network** -- each cohort of Flow Funders recommends the next, creating decentralized growth
 6. **Storytelling-integrated fundraising** -- content from across the movement supports donor cultivation
 7. **Field-building mission** -- not just deploying capital but helping communities build their own Flow Funds
-8. **Pioneer lineage** -- direct intellectual and relational lineage from Marian Rockefeller Weber's original flow funding vision
+8. **Pioneer lineage** -- direct intellectual and relational lineage from Marion Rockefeller Weber's original flow funding vision
 
 ---
 
@@ -333,7 +308,6 @@ Kinship Earth operates within a constellation of four interconnected projects:
 
 - **Fundraising execution:** Achieving $2M by end of 2026 and $20M by 2028 requires significant donor cultivation and foundation engagement
 - **Scaling without centralizing:** As bioregional Flow Funds emerge, maintaining coherence and accountability without imposing top-down control
-- **Conflict of interest management:** Ensuring clear firewalls between KE's capital flows and Syd's other projects, particularly Unified Sanctuaries
 - **Flow Funder accountability:** Balancing trust-based, lightweight reporting with sufficient transparency for donors and foundations
 - **Institutional credibility:** Building the organizational track record to unlock larger institutional grants and foundation partnerships
 - **Sustainability:** Transitioning from founder-dependent fundraising to a self-sustaining model with diversified revenue
@@ -342,7 +316,7 @@ Kinship Earth operates within a constellation of four interconnected projects:
 
 ## Summary
 
-Kinship Earth represents a fundamental redesign of how philanthropic capital reaches the communities and ecosystems that need it most. With $800,000+ raised and $300,000+ deployed to 18+ Flow Funders across 12+ bioregions in its first year, the model has demonstrated real traction. The self-perpetuating Flow Funder network, trust-based accountability structure, and bioregional organizing framework position Kinship Earth to scale from a promising proof of concept to a global infrastructure for regenerative capital deployment -- targeting $200M raised and deployed over the next decade.
+Kinship Earth represents a fundamental redesign of how philanthropic capital reaches the communities and ecosystems that need it most. With $800,000 raised since August 2024 and $370,000 deployed thus far across 23 Flow Funders in 12+ bioregions, the model has demonstrated real traction. Beyond deploying capital, Kinship Earth is actively educating philanthropists and foundations in trust-based, participatory approaches to giving, while supporting bioregional communities to design and launch their own Flow Funds. This trust-based accountability structure and bioregional resourcing focus position Kinship Earth to scale from a proven model into a global learning and deployment infrastructure for regenerative capital - targeting $200M raised and deployed over the next decade.
 
 ---
 
