@@ -140,7 +140,7 @@ flowchart TD
     style VALUE fill:#00796B,stroke:#004D40,color:#fff
 ```
 
-- **Sol Token (Utility):** A community currency exchangeable for goods and services within the ecosystem -- food, retreat sessions, event access, housing credits, and more.
+- **Utility Token:** A community currency exchangeable for goods and services within the ecosystem -- food, retreat sessions, event access, housing credits, and more.
 - **Voice Token (Governance):** Earned through participation and stewardship, granting decision-making weight in community governance. Contribution, not capital, determines influence.
 - **Trust Units:** Earned through infrastructure development and improvements to the land. Trust units can be liquidated upon exit, ensuring that contributors build tangible equity through their work.
 - **Non-Speculative Land Stewardship:** Land is held in a Trust, removing it from market speculation and ensuring permanent community stewardship.
@@ -311,7 +311,7 @@ And a plethora of aligned producers and service providers who have participated 
 | **Eslerh Oreste** | Film, multimedia, ritual theater, performing / healing arts |
 | **Fuego Gale** | Accounting, financial operations, festival production, membership sales |
 | **Josie Watson** | Earth lawyer, governance designer, playwright, performing / healing arts |
-| **Scotty** | Soil scientist, compost specialist, nature builder, engineer, acro yogi clown |
+| **Scotty Guzman** | Soil scientist, compost specialist, nature builder, engineer, acro yogi clown |
 
 ---
 
