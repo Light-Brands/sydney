@@ -263,47 +263,40 @@ flowchart TD
 
     KE["KINSHIP EARTH"] -->|"Fiscal sponsor &<br/>financial backbone"| PP
     PP -.-|"Bioregional<br/>implementation"| PT["PERMATOURS"]
-    PP -.-|"Can host<br/>gatherings"| US["UNIFIED<br/>SANCTUARIES"]
     PP -->|"Open scaffold<br/>for many groups"| MANY["MANY ECOSYSTEMS<br/>Beyond this<br/>constellation"]
 
-    subgraph ALIGNED["Aligned Organizations"]
+    subgraph PARTNERS["Partners"]
         A1["The Pivot Earth"]
         A2["Holomovement"]
         A3["Nalu'ea Living Trust"]
         A4["Bioregional Embassy"]
         A5["Micelio Media"]
         A6["Mycelial Law"]
-        A7["TerraLux Spatial Network"]
     end
 
-    PP -.- ALIGNED
+    PP -.- PARTNERS
 
     style PP fill:#F9A825,stroke:#F57F17,color:#000
     style KE fill:#42A5F5,stroke:#1565C0,color:#fff
     style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style US fill:#8D6E63,stroke:#5D4037,color:#fff
     style MANY fill:#E0E0E0,stroke:#9E9E9E,color:#000
-    style ALIGNED fill:#FFF8E1,stroke:#FFE082,color:#000
+    style PARTNERS fill:#FFF8E1,stroke:#FFE082,color:#000
 ```
 
-| Partner Entity | Relationship |
-|---------------|-------------|
+### Partners
+
+| Partner | Relationship |
+|---------|-------------|
 | **Kinship Earth** | Fiscal sponsor and financial backbone; provides Flow Funding infrastructure. The PPP operationalizes Kinship Earth's flow funding methodology at global scale. |
 | **Permatours** | Bioregional implementation partner in the Northeast; network practitioners participate in PP gatherings; PP provides cultural infrastructure |
-| **Unified Sanctuaries** | Could host gatherings; provides land-based context for protocol experimentation |
-| **Many ecosystems** | PP is a scaffold that groups beyond this constellation plug into |
+| **The Pivot Earth** | Women-led ecosystem weaver supporting bioregional regeneration |
+| **Holomovement** | A "movement of movements" oriented around conscious collaboration |
+| **Nalu'ea Living Trust** | Intergenerational stewardship vehicle for land and assets |
+| **Bioregional Embassy** | Diplomatic agency bridging governance, finance, and culture |
+| **Micelio Media** | Storytelling studio amplifying bioregional voices |
+| **Mycelial Law** | Earth-law practice exploring biomimicry-inspired legal structures |
 
-### Aligned Organizations
-
-- **The Pivot Earth** -- Women-led ecosystem weaver supporting bioregional regeneration
-- **Holomovement** -- A "movement of movements" oriented around conscious collaboration
-- **Nalu'ea Living Trust** -- Intergenerational stewardship vehicle for land and assets
-- **Bioregional Embassy** -- Diplomatic agency bridging governance, finance, and culture
-- **Micelio Media** -- Storytelling studio amplifying bioregional voices
-- **Mycelial Law** -- Earth-law practice exploring biomimicry-inspired legal structures
-- **TerraLux Spatial Network** -- Innovation lab and spatial intelligence platform
-
-**Critical design principle:** These four initiatives are not a closed system. Each maintains its own integrity, communities, and ethical boundaries. The Planetary Party is a scaffold that many groups beyond this constellation can plug into.
+**Critical design principle:** These initiatives are not a closed system. Each maintains its own integrity, communities, and ethical boundaries. The Planetary Party is a scaffold that many groups beyond this constellation can plug into.
 
 ---
 
@@ -363,7 +356,7 @@ flowchart TD
 
 ## Summary
 
-The Planetary Party addresses the critical coordination gap in the global regenerative movement -- connecting builders, organizers, funders, and cultural workers who are arriving at the same conclusions independently but working in silos. With active deployments across 5+ bioregions, a five-phase Protocol that produces lasting infrastructure with each cycle, nine functional Guilds for distributed participation, and a federated governance model that preserves local sovereignty, the Planetary Party is already demonstrating that regenerative coordination at global scale is possible without centralization. The immediate priorities are funding the coordination layer, deepening bioregional activations, and building the Guild ecosystem to the point of self-sustaining distributed adoption.
+The Planetary Party addresses the critical coordination gap in the global regenerative movement -- connecting builders, organizers, funders, and cultural workers - where many are arriving at similar conclusions independently but working in silos. With active engagement across 5+ bioregions, a Protocol that produces lasting infrastructure, nine Guilds for distributed participation in service of bioregional communities, and a federated governance model, the Planetary Party is demonstrating that regenerative coordination at global scale is possible without centralization. The immediate priorities are funding the foundational coordination layer, onboarding partners into our Guild ecosystem, and deepening bioregional activations with the goal being to support self-sustaining distributed adoption.
 
 ---
 
