@@ -2,14 +2,16 @@
 
 ## Overview
 
-Permatours is a Northeast-based permaculture action, education, and mutual aid network that activates people to learn by doing while strengthening land-based community hubs across the bioregion. Founded and led by Syd Harvey Griffith, Permatours has co-created **50+ learn-by-doing events** across **40+ land-based project sites** since 2021, building a mycelial network of communities, organizers, educators, and volunteers dedicated to regenerating ecosystems, empowering local stewardship, and addressing essential needs: food, water, shelter, energy, and belonging.
+Based in the Northeast of Turtle Island, Permatours is a permaculture action, education, and mutual aid network that activates people to learn-by-doing, while increasing the capacity of land-based community hubs across the bioregion.
 
-Permatours is not a single place or a traditional nonprofit program. It is a **living network** -- a capacity-builder and mobilizer that flows resources outward to the communities it serves.
+Co-founded Syd Harvey Griffith and Scotty Guzman, Permatours has co-created **50+ learn-by-doing events** across **40+ land-based project sites** since 2021, building a mycelial network of communities, organizers, educators, and volunteers dedicated to regenerating ecosystems, empowering local stewardship, and addressing essential needs: food, water, shelter, energy, and belonging.
+
+Permatours is a **living network** -- a capacity-builder and mobilizer that attracts hands-on volunteer support to the communities it serves.
 
 **Website:** [permatours.org](https://www.permatours.org/)
 **Entity:** Nonprofit (501c3)
 **Scale:** Northeast Bioregion of Turtle Island
-**Status:** Active -- evolving into decentralized mutual aid network
+**Status:** Active -- increasing its mutual aid focus, exploring a chapter model, developing a bioregional token
 
 ---
 
@@ -17,7 +19,7 @@ Permatours is not a single place or a traditional nonprofit program. It is a **l
 
 **Mission:** To support people in learning how to meet their basic needs in alignment with their values, with the support of community, land, and shared responsibility -- reducing dependency on extractive or misaligned systems and returning to ways of living that genuinely nourish people and place.
 
-**Vision:** A bioregional network where people can rebuild practical life skills, experience community-supported living, reconnect with land-based relational ways of living, and transition from passive participation to active stewardship -- co-creating resilient alternatives rooted in place, season, and reciprocity.
+**Vision:** A bioregional network where people can rebuild practical life skills, reconnect with land-based relational ways of living, transition from passive participation to active stewardship -- co-creating resilient alternatives rooted in place, season, and reciprocity.
 
 ---
 
@@ -25,7 +27,7 @@ Permatours is not a single place or a traditional nonprofit program. It is a **l
 
 ```mermaid
 flowchart TD
-    PT["PERMATOURS<br/>Central Network<br/>---<br/>2,000 subscribers<br/>1,000 active members"]
+    PT["PERMATOURS<br/>Rotating Leadership Model<br/>---<br/>45+ Community Centers Served<br/>3.5K followers on social<br/>2.5K email subscribers<br/>2.2K+ participants"]
 
     PT --> H1["Sacred Nectar<br/>Sanctuary (NH)"]
     PT --> H2["Diggers<br/>Co-Op (ME)"]
@@ -34,7 +36,7 @@ flowchart TD
     PT --> H5["Orange Peel<br/>Bakery (MA)"]
     PT --> H6["40+ More<br/>Partner Sites"]
 
-    H1 & H2 & H3 & H4 & H5 & H6 --> OUT["RESOURCES FLOW OUTWARD<br/>To communities & ecosystems"]
+    H1 & H2 & H3 & H4 & H5 & H6 --> OUT["Hands-On Permaculture, Natural Building,<br/>Community Building, & Workshop / Festival Production Support<br/>Serving Local, Land-Based Communities & Ecosystems"]
 
     style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
     style H1 fill:#C8E6C9,stroke:#81C784,color:#000
@@ -62,13 +64,13 @@ Permatours connects permaculture practitioners, land projects, and aligned organ
 
 ### Network Scale
 
-2,000 email subscribers, 1,000 active members -- proven model for mobilizing volunteers, coordinating land-based projects, and co-creating educational experiences that build real capacity.
+With over 45 Community Centers Served, 3.5K followers on social, 2.5K email subscribers, and 2.2K+ participants -- Permatours is a proven model for mobilizing volunteers, coordinating land-based projects, and co-creating educational experiences that build real capacity.
 
 ---
 
 ## The Next Evolution
 
-Permatours is evolving from a small team of under-resourced organizers into a **decentralized mutual aid network** with three interconnected dimensions:
+Permatours is evolving from a small team of under-resourced organizers into a **decentralized mutual aid network** with five interconnected dimensions:
 
 ### 1. Mutual Aid Network
 
@@ -80,7 +82,7 @@ flowchart TD
     COV --> CS["Communications<br/>& Storytelling"]
     COV --> CR["Conflict Resolution<br/>& Care"]
     COV --> GW["Grant Writing &<br/>Resource Mobilization"]
-    COV --> MA["Mutual Aid &<br/>Rapid Response"]
+    COV --> MA["Rapid Response"]
     COV --> ED["Education &<br/>Skill-Sharing"]
 
     EP & CS & CR & GW & MA & ED --> ASM["COMMUNITY ASSEMBLIES<br/>Transparent Governance<br/>Collective Decision-Making"]
@@ -95,7 +97,7 @@ flowchart TD
     style ASM fill:#2E7D32,stroke:#1B5E20,color:#fff
 ```
 
-Restructuring into distributed working circles, each operating within shared agreements (the Permatours Covenant) with transparent governance via community assemblies.
+Co-creating within distributed working groups, each operating under shared agreements (the Permatours Covenant) with transparent governance and community assemblies.
 
 ### 2. Regenerative Tokenomics
 
@@ -128,32 +130,15 @@ A dual-token system designed to recognize contributions, coordinate participatio
 
 ### 3. Chapters Model
 
-```mermaid
-flowchart TD
-    CORE["PERMATOURS CORE<br/>501c3 Infrastructure"]
+The Chapters Model is a replicable framework that allows communities in other bioregions to launch their own locally-rooted Permatours chapters while staying connected to the broader network. Each chapter operates autonomously under shared agreements (the Permatours Covenant), with access to Permatours' 501(c)(3) fiscal sponsorship, volunteer coordination infrastructure, marketing tools, educational resources, and Discord-based communication. Chapters can be activated through consulting support, backend production assistance, or co-hosted pilot events -- enabling communities to adapt the model to their own land, people, and needs.
 
-    CORE -->|"Fiscal sponsorship<br/>Volunteer database<br/>Discord coordination<br/>Marketing tools<br/>Educational resources"| CH1["Chapter:<br/>Bioregion A"]
-    CORE --> CH2["Chapter:<br/>Bioregion B"]
-    CORE --> CH3["Chapter:<br/>Bioregion C"]
-    CORE --> CH4["Future<br/>Chapters"]
+### 4. Paid Workshops and Festivals
 
-    subgraph PATHS["Three Activation Pathways"]
-        P1["Consulting<br/>Support"]
-        P2["Backend<br/>Production"]
-        P3["Co-Hosted<br/>Pilot Events"]
-    end
+Permatours plans to continue hosting paid events alongside its volunteer and mutual aid work, creating opportunities for its community of educators, practitioners, artists, and others to earn income for their contributions. Paid events serve as a revenue stream that supports the broader network while ensuring that skilled community members are fairly compensated. All paid events include work trade opportunities and scholarships to maintain accessibility and align with Permatours' commitment to inclusion and mutual aid.
 
-    PATHS --> CH1 & CH2 & CH3
+### 5. Trade Circles
 
-    style CORE fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style CH1 fill:#C8E6C9,stroke:#81C784,color:#000
-    style CH2 fill:#C8E6C9,stroke:#81C784,color:#000
-    style CH3 fill:#C8E6C9,stroke:#81C784,color:#000
-    style CH4 fill:#E8F5E9,stroke:#C8E6C9,color:#000
-    style PATHS fill:#E8F5E9,stroke:#81C784,color:#000
-```
-
-A replicable model so communities can adapt Permatours locally while staying connected to the broader network.
+Permatours plans to increase opportunities for members of its community to trade goods and services at events. This practice is already common at the festivals Permatours has produced, and the goal is to make it a regular feature across all events -- supporting each other's livelihoods and creating a culture of direct exchange. Trade Circles also create opportunities for community members to use the utility tokens earned through participation in Permatours events, building toward a regenerative local economy rooted in reciprocity.
 
 ---
 
@@ -161,7 +146,9 @@ A replicable model so communities can adapt Permatours locally while staying con
 
 | Timeframe | Target |
 |-----------|--------|
-| Near-term | **$1M** by end of 2026 |
+| Near-term | **$200K** by end of 2026 |
+| By end of 2027 | **$500K** raised |
+| By 2030 | **$5M** raised |
 
 ### Revenue Strategy
 
@@ -173,10 +160,9 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 
 - **Community Assemblies** -- Transparent governance through collective decision-making
 - **Working Circles** -- Six autonomous circles operating within shared agreements (the Permatours Covenant)
-- **Consistent Event Rhythm** -- Regular programming maintains coherence without centralized control
+- **Consistent Event Rhythm** -- Regular programming and clear expectations and community upheld agreements maintains coherence and reduces the need for paid staff / centralized oversight
 - **Clear Host Criteria** -- Standards for partner sites ensure quality and alignment
 - **Dual-Token Governance** -- Voice Tokens (non-transferable, decaying) separate governance power from economic participation
-- **Six Core Circles** -- Builders, Weavers, Storytellers, Resource Stewards, Governance/Evolution, Care Stewards
 - **Quest System** -- Any member can propose and complete valued work with peer verification
 
 ---
@@ -184,9 +170,7 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 ## Legal & Entity Structure
 
 - **Entity Type:** Nonprofit (501c3)
-- **Fiscal Sponsorship:** Provides 501(c)(3) fiscal sponsorship to local chapters
-- **Relationship to Kinship Earth:** KE has deployed flow funds so Permatours could flow resources **outward** to community members and ecosystems -- not to fund its own internal operations
-- **Design Principle:** Permatours flows resources outward to communities; Syd's other projects are not its primary beneficiaries
+- **Fiscal Sponsorship:** Provides 501(c)(3) fiscal sponsorship to aligned programs and to local chapters
 
 ---
 
@@ -194,11 +178,11 @@ Grants, donations, fiscal sponsorship fees, skilled-labor contracting, event rev
 
 ```mermaid
 flowchart LR
-    P1["PHASE 1<br/>Strengthen &<br/>Restructure<br/>---<br/>Continue events<br/>Form working circles<br/>Formalize Covenant<br/>Strengthen 40+ hubs"]
+    P1["PHASE 1 (Q1, 2026 - Q4, 2026)<br/>Strengthen & Lean into<br/>Mutual Aid + Decentralization<br/>---<br/>Continue hosting donation-based<br/>& ticketed events<br/>Strengthen 45+ hubs"]
 
-    P2["PHASE 2<br/>Deploy &<br/>Scale<br/>---<br/>Launch tokenomics<br/>Activate chapters<br/>Collect impact data<br/>Bioregional exchange"]
+    P2["PHASE 2 (Q1, 2027 onward)<br/>Deploy &<br/>Scale<br/>---<br/>Launch tokenomics<br/>Activate chapters<br/>Collect impact data<br/>Bioregional exchange"]
 
-    P3["PHASE 3<br/>Blueprint &<br/>Replicate<br/>---<br/>Document learnings<br/>Publish blueprints<br/>Expand beyond NE<br/>PPP implementation partner"]
+    P3["PHASE 3 (Q1, 2028 onward)<br/>Blueprint &<br/>Replicate<br/>---<br/>Document learnings<br/>Publish blueprints<br/>Expand beyond NE"]
 
     P1 -->|"Network<br/>formalized"| P2
     P2 -->|"Model<br/>proven"| P3
@@ -210,7 +194,7 @@ flowchart LR
 
 ### Phase 1 -- Strengthen & Restructure
 - Continue hands-on, land-based learning events across the NE bioregion
-- Restructure into distributed working circles (Mutual Aid Network)
+- Invite wider community to contribute to working groups and to uphold our culture and agreements collectively to reduce dependency on paid team members
 - Formalize the Permatours Covenant and community assemblies
 - Strengthen partnerships with 40+ existing hub sites
 
@@ -224,49 +208,28 @@ flowchart LR
 - Document all learnings -- governance, tokenomics, chapters model, mutual aid processes
 - Publish replicable blueprints for other bioregions
 - Expand chapters model beyond the Northeast
-- Serve as bioregional implementation partner for the Planetary Party Protocol
 
 ---
 
 ## Ecosystem & Strategic Partnerships
 
-```mermaid
-flowchart TD
-    PT["PERMATOURS<br/>Action Network<br/>Northeast"]
-
-    KE["KINSHIP EARTH"] -->|"Flow funds<br/>outward to<br/>communities"| PT
-    PP["PLANETARY PARTY"] -.-|"Bioregional<br/>implementation<br/>partner"| PT
-    PT -.-|"One hub<br/>among many"| US["UNIFIED<br/>SANCTUARIES"]
-    PT -->|"Resources flow<br/>outward"| HUBS["40+ NE HUBS<br/>Distributed Nodes"]
-    PT -.-|"Connected through<br/>founding team"| DIG["DIGGERS<br/>COOPERATIVE"]
-
-    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
-    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
-    style PP fill:#F9A825,stroke:#F57F17,color:#000
-    style US fill:#8D6E63,stroke:#5D4037,color:#fff
-    style HUBS fill:#C8E6C9,stroke:#81C784,color:#000
-    style DIG fill:#E8F5E9,stroke:#A5D6A7,color:#000
-```
-
-| Partner Entity | Relationship |
-|---------------|-------------|
-| **Unified Sanctuaries** | One hub among many in the NE network; runs projects and trainings on-site |
-| **Planetary Party** | Bioregional implementation partner; network practitioners participate in PP gatherings; PP provides cultural infrastructure |
-| **Kinship Earth** | KE has deployed flow funds so Permatours could flow resources outward to communities |
-| **NE Hubs** | Distributed nodes coordinating through shared values -- 40+ partner sites |
-| **Diggers Cooperative** | Connected through founding team; worker-owned composting and landscaping |
-
-**Core principle:** Permatours flows resources **outward** to community members and ecosystems. It is a network, not a funnel -- designed to strengthen many hubs, not centralize around one.
+- **Diggers Cooperative** -- Connected through founding team; worker-owned composting and landscaping
+- **Birds Nest Builders** -- Connected through founding team; natural builders co-op
+- An ecosystem of aligned producers, service providers, local makers, educators, artists, engineers, scientists, etc.
 
 ---
 
 ## Founding Team
 
-| Name | Role | Focus |
-|------|------|-------|
-| **Syd Harvey Griffith** | Co-Founder | Built the network supporting 40+ land-based projects across the NE. Executive Director of Kinship Earth, co-founder of Permatours, lead designer of Planetary Party. The connective force weaving Permatours into the larger regenerative ecosystem. |
-| **Pato** | Core Team | Permaculture installations, global hub partnerships, nonprofit management |
-| **Scotty** | Core Team | Soil science, compost co-op, natural building -- core practitioner and educator |
+- **Syd Harvey Griffith** -- Co-founder of Permatours, community organizer, event producer, fundraising strategist, grant writer
+- **Scotty Guzman** -- Co-founder of Permatours, Permatours Council member, builder, engineer, soil scientist, permaculturist, community organizer
+- **Riana Kernan** -- Permatours Council member, water engineer, permaculturist, community organizer
+- **Buttons Can** -- Permatours Council member, local maker, community organizer
+- **Joy Masicotte** -- Grant writer, educational program developer
+- **Blaize Green** -- Permatours Council member, community organizer, festival producer
+- **Citrine Glenn** -- Permatours Council member, grant researcher and writer, program developer, community organizer
+- **Soma** -- Community organizer
+- A plethora of volunteers who support on an event-by-event basis
 
 ---
 
@@ -278,8 +241,8 @@ flowchart TD
 | **Host an Event** | Open your community center, farm, or land project |
 | **Donate** | Support the network and the hubs it serves |
 | **Educate** | Teach at an event -- in person or online |
-| **Build the Chapters Model** | Activate Permatours in your bioregion |
-| **Develop Tokenomics** | Help design and test regenerative economic systems |
+| **Utilize the Chapters Model** | Activate Permatours in your bioregion |
+| **Co-create and launch our Tokenomics model** | Help design and test regenerative economic systems |
 | **Build the Mutual Aid Network** | Contribute to governance, circle work, and collective stewardship |
 
 ---
@@ -290,16 +253,15 @@ flowchart TD
 2. **Action-first** -- work days, builds, plantings, harvests, mutual aid
 3. **Mutual aid at the core** -- not transactional; built on reciprocity, solidarity, and shared agreements
 4. **NE Hub system** -- local nodes that self-organize under shared values and coordination
-5. **Regenerative tokenomics** -- a dual-token system that separates economic and governance power, prevents extraction, and aligns incentives with participation
+5. **Regenerative tokenomics** (under development) -- a dual-token system that separates economic and governance power, prevents extraction, and aligns incentives with participation
 6. **Built-in media engine** -- every tour and project is documented, creating ongoing educational content and storytelling
-7. **Designed for replication** -- the chapters model, tokenomics, and governance framework are blueprints for other bioregions
-8. **Outward resource flow** -- designed to strengthen communities, not to funnel energy inward
+7. **Designed for replication** -- the chapters model (under development), tokenomics, and governance framework are blueprints for other bioregions
 
 ---
 
 ## Key Risks & Open Questions
 
-- **Fundraising execution:** Achieving $1M by end of 2026 requires grants, donations, and event revenue at a scale beyond current operations
+- **Fundraising execution:** Achieving $200K by the end of 2026, $500K by the end of 2027, and $5M by 2030, requires grants, donations, and event revenue at a scale beyond current operations
 - **Decentralization transition:** Moving from a founder-led small team to distributed working circles without losing coherence or momentum
 - **Tokenomics implementation:** Designing, testing, and deploying a dual-token system that works in practice and gains community adoption
 - **Chapter activation:** Building replicable chapters requires pilot testing, documentation, and volunteer point-people in new bioregions
@@ -310,7 +272,7 @@ flowchart TD
 
 ## Summary
 
-Permatours has built a proven bioregional network with 50+ events across 40+ sites and a community of 1,000+ active members, demonstrating that action-first, mutual-aid-centered permaculture education can mobilize people and strengthen land-based communities at scale. The next evolution -- into a decentralized mutual aid network with regenerative tokenomics and a replicable chapters model -- positions Permatours to become both the bioregional implementation engine for the wider regenerative ecosystem and a blueprint that communities in any bioregion can adapt to meet their own needs.
+Permatours has built a proven bioregional network with 50+ events across 45+ sites and a community of 2K+ active members, demonstrating that action-first, mutual-aid-centered permaculture education can mobilize people and strengthen land-based communities at scale. The next evolution -- into a decentralized mutual aid network with regenerative tokenomics and a replicable chapters model, plus more intensive data collection efforts -- positions Permatours to become both the bioregional implementation engine for the wider regenerative ecosystem and a blueprint that communities in any bioregion can adapt to meet their own needs.
 
 ---
 
