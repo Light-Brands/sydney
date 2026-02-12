@@ -172,19 +172,16 @@ flowchart TD
 ```mermaid
 flowchart TD
     BOARD["BOARD MEMBERS<br/>Governance Oversight"]
-    BOA["BOARD OF ADVISORS<br/>Offer Guidance"]
-    TEAM["TEAM<br/>Executive Director<br/>& Operational Support"]
-    FFA["FLOW FUND ADVISORS &<br/>OTHER MEMBERS OF KINSHIP<br/>EARTH'S LEADERSHIP TEAM<br/>Identify Flow Funder Candidates,<br/>as do existing Flow Funders"]
-    FF["FLOW FUNDERS<br/>Deploy Funds<br/>(And engage in a Community of<br/>Practice w/ our Donors and Team)"]
+    BOA["BOARD OF ADVISORS<br/>Strategic Guidance"]
+    TEAM["TEAM<br/>Operations & Leadership"]
+    FFA["FLOW FUND ADVISORS<br/>Identify Flow Funder Candidates"]
+    FF["FLOW FUNDERS<br/>Deploy Funds & Share Learnings"]
 
     BOARD --> TEAM
     BOA --> TEAM
     TEAM --> FFA
     FFA --> FF
-    FF -->|"Learnings are<br/>fed back"| BOARD
-    FF -->|"Learnings are<br/>fed back"| BOA
-    FF -->|"Learnings are<br/>fed back"| TEAM
-    FF -->|"Learnings are<br/>fed back"| FFA
+    FF -.->|"Feedback loop"| TEAM
 
     style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
     style BOA fill:#42A5F5,stroke:#1565C0,color:#fff
