@@ -174,7 +174,7 @@ flowchart TD
     BOARD["BOARD MEMBERS<br/>Governance Oversight"]
     BOA["BOARD OF ADVISORS<br/>Strategic Guidance"]
     TEAM["TEAM<br/>Operations & Leadership"]
-    FFA["FLOW FUND ADVISORS<br/>Identify Flow Funder Candidates"]
+    FFA["FLOW FUND ADVISORS,<br/>KINSHIP EARTH LEADERSHIP,<br/>& EXISTING FLOW FUNDERS<br/>Identify Flow Funder Candidates"]
     FF["FLOW FUNDERS<br/>Deploy Funds & Share Learnings"]
 
     BOARD --> TEAM
@@ -182,6 +182,8 @@ flowchart TD
     TEAM --> FFA
     FFA --> FF
     FF -.->|"Feedback loop"| TEAM
+    FF -.->|"Feedback loop"| BOARD
+    FF -.->|"Feedback loop"| BOA
 
     style BOARD fill:#1565C0,stroke:#0D47A1,color:#fff
     style BOA fill:#42A5F5,stroke:#1565C0,color:#fff
