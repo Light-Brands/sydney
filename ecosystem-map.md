@@ -12,7 +12,7 @@ This document maps the relationships, scale differences, ethical boundaries, and
 
 ```mermaid
 graph TD
-    SYD(("SYD HARVEY<br/>GRIFFITH<br/>───<br/>Community Organizer<br/>Movement Builder<br/>Regen Finance Leader"))
+    SYD(("SYD HARVEY<br/>GRIFFITH"))
 
     SYD ==>|"Creator & Host"| LWS
     SYD ==>|"Executive Director"| KE
