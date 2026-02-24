@@ -6,6 +6,68 @@ This document maps the relationships, scale differences, ethical boundaries, and
 
 ---
 
+## Syd's Organizational Relationships
+
+> *How Syd relates to each initiative -- personal roles, what each does, and how they connect.*
+
+```mermaid
+graph TD
+    SYD(("SYD HARVEY<br/>GRIFFITH<br/>───<br/>Community Organizer<br/>Movement Builder<br/>Regen Finance Leader"))
+
+    SYD ==>|"Creator & Host"| LWS
+    SYD ==>|"Executive Director"| KE
+    SYD ==>|"Co-Founder"| PT
+    SYD ==>|"Lead Designer"| PP
+    SYD ==>|"Lead Visionary"| US
+
+    LWS{{"LIVE WITH SYD<br/>───<br/>Advocacy & Voice<br/>THE GLUE<br/>🎙️ Personal / Global"}}
+    KE["KINSHIP EARTH<br/>───<br/>Flow Funding &<br/>Regenerative Capital<br/>🌍 Global"]
+    PT["PERMATOURS<br/>───<br/>Permaculture Action<br/>& Mutual Aid Network<br/>🌿 Northeast Bioregion"]
+    PP["PLANETARY PARTY<br/>───<br/>Cultural &<br/>Coordination Protocol<br/>🌍 Global"]
+    US["UNIFIED SANCTUARIES<br/>───<br/>Regenerative Village<br/>& Open-Source Blueprint<br/>📍 Southern Vermont"]
+
+    LWS -.->|"Monday sessions<br/>donor cultivation"| KE
+    LWS -.->|"Wednesday sessions<br/>guild building"| PP
+    LWS -.->|"network connections<br/>mutual aid"| PT
+    LWS -.->|"Friday sessions<br/>land design"| US
+
+    KE ---|"fiscal sponsor &<br/>financial backbone"| PP
+    PP ---|"bioregional<br/>implementation"| PT
+    PT ---|"one hub<br/>among many"| US
+    KE ---|"case study;<br/>firewalled funding"| US
+
+    PP ---|"serves many<br/>ecosystems"| EXT(("WIDER<br/>MOVEMENT<br/>& OTHER<br/>COMMUNITIES"))
+    KE ---|"deploys capital<br/>across bioregions"| EXT
+    PT ---|"flows resources<br/>outward"| EXT
+
+    style SYD fill:#9C27B0,stroke:#6A1B9A,color:#fff
+    style LWS fill:#FF6B9D,stroke:#C2185B,color:#fff
+    style KE fill:#42A5F5,stroke:#1565C0,color:#fff
+    style PP fill:#F9A825,stroke:#F57F17,color:#000
+    style PT fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style US fill:#8D6E63,stroke:#5D4037,color:#fff
+    style EXT fill:#E0E0E0,stroke:#9E9E9E,color:#000
+```
+
+**Syd's Roles at a Glance:**
+
+| Initiative | Syd's Role | What It Does | Scale |
+|---|---|---|---|
+| **Live with Syd** | Creator & Host | Advocacy, storytelling, connective tissue | Personal / Global |
+| **Kinship Earth** | Executive Director | Flow funding & regenerative capital | Global |
+| **Planetary Party** | Lead Designer | Cultural & coordination protocol | Global |
+| **Permatours** | Co-Founder | Permaculture action & mutual aid network | Northeast Bioregion |
+| **Unified Sanctuaries** | Lead Visionary | Land-based regenerative village | Local (Southern VT) |
+
+**How They Connect Through Syd:**
+- **Voice**: Live with Syd translates all initiatives into compelling stories and cultivates community across them
+- **Capital**: Kinship Earth provides fiscal infrastructure and deploys regenerative capital outward
+- **Coordination**: Planetary Party offers governance and gathering scaffolding for many ecosystems
+- **Action**: Permatours flows resources outward through mutual aid and permaculture practice
+- **Place**: Unified Sanctuaries grounds it all in land -- one blueprint among many possible expressions
+
+---
+
 ## Syd is the Center
 
 **Syd Harvey Griffith** is a community organizer, movement builder, and regenerative finance leader who serves as the voice and connective tissue for a constellation of interconnected initiatives. Through **Live with Syd** -- her personal advocacy brand -- she translates complex regenerative work into compelling narratives, cultivates community, and coordinates action across multiple scales.
