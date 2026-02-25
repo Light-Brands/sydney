@@ -33,23 +33,9 @@ PDF_BASE_URL = (
     "kinship-earth/flow-funding-playbook/pdfs/"
 )
 
-# Map Section 14 tools/templates to their PDF filenames
-SECTION14_PDF_MAP = {
-    # Documents and Forms
-    "Onboarding Form": "Flow-Funder-Onboarding-Form.pdf",
-    "Flow Funder Agreement": "Flow-Funder-Agreement-Template.pdf",
-    "Reporting Form": "Disbursement-and-Reporting-Form.pdf",
-    "Nomination / Recommendation Form": "Playbook-Contribution-Form.pdf",
-    "Storytelling Framework": "How-to-Tell-a-Flow-Funding-Story.pdf",
-    "Community of Practice Guide": "Community-of-Practice-Framework.pdf",
-    "Donor Cultivation Tracker": None,  # No PDF available
-    "Bioregional Mapping Worksheet": None,  # No PDF available
-    # Legal Templates
-    "Sample Bylaws": None,
-    "Fiscal Sponsorship Agreement Template": "Fiscal-Sponsorship-Without-501c3.pdf",
-    "Conflict of Interest Policy": None,
-    "Gift Acceptance Policy": None,
-}
+# Section 14 no longer links to external PDFs -- resources are in the Appendix.
+# This map is kept empty but retained for code compatibility.
+SECTION14_PDF_MAP = {}
 
 # ---------------------------------------------------------------------------
 # Color palette — earthy, organic, professional
@@ -609,8 +595,17 @@ def parse_markdown(filepath):
         if stripped.startswith("### "):
             flush_paragraph()
             title = stripped[4:].strip()
-            flowables.append(Spacer(1, 6))
-            flowables.append(Paragraph(md_inline(title), STYLES["h3"]))
+            # Appendix items get a page break before each one
+            if title.startswith("Appendix A-"):
+                flowables.append(PageBreak())
+                flowables.append(Spacer(1, 8))
+                flowables.append(AccentBar(width=50, color=C_ACCENT))
+                flowables.append(Spacer(1, 4))
+                flowables.append(Paragraph(md_inline(title), STYLES["h2"]))
+                flowables.append(Spacer(1, 4))
+            else:
+                flowables.append(Spacer(1, 6))
+                flowables.append(Paragraph(md_inline(title), STYLES["h3"]))
             i += 1
             continue
 
@@ -721,17 +716,19 @@ def on_page(canvas, doc):
     canvas.setLineWidth(0.5)
     canvas.line(MARGIN_LEFT, MARGIN_BOTTOM - 15, PAGE_W - MARGIN_RIGHT, MARGIN_BOTTOM - 15)
 
-    # Footer text
+    # Footer text (left side)
     canvas.setFont("LibSans", 8)
     canvas.setFillColor(C_TEXT_LIGHT)
-    canvas.drawCentredString(
-        PAGE_W / 2, MARGIN_BOTTOM - 28,
-        f"The Bioregional Flow Funding Playbook  |  Kinship Earth  |  Q1 2026"
+    canvas.drawString(
+        MARGIN_LEFT, MARGIN_BOTTOM - 28,
+        "The Bioregional Flow Funding Playbook  |  Kinship Earth  |  Q1 2026"
     )
 
-    # Page number
-    canvas.drawRightString(
-        PAGE_W - MARGIN_RIGHT, MARGIN_BOTTOM - 28,
+    # Page number (centered at bottom)
+    canvas.setFont("LibSans-Bold", 9)
+    canvas.setFillColor(C_TEXT)
+    canvas.drawCentredString(
+        PAGE_W / 2, MARGIN_BOTTOM - 42,
         str(doc.page)
     )
 

@@ -38,6 +38,7 @@ Our team is available to you beyond this document. Kinship Earth is here to walk
 16. [What Is Coming Next: A Playbook for Funders](#16-what-is-coming-next-a-playbook-for-funders)
 17. [Frequently Asked Questions](#17-frequently-asked-questions)
 18. [Closing: An Invitation](#18-closing-an-invitation)
+19. [Appendix: Resource Library](#19-appendix-resource-library)
 
 ---
 
@@ -559,46 +560,53 @@ If your bioregion already has gatherings, congresses, convenings, or events that
 
 ## 14. Tools and Templates
 
-Kinship Earth provides bioregional communities receiving this playbook with a set of practical tools and templates to support the creation of their own unique Flow Funds. These include:
+Kinship Earth provides bioregional communities receiving this playbook with a set of practical tools and templates to support the creation of their own unique Flow Funds. The full text of each resource is included in the Appendix (Section 19) at the end of this playbook for easy reference.
 
 ### Documents and Forms
 
 | Tool | Purpose |
 |------|---------|
-| **[Onboarding Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Onboarding-Form.pdf)** | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
-| **[Flow Funder Agreement](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Agreement-Template.pdf)** | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
-| **[Reporting Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Disbursement-and-Reporting-Form.pdf)** | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
-| **[Nomination / Recommendation Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Playbook-Contribution-Form.pdf)** | For Flow Funders to recommend the next cohort of trusted community leaders |
-| **[Storytelling Framework](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/How-to-Tell-a-Flow-Funding-Story.pdf)** | A guide for Flow Funders and communities to capture and share their impact stories |
-| **[Community of Practice Guide](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Community-of-Practice-Framework.pdf)** | Framework for establishing and facilitating your shared learning community |
-| **Donor Cultivation Tracker** | A simple tool for tracking relationships with potential and existing donors |
-| **Bioregional Mapping Worksheet** | A guide for mapping the leaders, organizations, resources, and needs in your bioregion |
+| **Onboarding Form** (Appendix A-1) | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
+| **Flow Funder Agreement** (Appendix A-2) | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
+| **Reporting Form** (Appendix A-3) | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
+| **Nomination / Recommendation Form** (Appendix A-4) | For Flow Funders to recommend the next cohort of trusted community leaders |
+| **Storytelling Framework** (Appendix A-5) | A guide for Flow Funders and communities to capture and share their impact stories |
+| **Community of Practice Guide** (Appendix A-6) | Framework for establishing and facilitating your shared learning community |
 
 ### Additional Resources
 
 | Resource | Purpose |
 |----------|---------|
-| **[Flow Funder Role and Responsibilities](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Role-and-Responsibilities.pdf)** | Overview of the Flow Funder role, expectations, and key responsibilities |
-| **[Criteria for Selecting Flow Funders](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Criteria-for-Selecting-Flow-Funders.pdf)** | Guidance on identifying and selecting the right Flow Funders for your bioregion |
-| **[Core Agreements and Flow Funding Practices](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Core-Agreements-and-Flow-Funding-Practices.pdf)** | Foundational agreements and practices that guide Flow Funding |
-| **[Individual-to-Individual Giving](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Individual-to-Individual-Giving.pdf)** | Guidance on direct individual-to-individual giving within the Flow Funding model |
-| **[Insights: Domestic vs. International Funding](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Insights-Domestic-vs-International-Funding.pdf)** | Key considerations for domestic and international Flow Funding efforts |
-| **[Bioregional Activation Series](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/NE-Bioregional-Activation-Series.pdf)** | Framework and guide for the Bioregional Activation Series program |
+| **Flow Funder Role and Responsibilities** (Appendix A-7) | Overview of the Flow Funder role, expectations, and key responsibilities |
+| **Criteria for Selecting Flow Funders** (Appendix A-8) | Guidance on identifying and selecting the right Flow Funders for your bioregion |
+| **Core Agreements and Flow Funding Practices** (Appendix A-9) | Foundational agreements and practices that guide Flow Funding |
+| **Individual-to-Individual Giving** (Appendix A-10) | Guidance on direct individual-to-individual giving within the Flow Funding model |
+| **Insights: Domestic vs. International Funding** (Appendix A-11) | Key considerations for domestic and international Flow Funding efforts |
+| **Bioregional Activation Series** (Appendix A-12) | Framework and guide for the Bioregional Activation Series program |
 
 ### Legal Templates
 
 | Template | Purpose |
 |----------|---------|
-| **Sample Bylaws** | For communities forming an independent 501(c)(3) |
-| **[Fiscal Sponsorship Agreement Template](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Fiscal-Sponsorship-Without-501c3.pdf)** | For communities using fiscal sponsorship to launch |
-| **Conflict of Interest Policy** | Template for maintaining governance integrity |
-| **Gift Acceptance Policy** | Guidelines for receiving and managing donations |
+| **Fiscal Sponsorship Agreement Template** (Appendix A-13) | For communities using fiscal sponsorship to launch |
 
 *Note: Legal templates are starting points and should be reviewed by an attorney familiar with nonprofit law in your state. Kinship Earth can connect you with legal support.*
 
+### Additional Recommended Governance Documents
+
+While Kinship Earth does not currently provide templates for the following items, we strongly recommend that bioregional communities develop these as part of building strong organizational infrastructure:
+
+- **Sample Bylaws** -- For communities forming an independent 501(c)(3), bylaws establish the foundational governance rules for your organization.
+- **Donor Cultivation Tracker** -- A simple tool for tracking relationships with potential and existing donors helps ensure consistent stewardship and follow-up.
+- **Bioregional Mapping Worksheet** -- A guide for mapping the leaders, organizations, resources, and needs in your bioregion strengthens coordination and clarity.
+- **Conflict of Interest Policy** -- Maintaining governance integrity requires clear policies around conflicts of interest for board members and leadership.
+- **Gift Acceptance Policy** -- Guidelines for receiving and managing donations help protect your organization and clarify expectations with donors.
+
+These are important documents for any bioregional community building organizational capacity. Kinship Earth may develop templates for these in the future, and we can connect you with legal and organizational development support in the meantime.
+
 ### How to Access These Tools
 
-These tools are provided alongside this playbook as part of Kinship Earth's commitment to supporting bioregional communities in creating their own Flow Funds. If you have not yet received these materials, contact Kinship Earth directly.
+All tools and templates listed above are included in full in the Appendix (Section 19) of this playbook. Simply turn to the appendix item number referenced next to each tool above to find the complete document.
 
 ---
 
@@ -729,3 +737,624 @@ Start where you are. Start with who you trust. Start with what you have. And kno
 *This playbook is a living document co-created by the team at Kinship Earth, with input from our partners. It will be updated as we learn, as new bioregional Flow Funds emerge, and as the movement grows. Your feedback, stories, and experiences will shape future versions.*
 
 *Published Q1 2026 | Kinship Earth*
+
+---
+
+## 19. Appendix: Resource Library
+
+The following resources are referenced throughout this playbook, particularly in Section 14 (Tools and Templates). Each item is numbered for easy cross-reference.
+
+---
+
+### Appendix A-1: Flow Funder Onboarding Form
+
+**Kinship Earth Flow Funder Onboarding Form**
+
+Please fill out this form to confirm your participation as a Flow Funder with Kinship Earth. We look forward to working with you! Thank you.
+
+**Form Fields**
+
+1. Legal Name (as it appears on your ID):
+
+2. Preferred Name / Nickname:
+
+3. Pronouns:
+
+4. Upload Photo ID (Max 10 MB, encrypted & secure):
+
+5. Phone Number:
+
+6. Email:
+
+7. Preferred Method Of Communication:
+
+8. Name of organization receiving Flow Fund grant, organization website, & Tax ID number (if relevant / if not receiving grant as an individual):
+
+9. Organization(s) you're affiliated with & their websites (if relevant):
+
+10. Brief Bio (About yourself or the organization you represent; a few sentences to a few paragraphs):
+
+11. Locations of Community / Communities Served:
+
+12. Zelle email, bank info, and / or phone number for fund transfer (or mailing address to receive a check):
+
+13. Storytelling & Feedback Agreements: Do you agree to share your story of impact answering: "How did the Flow Funds make a difference?" (All media forms accepted; 3-5 minute videos preferred. Storytelling guide provided if needed.)
+
+14. Do you agree to answer the following 4 reflection questions after your 1-year term? (All media forms accepted)
+   - What inspired you?
+   - What surprised you?
+   - What challenged you?
+   - What moved you?
+
+15. Would you like to receive an honorarium payment to serve as a Flow Funder? (Note: These funds must be treated as income.)
+
+16. Do you have any questions, feedback, concerns, or anything else you'd like to share with us?
+
+17. Please sign the flow funder agreement to confirm that:
+   - The information provided is complete and accurate
+   - You acknowledge that you have read and understand the Flow Funder Role & Responsibilities
+   - You comply with the terms of the agreement
+
+---
+
+### Appendix A-2: Flow Funder Agreement
+
+**Kinship Earth Flow Fund Agreement with Flow Funders**
+
+This Kinship Earth Flow Fund Agreement with Flow Funders (the "Agreement") is made effective as of [Date], by and between Kinship Earth Flow Fund, Inc. ("Kinship Earth") and [Flow Funder's Full Name] ("the Flow Funder").
+
+#### 1. Purpose of Agreement
+
+The purpose of this Agreement is to outline the terms of the arrangement between Kinship Earth and the Flow Funder in recognition of the Flow Funder's role in distributing Flow Funds to trusted individuals or groups, making a positive impact within their communities. This agreement also acknowledges the unique contributions of Flow Funders in advancing bioregional and grassroots efforts that align with Kinship Earth's mission to regenerate ecosystems, foster community resilience, and inspire authentic self-expression.
+
+#### 2. Role and Responsibilities
+
+The Flow Funder agrees to do the following:
+
+- Distribute Flow Funds in alignment with the principles, mission, policies, and guidelines of Kinship Earth, including but not limited to Kinship Earth's conflict of interest policy and support of community-driven projects that foster localized resource allocation, strengthen social cohesion, and reduce environmental risks.
+- Distribute Flow Funds in compliance with applicable laws and in a manner that does not jeopardize Kinship Earth's 501(c)(3) status.
+- Fully and accurately complete the Basic Flow Fund Report in a timely manner.
+- Fully and accurately respond to Kinship Earth's requests for additional information and documents in a timely manner.
+- Attend all mandatory calls and Zoom meetings and send all mandatory emails in a timely manner.
+- Share stories and outcomes of the impact that emerge as a result of the distributed funds by 1 year after receiving the funds. These stories should address key reflective questions such as: What inspired you? What moved you? What challenged you? What surprised you? Video storytelling is encouraged for sharing stories, but all other media forms (written, audio, photo) are accepted.
+
+While it is not mandatory, Kinship Earth encourages the Flow Funder to provide insights into the effectiveness of Flow Funding in breaking down traditional philanthropic barriers, ensuring that grassroots change-makers have easier access to resources.
+
+#### 3. Honorarium
+
+In recognition of the Flow Funder's contribution, upon written request by the Flow Funder, Kinship Earth will provide an honorarium in the amount of $300. This honorarium will be paid promptly after this Agreement is signed by both parties. It is a token of Kinship Earth's appreciation, and it does not establish an employment relationship. The Flow Funder is responsible for reporting the honorarium as taxable income, where applicable under U.S. law and other non U.S. tax regimes, and will be issued any required tax documentation (e.g., Form 1099). Kinship Earth assumes no responsibility for withholding taxes for Flow Funder.
+
+#### 4. Term
+
+The Flow Funder will serve in this role for a period of one year, from the effective date of this Agreement.
+
+#### 5. Check-ins and Community Engagement
+
+The Flow Funder is encouraged, but not required, to attend Kinship Earth's online Communities of Practice gatherings on Zoom, which offer spaces for collaboration, mutual support, and learning. The Flow Funder agrees to provide quarterly updates on the Flow Funder's progress through brief Zoom meetings or via email communication with Kinship Earth's Executive Director. These updates should provide reflections on community relationships built, any notable challenges, and the cascading benefits observed from their Flow Funding efforts.
+
+#### 6. Confidentiality
+
+The Flow Funder hereby grants Kinship Earth the right to publish and distribute materials shared by the Flow Funder for promotional and community-building purposes. Kinship Earth and the Flow Funder agree to respect the confidentiality of any sensitive information (including personal data, financial information, and other non-public information) and personal stories shared by recipients of Flow Funds unless the recipients expressly consent in writing to that information and/or stories being shared publicly.
+
+#### 7. Force Majeure
+
+Neither party will be liable or deemed to be in default of this Agreement for any delay or failure of performance under this Agreement resulting directly or indirectly from acts of nature; civil or military authority; governmental acts, orders or restrictions; acts of a public enemy; war; riots; civil disturbances; accidents; fires; explosions; earthquakes; floods; the elements; strikes, lockouts, or other labor disturbances; shortages of suitable parts, labor or transportation; delays caused by suppliers; pandemics, outbreaks of infectious disease, or any other public health crisis; or any other cause beyond that party's reasonable control.
+
+#### 8. Termination
+
+Either party may terminate this Agreement with 30 days' written notice. If this Agreement is terminated, the Flow Funder will promptly return any Flow Funds that have not been disbursed in accordance with the terms of this Agreement, but may retain the honorarium. Despite any early termination, the Flow Funder must complete reports and perform other obligations related to the funds that have already been distributed.
+
+#### 9. Governing Law; Venue
+
+This Agreement is deemed executed in the State of Oregon and it will be interpreted and construed in accordance with the laws of the State of Oregon relating to contracts made and performed there. Venue will be proper only in Washington County, Oregon.
+
+#### 10. Severability Clause
+
+If any provision of this Agreement is judicially declared to be invalid, unenforceable or void by a court of competent jurisdiction, such decision will not have the effect of invalidating or voiding the remainder of this Agreement, and the part(s) of this Agreement so held to be invalid, unenforceable or void will be deemed stricken, and the Agreement will be reformed to replace such stricken provision with a valid and enforceable provision which comes as close as possible to expressing the intention of the stricken provision.
+
+#### 11. Entire Agreement; Modification
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements or understandings, whether written or oral in respect to the matters specified.
+
+#### 12. Legal Compliance
+
+The parties acknowledge that the Flow Funder may be located outside the United States and may distribute Flow Funds outside the United States. Nothing in this Agreement is intended to require the Flow Funder to establish a U.S. legal presence. The Flow Funder will comply with all applicable laws, including but not limited to the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) regulations, copyright and trademark laws; laws relating to the rights of privacy and publicity; and applicable local laws in their jurisdiction including tax laws.
+
+#### 13. Indemnification
+
+The Flow Funder agrees to indemnify and hold harmless Kinship Earth, its agents, employees, officers, directors, successors, and assigns from and against any cost or expense, including but not limited to attorneys' fees incurred at arbitration, at trial or on any appeal, which may be incurred by reason of the Flow Funder's breach of this Agreement, negligence, or wrongful acts.
+
+#### 14. Assignability
+
+Neither this Agreement nor the rights, responsibilities or obligations granted or assumed in this Agreement may be assigned by the Flow Funder, in whole or in part, without first obtaining the written consent of Kinship Earth.
+
+#### 15. Attorneys' Fees
+
+In the event that any action, suit or legal proceeding is initiated or brought to enforce any or all of the provisions of this Agreement or for its breach, the prevailing party will be entitled to such attorneys' fees, costs and disbursements as are deemed reasonable and proper by an arbitrator or court.
+
+#### 16-20. Additional Provisions
+
+Headings are for reference only. The rule of construction that a document should be more strictly interpreted against the drafter will not apply. No waiver of any breach will be deemed a waiver of any repetition of such breach. Nothing in this Agreement will be construed to place the parties in the relationship of partners or joint venturers. This Agreement may be executed in two or more counterparts.
+
+**Signatures**
+
+Flow Funder
+Full Name: ___________________
+Signature: ___________________
+Date: ___________________
+
+Kinship Earth
+Executive Director Name: ___________________
+Signature: ___________________
+Date: ___________________
+
+---
+
+### Appendix A-3: Disbursement and Reporting Form
+
+**Kinship Earth Flow Funding Disbursement / Reporting Form**
+
+- Your Legal Name:
+- The legal name of the organization you gave funds to and where the entity was incorporated/formed. Or, if relevant, please provide the legal name of the individual you gave funds to and the legal name of the organization fiscally sponsoring them. Please also share where the entity was incorporated / formed.
+- Where is the recipient located, or that of the local community they serve? (Please share the town, state, and country)
+- Date of disbursement:
+- Quantity disbursed:
+- Why did you decide to give the funds to this person or group? Please share their experience making an impact in their community and describe the kind of impact you and the recipient hope will be achieved as a result.
+- Have you let the Flow Funding recipient know that you'll be sharing the story of the impact made with the flow funds you gave them (at the end of your 1-year term), so that they know to keep you updated on outcomes / impacts achieved?
+- What did you learn from this experience?
+- If you purchased anything with these funds in support of a flow funding recipient please upload your receipt here:
+- Is there anything else you'd like to share?
+
+**Acknowledgment and Compliance with OFAC**
+
+By signing this form, you confirm:
+
+- Recipient Legitimacy: You have verified that all recipients of funds are legitimate and compliant with U.S. Office of Foreign Assets Control (OFAC) regulations.
+- Prohibited Purposes: You acknowledge that funds must not be used for any prohibited purposes, as defined by OFAC regulations and U.S. law.
+- Due Diligence: You have conducted due diligence to confirm that the recipient(s) are not listed on any OFAC sanctions lists.
+- Legal Accountability: You accept all legal responsibility for ensuring that the funds you disburse comply with OFAC regulations.
+
+**Signature**
+
+By typing your name, you confirm that you have read and understood your role and responsibilities as a flow funder.
+
+---
+
+### Appendix A-4: Playbook Contribution / Nomination Form
+
+**Bioregional Flow Funding Playbook & Resource Library -- Contribution Form**
+
+We're so glad you're here. This Playbook is a collaborative effort, and we're honored you're considering contributing to it.
+
+We're currently gathering tools, templates, agreements, models, and stories to support the growth of Flow Funding - especially in its bioregional forms - and to provide practical resources for organizing groups working toward place-based regeneration and community resilience.
+
+**About You**
+
+1. Full Name
+2. Email Address
+3. Organization / Project Name (if applicable)
+4. Website or Link to Learn More
+
+**Your Bioregional Context**
+
+5. What bioregion(s) is your work rooted in?
+6. How are you engaging in grassroots, bioregional, or place-based organizing?
+
+**Your Contribution**
+
+7. What kind of resource or insight would you like to share with the Playbook community? (Check all that apply)
+   - A case study or story of place-based impact
+   - A participatory or decentralized governance model
+   - A Flow Funding tool, agreement, or reflection
+   - A mapping, sensing, or coordination tool
+   - A grassroots organizing strategy or onboarding process
+   - A community wealth-building or regenerative finance model
+   - A legal or compliance guide for trust-based giving
+   - Other
+
+8. Please briefly describe what you're offering
+9. Which section(s) of the Playbook or resource library might your contribution support?
+
+**Stewardship & Collaboration**
+
+10. How would you like to be credited or acknowledged?
+11. Are you open to future collaboration or being contacted for peer support?
+12. Anything else you'd like us to know or include?
+
+---
+
+### Appendix A-5: Storytelling Framework
+
+**How to Tell a Flow Funding Story: The Journey of Impact**
+
+Flow Funding is more than a philanthropic model -- it's a journey of trust, care, and responsiveness. As Flow Funders, you are invited to move money with deep intention, intuition, and integrity. The stories that emerge from this process are powerful: they help illuminate the impact of this approach, inspire future funders, and honor the communities and ecosystems being resourced.
+
+This guide is an invitation to reflect on and share your Flow Funding experience. It does not require polished writing or formal reporting. Instead, it centers honesty, vulnerability, and learning.
+
+**Core Reflection Questions**
+
+These four guiding questions were first offered by Marion Rockefeller Weber, who pioneered the Flow Funding model:
+
+- **What inspired you?** What stories, people, or moments affirmed your belief in this work?
+- **What moved you?** What touched your heart? What experiences stayed with you?
+- **What surprised you?** What unfolded differently than you expected? What shifted your perspective?
+- **What challenged you?** What questions arose for you? What was difficult to navigate?
+
+You are welcome to share responses to each individually, or weave them together in a narrative or creative format (e.g., prose, video, audio, poetry).
+
+**Additional Prompts (Optional)**
+
+- What did you learn about your bioregion or community?
+- How did you build trust or deepen relationships through this process?
+- What were some of the impacts -- tangible or intangible -- you witnessed?
+- What are you curious about now, or excited to explore next?
+- What advice would you offer to someone stepping into this role?
+
+**Sharing Your Story**
+
+Kinship Earth invites Flow Funders to share their stories in video format, or via writing, voice notes, or any medium that feels natural. We especially encourage video submissions as video is often the most powerful format for evoking the feeling and spirit of what transpired.
+
+These stories:
+- Help donors and partners understand the depth and nuance of this work
+- Contribute to a collective library of lived experience
+- Can be used (with your permission) to inspire others and support broader cultural shifts in philanthropy
+
+Stories are requested within 12 months of the Flow Funder's start date, but they can be shared at any time throughout the year.
+
+For any questions or to share your story, contact: kins@kinshipearth.org
+
+---
+
+### Appendix A-6: Community of Practice Framework
+
+**A Template for Bioregional Flow Funding Groups**
+
+**Purpose**
+
+A Community of Practice (CoP) is a shared learning environment -- a circle of peers who come together around a common field of practice. In the context of Flow Funding, a CoP serves as the connective field for those practicing Flow Funding together -- including bioregional organizing groups, Flow Funders, and supporting partners. It's a space to learn from one another's experiences, deepen collective wisdom, and strengthen how resources move in service of life.
+
+Kinship Earth offers this framework as a living template. Each community decides how it wants to gather, what agreements to hold, and how to evolve its own rhythm and structure over time.
+
+**Why a Community of Practice Matters**
+
+Flow Funding is relational. It depends on trust, learning, and continual reflection -- not on rigid systems or hierarchy.
+
+A Community of Practice ensures that:
+- Learning flows both ways -- from local to global and back again.
+- Stories and insights are shared rather than siloed.
+- Trust deepens between those practicing this model in different contexts.
+- Programs evolve organically, through feedback and peer reflection, rather than from the top down.
+
+**Co-Creating Agreements**
+
+At the heart of every thriving Community of Practice are shared agreements -- crafted together by the community, and revisited as relationships and needs evolve.
+
+Example Agreements (Adapt, Expand, or Rewrite Together):
+
+1. **Trust and Transparency:** We share openly about our processes, learnings, and challenges.
+2. **Reciprocity:** We approach this space as both givers and receivers.
+3. **Non-Judgment:** We listen with curiosity and compassion, not critique.
+4. **Confidentiality:** What is shared in confidence stays within the circle unless consent is given.
+5. **Integrity and Alignment:** We each commit to practicing Flow Funding in ways that honor its values.
+6. **Collective Stewardship:** We share responsibility for holding the space.
+7. **Adaptability:** We remain open to evolution.
+
+**Gathering Rhythm**
+
+There is no single "right" rhythm for a Community of Practice. Below are examples:
+
+- **Monthly Circle:** 60-90 minutes for check-ins, story-sharing, and peer reflection.
+- **Quarterly Deep Dive:** Sessions focused on specific themes.
+- **Seasonal Reflection:** Dedicated time to review learnings and celebrate milestones.
+- **Annual Gathering:** Optional in-person or hybrid event for deeper connection.
+
+**Holding the Space**
+
+Common rotating roles include:
+- **Facilitator / Host:** Guides the flow of conversation and ensures inclusivity.
+- **Story Keeper:** Harvests insights and stories (with consent) for collective learning.
+- **Time Keeper / Guardian:** Helps maintain flow and respect everyone's contributions.
+
+**Closing Reflections**
+
+At the close of each season or cycle, communities are invited to reflect on the four questions inspired by Marion Rockefeller Weber: What inspired you? What surprised you? What challenged you? What moved you?
+
+---
+
+### Appendix A-7: Flow Funder Role and Responsibilities
+
+**Background**
+
+Kinship Earth was created to empower trusted grassroots leaders to distribute resources to individuals making a positive impact in their communities.
+
+The concept of Flow Funding was pioneered in 1991 by Marion Rockefeller Weber, who envisioned a simpler, more direct approach that bypassed grant applications and reporting. She selected 8 visionary leaders she trusted and provided each with $20,000 annually for three years. They were asked to distribute the funds to those they intuitively believed would make the greatest impact.
+
+**What We Look For In Flow Funders / Criteria for Selection:**
+
+- Living a purpose-driven life / moving in a direction that one is passionate about
+- Consciously on a healing journey
+- Genuine and steadfast in their commitment to using their gifts to serve others / Mother Earth
+- Relevant lived experience / demonstrated commitment and trust
+- Respected by their community members
+- Experience with community organizing
+- Focused on both the fiscal and non-fiscal needs of their communities
+- Alignment with Kinship Earth's priorities, goals, & values
+
+**Role Overview**
+
+As a Flow Funder, you will receive funds to allocate over a 1-year term. Your role is to distribute these resources to individuals that align with the values and impact focus areas of Kinship Earth.
+
+**Kinship Earth's Values:** Trust, Collaboration, Co-creation, Active Engagement, Generosity, Valuing The Rights Of Nature
+
+**Kinship Earth Impact Focus Areas:**
+- Regeneration of natural systems, land conservation, restoration, preservation, reforestation, remediation, water retention
+- Advancements in human health & ecosystems
+- Social justice
+- Indigenous rights, land back, & land rematriation
+- Economic equity, including supporting local alternative governance models and economic systems
+- Creating sovereign / self-sufficient food systems for communities & bioregions
+
+**Agreements & Guidelines** (co-created with our Flow Fund Advisors):
+
+- Mindfulness & Cultural Awareness: Drive actions with mindfulness, support cultural revitalization, decolonize funding.
+- Community Engagement & Mutual Support: Cultivate mutual support and prioritize relationship-building.
+- Communication & Trust: Communicate with love, non-violence, and transparency.
+- Equity & Sensitivity: Prioritize equity, cultural sensitivity, and ancestral knowledge.
+- Indigenous & Nature Engagement: Center Indigenous voices and Mother Nature in discussions.
+- Observation & Reflection: Regularly reflect on changes in land, water, and community.
+- Conflict Resolution: Approach conflicts with self-reflection and group learning.
+
+**Parameters for Flowing Resources**
+
+The only requirements are that you give the funds you receive from Kinship Earth to others vs. to your own projects or those of your immediate family members. Kinship Earth will make exceptions as appropriate.
+
+- For 501(c)(3) Organizations Flowing Funds: 501c3s receive funds from Kinship Earth to redistribute as they see fit.
+- For Individuals Flowing Funds: Individuals flowing funds are acting as "agents" of Kinship Earth, representing the organization in identifying and flowing resources to aligned 501(c)(3) organizations.
+
+**Meetings**
+
+You will be invited to several Zoom meetings throughout your 1-year term, including:
+- A 1-on-1 onboarding call with our Executive Director (required)
+- A group onboarding call (optional but encouraged)
+- Seasonal Community of Practice Gatherings on Zoom (4 Total, every 3 months)
+
+**Tax Considerations**
+
+When you receive a Flow Fund grant, it is considered taxable income when deposited. However, since these funds are to be donated for charitable or educational purposes, the donation offsets any taxes owed on the income. Funds distributed as donations within the same tax year offset the taxable amount.
+
+---
+
+### Appendix A-8: Criteria for Selecting Flow Funders
+
+**Criteria & Process for Identifying & Selecting Flow Funders**
+
+This guide outlines the criteria and considerations used at Kinship Earth to identify, evaluate, and onboard Flow Funders aligned with our values and mission.
+
+**Core Qualities of a Kinship Earth Flow Funder**
+
+- **Community-Rooted** -- Deeply embedded in the place and community they are resourcing, trusted by peers, respected across differences, and attuned to local needs.
+- **Relationally Oriented** -- Prioritizes authentic relationship-building, listens deeply, and operates from a place of care, humility, and reciprocity.
+- **Track Record of Stewardship** -- Has demonstrated experience in community care, ecological work, cultural organizing, mutual aid, or other aligned fields.
+- **Strategic Awareness** -- Understands broader systems and is thoughtful about how funds can be used for long-term, cascading impact.
+- **Clarity of Purpose** -- Brings a clear, grounded intention to the Flow Funding role, rooted in service, not personal gain.
+- **Ethical & Accountable** -- Demonstrates integrity, follows through on commitments, and welcomes feedback and reflection.
+
+**Additional Considerations**
+
+- Language & Cultural Fluency: If working across linguistic or cultural lines, consider candidates who can serve as effective bridges.
+- Sectoral & Demographic Diversity: We aim to select Flow Funders who reflect a range of lived experiences, disciplines, and perspectives.
+- Alignment with Kinship Earth's Impact Areas: We prioritize candidates whose work aligns with our impact areas.
+
+**Our Vetting & Selection Process**
+
+For our first round of Flow Funders, we gathered nominations from Flow Fund Advisors, board members, and partners. We evaluated each candidate using the criteria above, through a process that included anonymous scoring and group discussion. Final decisions were made by our Flow Fund Allocation Committee.
+
+As our model evolves, we increasingly emphasize participation in Flow Funder selection. Once a term is complete, Flow Funders are invited to recommend future candidates -- deepening peer-trusted leadership and shared stewardship of the process.
+
+---
+
+### Appendix A-9: Core Agreements and Flow Funding Practices
+
+**Kinship Earth Core Agreements & Flow Funding Practices**
+
+*Co-created in partnership with our Flow Fund Advisors -- grassroots changemakers who represent the communities we aim to serve*
+
+#### 1. Transforming Philanthropy
+- Share decision-making power with BIPOC and local leaders.
+- Remove barriers to grassroots funding.
+- Apply seventh-generation thinking in all decisions.
+
+#### 2. Mindfulness & Cultural Awareness
+- Acknowledge and act within bioregional and cultural contexts.
+- Drive action through mindfulness and cultural revitalization.
+- Intentionally decolonize philanthropy.
+- Recognize and challenge power dynamics and oppressive systems.
+
+#### 3. Community Engagement & Mutual Support
+- Emphasize vulnerability, deep listening, and heart-sharing.
+- Rotate facilitation roles and encourage shared leadership.
+- Build authentic relationships and foster connection with Earth.
+
+#### 4. Communication & Trust
+- Use conscious, non-violent, transparent communication.
+- Create safe spaces that welcome vulnerability and spontaneity.
+- Encourage the expression of unique perspectives.
+
+#### 5. Equity & Sensitivity
+- Apply ancestral and Indigenous wisdom in all processes.
+- Use inclusive, gender-neutral language and adapt communication to context.
+- Be attuned to cultural nuance and equity in all engagements.
+
+#### 6. Nature-First Philosophy
+- Give nature a voice in decision-making.
+- Make time for connection with nature.
+- Center Indigenous voices and ecological wisdom.
+
+#### 7. Restorative Justice & Feedback Loops
+- Resolve conflict using restorative practices and non-violent dialogue.
+- Embrace feedback from all roles -- especially Flow Funders and end recipients.
+- Use anonymous digital feedback tools and self-correcting systems.
+
+#### 8. Observation & Reflection
+- Integrate nature's signals into decision-making.
+- Pause to reflect on misalignment and use ecological metaphors for problem-solving.
+
+#### 9. Inclusive Decision-Making & Role Rotation
+- Embrace a range of decision-making models (e.g., consensus, consent, rotating stewardship).
+- In times of urgency, elect a trusted individual to make funding decisions on behalf of the group.
+
+#### 10. Narrative Impact Measurement
+- Prioritize qualitative storytelling over quantitative reporting.
+- Invite Flow Funders and recipients to share what inspired, challenged, moved, and surprised them.
+
+---
+
+### Appendix A-10: Individual-to-Individual Giving
+
+**Tax Considerations for Flow Funding: Individual-to-Individual Giving in the U.S. (2025)**
+
+Flow Funding often involves individuals giving directly to others to support grassroots leadership, community care, and ecological regeneration.
+
+**Annual Gift Tax Exclusion (2025)**
+
+- Per-Person Limit: In 2025, a U.S. citizen can gift up to $19,000 to any number of individuals without triggering reporting requirements or tax implications.
+- No Reporting by Recipient: The recipient of a gift does not need to report it as income.
+
+**If You Exceed $19,000**
+
+- Donor Reporting Requirement: If more than $19,000 is given to one person in a calendar year, the donor must file IRS Form 709.
+- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption -- which is $13.99 million in 2025.
+
+**A Direct Path to Participatory Giving**
+
+This is one of the simplest ways that wealthy individuals can give back -- by flowing funds directly to trusted grassroots leaders with whom they are in relationship.
+
+Even without a nonprofit intermediary, the principles of Flow Funding still apply:
+- **Trust-based:** You are resourcing someone because you believe in their vision and work.
+- **Unrestricted:** The recipient decides how best to use the funds.
+- **Relational:** The giving is rooted in respect, mutuality, and listening.
+- **Impactful:** Funds are moved quickly to where they're needed most.
+
+**Summary for Flow Funders & Direct Donors**
+
+| Action | Tax Reporting? | Notes |
+|--------|---------------|-------|
+| Gift of $19,000 or less (per person/year in 2025) | No | No filing needed by donor or recipient |
+| Gift over $19,000 (per person/year in 2025) | Yes (Form 709) by donor | Applies to donor only; no income reporting by recipient |
+| Recipient of gift (in 2025) | No | Not considered taxable income |
+
+---
+
+### Appendix A-11: Insights -- Domestic vs. International Funding
+
+**Insights: Deploying Funds Domestically in the U.S. vs. Internationally**
+
+*(For U.S.-Based Flow Funds)*
+
+**Purpose**
+
+This document offers key insights for U.S.-based Flow Funds and Flow Funders deploying resources both within the United States and internationally. Because Kinship Earth is a U.S.-based foundation, this guidance reflects U.S. legal and compliance requirements.
+
+**1. The Current Landscape of U.S. Philanthropy & Compliance**
+
+The environment for philanthropy and charitable giving in the United States is shifting. Recent years have brought increased scrutiny from regulatory agencies, reduced access to certain forms of federal funding, and greater risks for nonprofits. Traditional philanthropy is being challenged for perpetuating the very inequities it seeks to solve.
+
+Flow Funding offers another way. It decentralizes decision-making, builds trust between donors and doers, and allows funds to flow with more agility and responsiveness.
+
+**2. Domestic Giving (Within the United States)**
+
+Key Considerations:
+- **Tax Status:** Funds may be disbursed to individuals, nonprofits, or unincorporated projects. Document the charitable intent clearly.
+- **Fiscal Sponsorship:** If a recipient lacks 501(c)(3) status, consider partnering with a fiscal sponsor.
+- **Reporting:** Use the Flow Funder Reporting Form to record each disbursement.
+- **State Regulations:** Some states may have unique reporting or charitable solicitation rules.
+- **Relational Ethics:** Always prioritize transparency and shared understanding with recipients.
+
+**3. International Giving**
+
+Key Considerations:
+- **Legal Context:** Some countries treat incoming grants or donations as taxable income.
+- **Currency and Transfer Logistics:** Choose legal and transparent methods for sending funds (e.g., Wise, PayPal, international wire).
+- **Documentation:** Record each international transfer including recipient contact information, purpose, amount, and confirmation of receipt.
+- **Exchange Rates and Fees:** Factor in conversion rates and transfer costs.
+- **Verification and Safety:** Maintain direct communication with recipients, verify legitimacy.
+
+**4. Compliance and Due Diligence for International Giving**
+
+Each Flow Funder who may disburse funds internationally must confirm compliance with OFAC (U.S. Department of the Treasury's Office of Foreign Assets Control) regulations, including:
+- Recipient Legitimacy
+- Prohibited Purposes
+- Due Diligence
+- Legal Accountability
+- Adherence to Compliance Requirements
+
+**Resources for Verification and Compliance:**
+- OFAC Homepage: https://home.treasury.gov/policy-issues/office-of-foreign-assets-control-sanctions-programs-and-information
+- SDN List: https://home.treasury.gov/policy-issues/financial-sanctions/consolidated-sanctions-list-data-files
+
+**5. Balancing Trust, Adaptation, and Compliance**
+
+Flow Funding thrives at the intersection of trust, adaptability, and responsibility. These compliance steps are not barriers but bridges -- ensuring that generosity can move freely, safely, and sustainably.
+
+---
+
+### Appendix A-12: Bioregional Activation Series
+
+**Bridging Bioregional Wisdom in the Northeast of Turtle Island**
+
+A Co-Created Bioregional Activation Series
+
+**Purpose & Mission**
+
+The mission of this series is to co-create -- alongside experienced community leaders, organizers, and practitioners -- the relational, governance, and coordination foundations needed to resource a thriving Northeast bioregion.
+
+The series is being designed to:
+- Surface who is already doing this kind of work
+- Understand the status of their efforts and what they need
+- Increase visibility, trust, and collaboration among those with shared goals
+
+**Desired Outcomes**
+
+1. The launch of a Northeast Bioregional Flow Fund
+2. The launch of a Northeast Bioregional Currency / Token
+3. The development and fundraising capacity of Northeast bioregional land-based hubs
+4. Practicing Commitment Pooling across the bioregion
+5. Preparing to co-create a NE bioregional festival
+
+**Pillars**
+
+- **Relationship-Building & Mapping:** Who is already stewarding land, capital, governance, culture, or exchange? Where are the natural synergies?
+- **Governance Education:** Shared language around decision-making, stewardship, and accountability. Exposure to participatory, bioregional, and commons-based governance models.
+- **Tools, Tech & Frameworks:** Surfacing and convening the tools, technologies, and frameworks already supporting this movement.
+- **Healing & Conflict Transformation:** Making space for historical wounds and unresolved tensions to be acknowledged and held with care.
+- **Honoring Place: The Great Law of Peace:** Centering Haudenosaunee governance wisdom and connecting bioregional governance to healing and responsibility to place.
+- **Culture, Arts & Creative Expression:** Inviting music, visual art, and creative storytelling rooted in place.
+
+**Proposed Series Flow**
+
+1. Online Preparation Sessions (1-2 Sessions): Introduce the series, purpose, and desired outcomes
+2. In-Person Gathering: Relationship and trust building, embodied sensemaking, governance practice, storytelling, and design labs
+3. Distributed Bioregional Hub Gatherings: Partner-hosted activations at farms, community centers, and land-based hubs
+
+---
+
+### Appendix A-13: Fiscal Sponsorship -- What If You Don't Have 501(c)(3) Status Yet?
+
+Having 501(c)(3) tax-exempt status is ideal for practicing Flow Funding -- it enables you to legally receive charitable donations, apply for foundation grants, and deploy Flow Funding grants in compliance with U.S. tax law.
+
+But if you don't yet have 501(c)(3) status or are waiting for IRS approval, you can still begin by working with a fiscal sponsor -- a nonprofit that extends its legal status to your project so you can receive and distribute funds in alignment with Flow Funding principles.
+
+**How to Get Started with Fiscal Sponsorship**
+
+1. **Identify an aligned fiscal sponsor.** Look for a nonprofit whose mission resonates with your work and who supports fiscal sponsorship.
+2. **Apply or reach out.** Be ready to describe your mission, your plans for deploying funds, and the communities you aim to support.
+3. **Sign a fiscal sponsorship agreement.** This agreement typically outlines how the sponsor will receive and release funds, how you'll track and document grants, and any administrative fees (usually 5-10%).
+4. **Start Flow Funding.** Once approved, your sponsor can receive donations or grants on your behalf and disburse Flow Funding grants according to your guidance.
+
+**Summary**
+
+| Path | Do You Need 501(c)(3)? | Can You Deploy Flow Funds? | Can Donors Get a Tax Deduction? |
+|------|------------------------|---------------------------|-------------------------------|
+| You have 501(c)(3) status | Yes | Yes | Yes |
+| You get fiscal sponsorship | No (sponsor has it) | Yes (via sponsor) | Yes |
+| You give/receive as an individual | No | Yes | No |
