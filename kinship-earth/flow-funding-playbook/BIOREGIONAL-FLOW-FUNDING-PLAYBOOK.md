@@ -63,12 +63,9 @@ Since that pivot, Kinship Earth has raised over **$800,000** and deployed **$370
 |-----------|------|
 | Kinship Earth founded | May 2021 |
 | Flow Fund officially launched | June 2024 |
-| $500,000 raised | August 2024 |
 | Flow Funding Cohort 1 launched; first Community of Practice begins | October 2024 |
-| $150,000 grant received from Novo Foundation | February 2025 |
-| $300,000 deployed | October 2024 - February 2025 |
-| Additional $150,000 grant from Novo Foundation | November 2025 |
-| $70K deployed to bioregional organizing groups globally | Q1 2026 |
+| Flow Funding Cohort 2 launched | February 2025 |
+| Flow Funding Cohort 3 launched | Q1 2026 |
 
 **EXAMPLES OF IMPACT | Real-world outcomes funded through Kinship Eath's Flow Funding:**
 
@@ -658,48 +655,48 @@ If you are a funder reading this, we want to hear from you. Reach out to Kinship
 ## 17. Frequently Asked Questions
 
 **Q: Does our community need to be formally organized to create a Flow Fund?**
-A: No. You need trusted relationships and a shared commitment to your bioregion. The formal structure (entity type, governance, etc.) can be built as you go, and Kinship Earth can help. Many Flow Funds start with fiscal sponsorship and formalize later.
+A: No. You need trusted relationships and a shared commitment to your bioregion. The formal structure (entity type, governance, etc.) can be built as you go. Many Flow Funds start with fiscal sponsorship and formalize later.
 
 **Q: How much money do we need to start?**
 A: There is no minimum. The power of Flow Funding is in the model, not the dollar amount. Even a few thousand dollars deployed through trust-based channels can demonstrate the model and build momentum. Start with what you have.
 
 **Q: What if there are conflicts or divisions in our community?**
-A: This is common and expected. The Bioregional Activation Series is specifically designed to help communities work through this. Healing fractures is not a prerequisite for starting -- it is an ongoing practice woven into the work. Begin where you can, with the relationships that are strong, and keep inviting others in.
+A: This is common and expected. Healing fractures is not a prerequisite for starting - it is an ongoing practice woven into the work. Begin where you can, with the relationships that are strong and work towards healing conflict.
 
 **Q: How do we maintain accountability without heavy reporting?**
-A: Accountability in Flow Funding comes through relationship, not paperwork. Your Community of Practice, storytelling practices, and regular gatherings create the conditions for mutual accountability. The lightweight reporting form captures essential information without burdening Flow Funders. Trust is the mechanism.
+A: Accountability in Flow Funding comes through relationship, not paperwork. Your Community of Practice, storytelling practices, and regular gatherings create the conditions for mutual accountability. The lightweight reporting form shared above captures essential information without burdening Flow Funders. Trust is the mechanism.
 
 **Q: Can we adapt the model to fit our community's culture and needs?**
-A: Absolutely. That is the entire point. This playbook provides a framework, not a formula. Your Flow Fund should reflect your bioregion's unique ecology, culture, relationships, and priorities. We encourage adaptation and will support you in designing what fits.
+A: Absolutely. This playbook provides a framework, not a formula. Your Flow Fund should reflect your bioregion's unique ecology, culture, relationships, and priorities. We encourage adaptation.
 
 **Q: What is Kinship Earth's relationship to our Flow Fund once we create it?**
-A: Kinship Earth serves as backbone infrastructure -- not a centralized controller. We offer legal, educational, and relational support. Your Flow Fund is autonomous. You govern it, you make the decisions, you steward the resources. We are here as a partner, a resource, and a fellow traveler.
+A: Kinship Earth serves as backbone infrastructure. We offer legal, educational, and relational support. Your Flow Fund is autonomous. You govern it, you make the decisions, you steward the resources. We are here as a partner.
 
 **Q: Can we receive funding from Kinship Earth to seed our Flow Fund?**
-A: Potentially, yes. Where fundraising allows, Kinship Earth may be able to provide initial financial seeding for new bioregional Flow Funds. This is determined on a case-by-case basis through relationship and conversation.
+A: Where fundraising allows, Kinship Earth may be able to provide initial financial seeding for new bioregional Flow Funds. This is determined on a case-by-case basis, and through relationship. We do not have grant applications and do not accept solicitations for funds. 
 
-**Q: What does "unrestricted" really mean?**
-A: It means Flow Funders decide how to use the capital. There are no restrictions on what it can be spent on, no pre-approved budget categories, no line items. If a community leader determines that the most important use of $5,000 is buying a truck to deliver food, or fixing a roof, or hiring a translator, or funding a ceremony -- that is their decision to make.
+**Q: What does "unrestricted" mean?**
+A: It means Flow Funders decide how to use the capital. There are no restrictions on what it can be spent on, no pre-approved budget categories, no line items, so long as the funds are used for educational and / or charitable purposes. If a community leader determines that the most important use of $5,000 is buying a truck to deliver food, or fixing a roof, or hiring a translator - that is their decision to make.
 
 **Q: How do we handle situations where a Flow Funder misuses funds?**
-A: This is rare, because the model is built on trust and relationship. Flow Funders are identified by people who know them deeply. If a situation arises, it is handled through conversation, not punishment -- within the Community of Practice and governance structure. Trust-based does not mean trust-blind; it means that accountability is relational.
+A: This is rare, because the model is built on trust and relationship. Flow Funders are identified by people who know them deeply. If a situation arises, it is handled through conversation - within the Community of Practice. Trust-based does not mean trust-blind; it means that accountability is relational. Every community is encouraged to create its own unique process for handling conflict and misuse of funds.
 
 **Q: We are an Indigenous-led community. How does Flow Funding relate to our governance structures?**
-A: Flow Funding is designed to honor and center Indigenous governance, not to replace it. Your Flow Fund's governance should reflect your community's traditions and decision-making processes. Kinship Earth is committed to supporting Indigenous sovereignty and self-determination in all aspects of this work.
+A: Flow Funding is designed to honor and center Indigenous governance. Your Flow Fund's governance should reflect your community's traditions and decision-making processes. Kinship Earth is committed to supporting Indigenous sovereignty and self-determination in all aspects of this work.
 
 ---
 
 ## 18. Closing: An Invitation
 
-This playbook is an invitation -- to reimagine how resources move in your bioregion, to trust the people closest to the work, and to build financial infrastructure that serves life.
+This playbook is an invitation - to reimagine how resources move in your bioregion, to trust the people closest to the work, and to build financial infrastructure that serves life.
 
-The challenges facing our communities and ecosystems are immense. Climate disruption, ecological collapse, economic inequality, displacement, food insecurity, water contamination, cultural erosion -- these are not abstract problems. They are lived realities in every bioregion on Earth.
+The challenges facing our communities and ecosystems are immense. Climate disruption, ecological collapse, economic inequality, displacement, food insecurity, water contamination, cultural erosion - these are not abstract problems. They are lived realities in every bioregion on Earth.
 
 But in every bioregion, there are also people already doing the work. Leaders who know their land, their neighbors, their waterways, their histories. People who show up when the flood comes, when the food runs out, when the community needs to grieve or celebrate or decide together what comes next.
 
 Flow Funding trusts those people. It puts resources in their hands. And it asks them to pass the trust forward.
 
-Kinship Earth did not invent this idea. Marion Rockefeller Weber planted this seed decades ago. Communities around the world have been practicing mutual aid, reciprocity, and trust-based resource-sharing since long before any of us were here. What we are doing is building the infrastructure for these practices to scale -- so that every bioregion can have its own Flow Fund, its own network of trusted leaders, its own capacity to attract and steward capital in service of life.
+Kinship Earth did not invent this idea. Marion Rockefeller Weber planted this seed decades ago. Communities around the world have been practicing mutual aid, reciprocity, and trust-based resource-sharing since long before any of us were here. What we are doing is building the infrastructure for these practices to scale - so that every bioregion can have its own Flow Fund, its own network of trusted leaders, its own capacity to attract and steward capital in service of life.
 
 You are part of that now.
 
@@ -714,10 +711,10 @@ Start where you are. Start with who you trust. Start with what you have. And kno
 ---
 
 > *"We're trusting those who know the needs of their communities to do the work and to deploy capital however they see fit. That's what flow funding is."*
-> -- Sydney Griffith
+> - Sydney Griffith
 
 ---
 
-*This playbook is a living document. It will be updated as we learn, as new bioregional Flow Funds emerge, and as the movement grows. Your feedback, stories, and experiences will shape future versions.*
+*This playbook is a living document co-created by the team at Kinship Earth, with input from our partners. It will be updated as we learn, as new bioregional Flow Funds emerge, and as the movement grows. Your feedback, stories, and experiences will shape future versions.*
 
 *Published Q1 2026 | Kinship Earth*
