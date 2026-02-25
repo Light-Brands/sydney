@@ -10,7 +10,7 @@
 
 This playbook is shared with intention. It is a living document, offered to place-based communities ready to transform how resources move in their bioregions.
 
-If you are reading this, it is because you expressed interest, filled out our intake form, and had a conversation with Kinship Earth's Executive Director, Sydney Griffith, or another member of our leadership team. 
+If you are reading this, it is because you expressed interest, filled out our intake form, or had a conversation with Kinship Earth's Executive Director, Sydney Griffith, or another member of our leadership team. 
 
 Flow funding is built on trust and relationship - and so is how we share this work.  This model is powerful, and we want to ensure it is taken up by those who are aligned with its spirit: trust, community sovereignty, ecological care, and accountability to life.
 
