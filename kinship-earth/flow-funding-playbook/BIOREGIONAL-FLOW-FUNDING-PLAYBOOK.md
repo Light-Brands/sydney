@@ -8,11 +8,13 @@
 
 ## A Note Before You Begin
 
-This playbook is shared with intention. It is not a product on a shelf -- it is a living document, offered in relationship, to communities ready to transform how resources move in their bioregions.
+This playbook is shared with intention. It is a living document, offered to communities ready to transform how resources move in their bioregions.
 
-If you are reading this, it is because you expressed interest, filled out our intake form, and had a conversation with Kinship Earth's Executive Director, Sydney Griffith. That conversation matters. Flow funding is built on trust and relationship -- and so is how we share this work. We are not gatekeeping. We are tending. This model is powerful, and we want to ensure it is taken up by those who are aligned with its spirit: trust, community sovereignty, ecological care, and accountability to life.
+If you are reading this, it is because you expressed interest, filled out our intake form, and had a conversation with Kinship Earth's Executive Director, Sydney Griffith, or another member of our leadership team. 
 
-Syd is available to you beyond this document. Kinship Earth is here not just to hand you materials but to walk alongside you as you build. Please reach out. We mean it.
+Flow funding is built on trust and relationship - and so is how we share this work.  This model is powerful, and we want to ensure it is taken up by those who are aligned with its spirit: trust, community sovereignty, ecological care, and accountability to life.
+
+Our team is available to you beyond this document. Kinship Earth is here to walk alongside you as you build. 
 
 ---
 
@@ -43,17 +45,17 @@ Syd is available to you beyond this document. Kinship Earth is here not just to 
 
 ### Who We Are
 
-Kinship Earth is a private foundation (501c3) stewarding **Flow Funding** -- a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizing groups. No grant applications. Minimal reporting. Grounded in trust and in the wisdom of those closest to their communities' needs.
+Kinship Earth is a private foundation (501c3) stewarding **Flow Funding** - a participatory, trust-based grantmaking model that moves unrestricted resources directly to grassroots leaders and bioregional organizing groups. No grant applications. Minimal reporting. Grounded in trust and in the wisdom of those closest to their communities' needs.
 
 **Website:** [kinshipearth.org](https://www.kinshipearth.org/) | [flowfunding.org](https://flowfunding.org)
 
 ### Our Origin Story
 
-Kinship Earth was founded in 2021 by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora** with a vision to catalyze planetary regeneration by transforming how philanthropy functions. The roots run deeper still: in the early 1990s, **Marion Rockefeller Weber** gave Susan Davis Moora one of the first-ever flow funding grants -- a seed that would grow for decades before finding its fullest expression through Kinship Earth.
+Kinship Earth was founded in 2021 by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora** with a vision to catalyze planetary regeneration by transforming how philanthropy functions. The roots run deeper: in the early 1990s, **Marion Rockefeller Weber** gave Susan Davis Moora one of the first-ever flow funding grants - a seed that would grow for decades before finding its fullest expression through Kinship Earth.
 
-In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its primary mission. Syd brought years of direct experience supporting 40+ land-based projects, deep relationships across bioregions, and a clear vision for how trust-based capital could be scaled without being co-opted.
+In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its focus. Syd brought years of direct experience supporting 50+ land-based projects, deep relationships across her Northeast bioregion (in Turtle Island), and a clear vision for how trust-based capital could be scaled without being co-opted.
 
-Since that pivot, Kinship Earth has raised over **$800,000** and deployed more than **$370,000** in unrestricted flow funding grants to **23 Flow Funders** across **12+ bioregions** globally -- including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, and East Africa.
+Since that pivot, Kinship Earth has raised over **$800,000** and deployed **$370,000** in unrestricted flow funding grants to **23 Flow Funders** across **12+ bioregions** globally - including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, East Africa, and beyond.
 
 ### Our Track Record
 
@@ -64,15 +66,15 @@ Since that pivot, Kinship Earth has raised over **$800,000** and deployed more t
 | $500,000 raised | August 2024 |
 | Flow Funding Cohort 1 launched; first Community of Practice begins | October 2024 |
 | $150,000 grant received from Novo Foundation | February 2025 |
-| $300,000+ deployed to 18+ Flow Funders | Mid-2025 |
+| $300,000 deployed | October 2024 - February 2025 |
 | Additional $150,000 grant from Novo Foundation | November 2025 |
 | $70K deployed to bioregional organizing groups globally | Q1 2026 |
 
-**Real-world outcomes funded through Flow Funding:**
+**EXAMPLES OF IMPACT | Real-world outcomes funded through Kinship Eath's Flow Funding:**
 
-- **Food Sovereignty on Reservations:** A Flow Funder purchased a freeze dryer for a reservation so produce and herbs could be preserved through winter -- strengthening nutrition, reducing reliance on processed foods, and building long-term community resilience.
-- **Protecting Sacred Waters in Minnesota:** A Flow Funder helped prevent toxic mining waste from being dumped in a waterway -- protecting sacred waters, uplifting treaty rights, preserving ecosystems, and affirming Indigenous sovereignty.
-- **Family Food Security:** A Flow Funder expanded a program teaching families to grow food and raise chickens -- creating lasting food security, self-sufficiency, and empowerment.
+- **Food Sovereignty on Reservations:** A Flow Funder purchased a freeze dryer for a reservation so produce and herbs could be preserved through winter - strengthening nutrition, reducing reliance on processed foods, and building long-term community resilience.
+- **Protecting Sacred Waters in Minnesota:** A Flow Funder helped prevent toxic mining waste from being dumped in a waterway - protecting sacred waters, uplifting treaty rights, preserving ecosystems, and affirming Indigenous sovereignty.
+- **Family Food Security:** A Flow Funder expanded a program teaching families to grow food and raise chickens - creating lasting food security, self-sufficiency, and empowerment.
 - **Tumianuma Women's Gardens (Ecuador):** Cultivating permaculture food forests and gardens, as well as cultural exchange, run by local women.
 - **The Slim Butte Agricultural Program (Pine Ridge, South Dakota):** Gaining critical winter heating and a truck for food delivery.
 - **The East African Coastal Forest Women's Flow Fund:** Supporting 10 women restoring ecosystems across five countries.
@@ -80,7 +82,7 @@ Since that pivot, Kinship Earth has raised over **$800,000** and deployed more t
 
 ### Why We Are Focused on Bioregionalism
 
-We believe that the convergence of ecological, social, economic, and governance crises cannot be addressed through top-down, centralized solutions. The communities closest to the land, the water, the soil, and to each other are the ones best positioned to heal and steward their places. Bioregional organizing reflects how life actually works -- in watersheds, ecosystems, and cultural landscapes -- not in the arbitrary lines drawn by political maps.
+We believe that the convergence of ecological, social, economic, and governance crises cannot be addressed through top-down, centralized solutions. The communities closest to the land, the water, the soil, and to each other are the ones best positioned to heal and steward their places. Bioregional organizing reflects how life actually works - in watersheds, ecosystems, and cultural landscapes - not in the arbitrary lines drawn by political maps.
 
 Kinship Earth is focused on funding bioregional organizing groups because these are the connective tissue of their places. They are the groups of leaders working at the intersection of food sovereignty, housing, ecological restoration, Indigenous rights, disaster preparedness, economic justice, and community health -- all at once, all in relationship, all rooted in place.
 
