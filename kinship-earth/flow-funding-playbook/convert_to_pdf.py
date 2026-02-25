@@ -31,60 +31,60 @@ html_content = f"""<!DOCTYPE html>
 </body>
 </html>"""
 
-# Professional CSS styling
-css = CSS(string="""
-@page {{
+# Professional CSS styling (separate string to avoid f-string brace issues)
+CSS_TEXT = """
+@page {
     size: letter;
     margin: 1in 0.85in;
-    @top-center {{
+    @top-center {
         content: "The Bioregional Flow Funding Playbook";
         font-family: Georgia, 'Times New Roman', serif;
         font-size: 8pt;
         color: #888;
         padding-bottom: 8pt;
         border-bottom: 0.5pt solid #ccc;
-    }}
-    @bottom-center {{
+    }
+    @bottom-center {
         content: "Kinship Earth  |  kinshipearth.org  |  flowfunding.org";
         font-family: Georgia, 'Times New Roman', serif;
         font-size: 7.5pt;
         color: #888;
         padding-top: 8pt;
         border-top: 0.5pt solid #ccc;
-    }}
-    @bottom-right {{
+    }
+    @bottom-right {
         content: counter(page);
         font-family: Georgia, 'Times New Roman', serif;
         font-size: 8pt;
         color: #888;
         padding-top: 8pt;
-    }}
-}}
+    }
+}
 
-@page :first {{
-    @top-center {{
+@page :first {
+    @top-center {
         content: none;
         border-bottom: none;
-    }}
-    @bottom-center {{
+    }
+    @bottom-center {
         content: none;
         border-top: none;
-    }}
-    @bottom-right {{
+    }
+    @bottom-right {
         content: none;
-    }}
+    }
     margin-top: 2.5in;
-}}
+}
 
-body {{
+body {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 10.5pt;
     line-height: 1.65;
     color: #2a2a2a;
     max-width: 100%;
-}}
+}
 
-h1 {{
+h1 {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 26pt;
     color: #1a472a;
@@ -92,22 +92,22 @@ h1 {{
     margin-bottom: 0.3em;
     line-height: 1.2;
     page-break-after: avoid;
-}}
+}
 
-h1 + p {{
+h1 + p {
     text-align: center;
     font-size: 13pt;
     color: #3a6b4a;
-}}
+}
 
-h1 + p + p {{
+h1 + p + p {
     text-align: center;
     font-style: italic;
     color: #666;
     font-size: 10pt;
-}}
+}
 
-h2 {{
+h2 {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 17pt;
     color: #1a472a;
@@ -116,121 +116,123 @@ h2 {{
     margin-top: 36pt;
     margin-bottom: 14pt;
     page-break-after: avoid;
-}}
+}
 
-h3 {{
+h3 {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 13pt;
     color: #2d5a3d;
     margin-top: 22pt;
     margin-bottom: 8pt;
     page-break-after: avoid;
-}}
+}
 
-h4 {{
+h4 {
     font-family: Georgia, 'Times New Roman', serif;
     font-size: 11pt;
     color: #3a6b4a;
     margin-top: 16pt;
     margin-bottom: 6pt;
     page-break-after: avoid;
-}}
+}
 
-p {{
+p {
     margin-bottom: 10pt;
     text-align: justify;
     orphans: 3;
     widows: 3;
-}}
+}
 
-a {{
+a {
     color: #2d5a3d;
     text-decoration: underline;
     text-decoration-color: #8ab89a;
-}}
+}
 
-a:hover {{
+a:hover {
     color: #1a472a;
-}}
+}
 
-strong {{
+strong {
     color: #1a3a24;
-}}
+}
 
-em {{
+em {
     color: #444;
-}}
+}
 
-blockquote {{
+blockquote {
     border-left: 3pt solid #3a6b4a;
     margin: 18pt 0;
     padding: 12pt 20pt;
     background-color: #f4f9f5;
     font-style: italic;
     color: #3a5a42;
-}}
+}
 
-blockquote p {{
+blockquote p {
     margin-bottom: 4pt;
-}}
+}
 
-ul, ol {{
+ul, ol {
     margin-bottom: 12pt;
     padding-left: 24pt;
-}}
+}
 
-li {{
+li {
     margin-bottom: 5pt;
-}}
+}
 
-table {{
+table {
     width: 100%;
     border-collapse: collapse;
     margin: 16pt 0;
     font-size: 9.5pt;
     page-break-inside: auto;
-}}
+}
 
-thead {{
+thead {
     background-color: #1a472a;
     color: white;
-}}
+}
 
-th {{
+th {
     padding: 10pt 12pt;
     text-align: left;
     font-weight: bold;
     font-size: 9.5pt;
-}}
+}
 
-td {{
+td {
     padding: 9pt 12pt;
     border-bottom: 0.5pt solid #dde8df;
     vertical-align: top;
-}}
+}
 
-tr:nth-child(even) {{
+tr:nth-child(even) {
     background-color: #f7faf7;
-}}
+}
 
-tr {{
+tr {
     page-break-inside: avoid;
-}}
+}
 
-hr {{
+hr {
     border: none;
     border-top: 1pt solid #c5d8c8;
     margin: 28pt 0;
-}}
+}
 
-code {{
+code {
     background-color: #f0f5f1;
     padding: 2pt 5pt;
     border-radius: 3pt;
     font-size: 9pt;
     font-family: 'Courier New', monospace;
-}}
-""")
+}
+"""
+
+css = CSS(string=CSS_TEXT)
 
 # Generate PDF
 html_doc = HTML(string=html_content)
