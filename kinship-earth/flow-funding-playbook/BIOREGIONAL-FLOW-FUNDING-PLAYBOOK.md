@@ -565,21 +565,32 @@ Kinship Earth provides bioregional communities receiving this playbook with a se
 
 | Tool | Purpose |
 |------|---------|
-| **Onboarding Form** | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
-| **Flow Funder Agreement** | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
-| **Reporting Form** | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
-| **Nomination / Recommendation Form** | For Flow Funders to recommend the next cohort of trusted community leaders |
-| **Storytelling Framework** | A guide for Flow Funders and communities to capture and share their impact stories |
-| **Community of Practice Guide** | Framework for establishing and facilitating your shared learning community |
+| **[Onboarding Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Onboarding-Form.pdf)** | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
+| **[Flow Funder Agreement](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Agreement-Template.pdf)** | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
+| **[Reporting Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Disbursement-and-Reporting-Form.pdf)** | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
+| **[Nomination / Recommendation Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Playbook-Contribution-Form.pdf)** | For Flow Funders to recommend the next cohort of trusted community leaders |
+| **[Storytelling Framework](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/How-to-Tell-a-Flow-Funding-Story.pdf)** | A guide for Flow Funders and communities to capture and share their impact stories |
+| **[Community of Practice Guide](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Community-of-Practice-Framework.pdf)** | Framework for establishing and facilitating your shared learning community |
 | **Donor Cultivation Tracker** | A simple tool for tracking relationships with potential and existing donors |
 | **Bioregional Mapping Worksheet** | A guide for mapping the leaders, organizations, resources, and needs in your bioregion |
+
+### Additional Resources
+
+| Resource | Purpose |
+|----------|---------|
+| **[Flow Funder Role and Responsibilities](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Role-and-Responsibilities.pdf)** | Overview of the Flow Funder role, expectations, and key responsibilities |
+| **[Criteria for Selecting Flow Funders](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Criteria-for-Selecting-Flow-Funders.pdf)** | Guidance on identifying and selecting the right Flow Funders for your bioregion |
+| **[Core Agreements and Flow Funding Practices](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Core-Agreements-and-Flow-Funding-Practices.pdf)** | Foundational agreements and practices that guide Flow Funding |
+| **[Individual-to-Individual Giving](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Individual-to-Individual-Giving.pdf)** | Guidance on direct individual-to-individual giving within the Flow Funding model |
+| **[Insights: Domestic vs. International Funding](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Insights-Domestic-vs-International-Funding.pdf)** | Key considerations for domestic and international Flow Funding efforts |
+| **[Bioregional Activation Series](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/NE-Bioregional-Activation-Series.pdf)** | Framework and guide for the Bioregional Activation Series program |
 
 ### Legal Templates
 
 | Template | Purpose |
 |----------|---------|
 | **Sample Bylaws** | For communities forming an independent 501(c)(3) |
-| **Fiscal Sponsorship Agreement Template** | For communities using fiscal sponsorship to launch |
+| **[Fiscal Sponsorship Agreement Template](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Fiscal-Sponsorship-Without-501c3.pdf)** | For communities using fiscal sponsorship to launch |
 | **Conflict of Interest Policy** | Template for maintaining governance integrity |
 | **Gift Acceptance Policy** | Guidelines for receiving and managing donations |
 
