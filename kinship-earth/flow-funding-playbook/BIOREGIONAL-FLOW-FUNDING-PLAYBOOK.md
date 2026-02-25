@@ -39,6 +39,22 @@ Our team is available to you beyond this document. Kinship Earth is here to walk
 17. [Frequently Asked Questions](#17-frequently-asked-questions)
 18. [Closing: An Invitation](#18-closing-an-invitation)
 
+**Appendices**
+
+- [Appendix A: Flow Funder Onboarding Form](#appendix-a-flow-funder-onboarding-form)
+- [Appendix B: Flow Funder Agreement Template](#appendix-b-flow-funder-agreement-template)
+- [Appendix C: Disbursement and Reporting Form](#appendix-c-disbursement-and-reporting-form)
+- [Appendix D: Playbook Contribution Form](#appendix-d-playbook-contribution-form)
+- [Appendix E: How to Tell a Flow Funding Story](#appendix-e-how-to-tell-a-flow-funding-story)
+- [Appendix F: Community of Practice Framework](#appendix-f-community-of-practice-framework)
+- [Appendix G: Flow Funder Role and Responsibilities](#appendix-g-flow-funder-role-and-responsibilities)
+- [Appendix H: Criteria for Selecting Flow Funders](#appendix-h-criteria-for-selecting-flow-funders)
+- [Appendix I: Core Agreements and Flow Funding Practices](#appendix-i-core-agreements-and-flow-funding-practices)
+- [Appendix J: Individual-to-Individual Giving](#appendix-j-individual-to-individual-giving)
+- [Appendix K: Insights: Domestic vs. International Funding](#appendix-k-insights-domestic-vs-international-funding)
+- [Appendix L: Bioregional Activation Series](#appendix-l-bioregional-activation-series)
+- [Appendix M: Fiscal Sponsorship Without 501(c)(3) Status](#appendix-m-fiscal-sponsorship-without-501c3-status)
+
 ---
 
 ## 1. About Kinship Earth
@@ -559,41 +575,37 @@ If your bioregion already has gatherings, congresses, convenings, or events that
 
 ## 14. Tools and Templates
 
-Kinship Earth provides bioregional communities receiving this playbook with a set of practical tools and templates to support the creation of their own unique Flow Funds. These include:
+Kinship Earth provides bioregional communities receiving this playbook with a set of practical tools and templates to support the creation of their own unique Flow Funds. The full text of each resource is included in the Appendices at the end of this playbook.
 
 ### Documents and Forms
 
-| Tool | Purpose |
-|------|---------|
-| **[Onboarding Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Onboarding-Form.pdf)** | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
-| **[Flow Funder Agreement](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Agreement-Template.pdf)** | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
-| **[Reporting Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Disbursement-and-Reporting-Form.pdf)** | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
-| **[Nomination / Recommendation Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Playbook-Contribution-Form.pdf)** | For Flow Funders to recommend the next cohort of trusted community leaders |
-| **[Storytelling Framework](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/How-to-Tell-a-Flow-Funding-Story.pdf)** | A guide for Flow Funders and communities to capture and share their impact stories |
-| **[Community of Practice Guide](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Community-of-Practice-Framework.pdf)** | Framework for establishing and facilitating your shared learning community |
+| Tool | Appendix | Purpose |
+|------|----------|---------|
+| **Onboarding Form** | [Appendix A](#appendix-a-flow-funder-onboarding-form) | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
+| **Flow Funder Agreement** | [Appendix B](#appendix-b-flow-funder-agreement-template) | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
+| **Reporting Form** | [Appendix C](#appendix-c-disbursement-and-reporting-form) | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
+| **Playbook Contribution Form** | [Appendix D](#appendix-d-playbook-contribution-form) | For those who want to contribute tools, stories, or resources to the playbook |
+| **Storytelling Framework** | [Appendix E](#appendix-e-how-to-tell-a-flow-funding-story) | A guide for Flow Funders and communities to capture and share their impact stories |
+| **Community of Practice Guide** | [Appendix F](#appendix-f-community-of-practice-framework) | Framework for establishing and facilitating your shared learning community |
 
 ### Additional Resources
 
-| Resource | Purpose |
-|----------|---------|
-| **[Flow Funder Role and Responsibilities](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Flow-Funder-Role-and-Responsibilities.pdf)** | Overview of the Flow Funder role, expectations, and key responsibilities |
-| **[Criteria for Selecting Flow Funders](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Criteria-for-Selecting-Flow-Funders.pdf)** | Guidance on identifying and selecting the right Flow Funders for your bioregion |
-| **[Core Agreements and Flow Funding Practices](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Core-Agreements-and-Flow-Funding-Practices.pdf)** | Foundational agreements and practices that guide Flow Funding |
-| **[Individual-to-Individual Giving](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Individual-to-Individual-Giving.pdf)** | Guidance on direct individual-to-individual giving within the Flow Funding model |
-| **[Insights: Domestic vs. International Funding](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Insights-Domestic-vs-International-Funding.pdf)** | Key considerations for domestic and international Flow Funding efforts |
-| **[Bioregional Activation Series](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/NE-Bioregional-Activation-Series.pdf)** | Framework and guide for the Bioregional Activation Series program |
+| Resource | Appendix | Purpose |
+|----------|----------|---------|
+| **Flow Funder Role and Responsibilities** | [Appendix G](#appendix-g-flow-funder-role-and-responsibilities) | Overview of the Flow Funder role, expectations, and key responsibilities |
+| **Criteria for Selecting Flow Funders** | [Appendix H](#appendix-h-criteria-for-selecting-flow-funders) | Guidance on identifying and selecting the right Flow Funders for your bioregion |
+| **Core Agreements and Flow Funding Practices** | [Appendix I](#appendix-i-core-agreements-and-flow-funding-practices) | Foundational agreements and practices that guide Flow Funding |
+| **Individual-to-Individual Giving** | [Appendix J](#appendix-j-individual-to-individual-giving) | Guidance on direct individual-to-individual giving within the Flow Funding model |
+| **Insights: Domestic vs. International Funding** | [Appendix K](#appendix-k-insights-domestic-vs-international-funding) | Key considerations for domestic and international Flow Funding efforts |
+| **Bioregional Activation Series** | [Appendix L](#appendix-l-bioregional-activation-series) | Framework and guide for the Bioregional Activation Series program |
 
 ### Legal Templates
 
-| Template | Purpose |
-|----------|---------|
-| **[Fiscal Sponsorship Agreement Template](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Fiscal-Sponsorship-Without-501c3.pdf)** | For communities using fiscal sponsorship to launch |
+| Template | Appendix | Purpose |
+|----------|----------|---------|
+| **Fiscal Sponsorship Agreement Template** | [Appendix M](#appendix-m-fiscal-sponsorship-without-501c3-status) | For communities using fiscal sponsorship to launch |
 
 *Note: Legal templates are starting points and should be reviewed by an attorney familiar with nonprofit law in your state. Kinship Earth can connect you with legal support.*
-
-### How to Access These Tools
-
-These tools are provided alongside this playbook as part of Kinship Earth's commitment to supporting bioregional communities in creating their own Flow Funds. If you have not yet received these materials, contact Kinship Earth directly.
 
 ---
 
