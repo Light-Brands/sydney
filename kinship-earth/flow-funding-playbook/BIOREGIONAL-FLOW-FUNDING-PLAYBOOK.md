@@ -56,7 +56,7 @@ Kinship Earth was founded in 2021 by **Stephen Gomes**, **Susan Davis Moora**, a
 
 In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its focus. Syd brought years of direct experience supporting 50+ land-based projects, deep relationships across her Northeast bioregion (in Turtle Island), and a clear vision for how trust-based capital could be scaled without being co-opted.
 
-Since that pivot, Kinship Earth has raised over **$800,000** and deployed **$370,000** in unrestricted flow funding grants to **23 Flow Funders** across **12+ bioregions** globally - including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, East Africa, and beyond.
+Since that pivot, Kinship Earth has deployed **$370,000** in unrestricted flow funding grants to **23 Flow Funders** across **12+ bioregions** globally - including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, East Africa, and beyond.
 
 ### Our Track Record
 
