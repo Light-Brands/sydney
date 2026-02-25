@@ -1,14 +1,14 @@
-# The Bioregional Flow Funding Playbook
+# A Bioregional Flow Funding Playbook
 
 **A Guide for Bioregional Communities Creating Their Own Flow Funds**
 
-*Published by Kinship Earth | Q1 2026*
+*Published by Kinship Earth | March, 2026*
 
 ---
 
 ## A Note Before You Begin
 
-This playbook is shared with intention. It is a living document, offered to communities ready to transform how resources move in their bioregions.
+This playbook is shared with intention. It is a living document, offered to place-based communities ready to transform how resources move in their bioregions.
 
 If you are reading this, it is because you expressed interest, filled out our intake form, and had a conversation with Kinship Earth's Executive Director, Sydney Griffith, or another member of our leadership team. 
 
@@ -32,7 +32,7 @@ Our team is available to you beyond this document. Kinship Earth is here to walk
 10. [Governance and Decision-Making](#10-governance-and-decision-making)
 11. [Attracting Capital: Local Wealth and Beyond](#11-attracting-capital-local-wealth-and-beyond)
 12. [Storytelling as Fundraising](#12-storytelling-as-fundraising)
-13. [The Bioregional Activation Series](#13-the-bioregional-activation-series)
+13. [A Bioregional Activation Series](#13-a-bioregional-activation-series)
 14. [Tools and Templates](#14-tools-and-templates)
 15. [How Kinship Earth Can Support You](#15-how-kinship-earth-can-support-you)
 16. [What Is Coming Next: A Playbook for Funders](#16-what-is-coming-next-a-playbook-for-funders)
@@ -155,7 +155,7 @@ Foundations are legally required to distribute only approximately 5% of assets a
 Grassroots leaders - the people closest to their communities' needs - spend countless hours finding grants, writing proposals, conforming to foundation priorities, and filling out reports. This pulls them away from the work that matters. The application process itself is a gatekeeping mechanism that favors well-resourced organizations with professional grant writers over small, effective community groups.
 
 **3. Foundations control decisions that communities should make.**
-Most traditional grants come with restrictions: you must spend the money on this program, in this timeframe, toward these outcomes. This enforces conformity to what foundations think communities need -- not what communities actually need. It removes agency from the people closest to the ground.
+Most traditional grants come with restrictions: you must spend the money on this program, in this timeframe, toward these outcomes. This enforces conformity to what foundations think communities need, not what communities actually need. It removes agency from the people closest to the ground.
 
 **4. The most effective actors are the most underfunded.**
 Grassroots organizations operating on less than $50,000 per year consistently deliver more effective, responsive, and cost-efficient solutions than large NGOs and intermediary organizations. Yet they remain the most underfunded segment of the nonprofit ecosystem. The system is structurally designed to funnel money toward overhead, brand recognition, and institutional size - not toward impact.
@@ -206,7 +206,7 @@ Kinship Earth, guided by its Flow Fund Advisors, leadership team, and existing F
 
 ### Step 2: Deploy Resources
 
-Flow Funders decide how, when, and where to move resources based on emergent community needs -- without submitting applications or asking permission. The capital is unrestricted. The trust is real.
+Flow Funders decide how, when, and where to move resources based on emergent community needs, without submitting applications or asking permission. The capital is unrestricted. The trust is real.
 
 **Key principles:**
 - No restrictions on how funds are used
@@ -253,7 +253,7 @@ Questions to ask:
 
 **1.2 Define Your Bioregion**
 
-Name the living territory your Flow Fund will serve. This is not about drawing a line on a map -- it is about recognizing the ecological and cultural relationships that define your place.
+Name the living territory your Flow Fund will serve. This is not about drawing a line on a map. It is about recognizing the ecological and cultural relationships that define your place.
 
 Consider:
 - What watershed(s) do you share?
@@ -276,9 +276,9 @@ This mapping process is itself a form of community building. Done well, it stren
 
 **1.4 Heal Fractures and Build Trust**
 
-This step is often overlooked but is essential. Most bioregions carry unresolved conflicts -- between organizations competing for the same scarce resources, between communities with different priorities, between newcomers and long-time residents, between Indigenous peoples and settler communities.
+This step is often overlooked but is essential. Most bioregions carry unresolved conflicts: between organizations competing for the same scarce resources, between communities with different priorities, between newcomers and long-time residents, between Indigenous peoples and settler communities.
 
-A Flow Fund cannot function in a landscape of distrust. Before you can flow resources, you may need to invest in healing -- facilitated conversations, community meals, shared work days, conflict mediation, truth-telling circles, or simply showing up consistently over time.
+A Flow Fund cannot function in a landscape of distrust. Before you can flow resources, you may need to invest in healing: facilitated conversations, community meals, shared work days, conflict mediation, truth-telling circles, or simply showing up consistently over time.
 
 This is not a prerequisite that must be "completed" before you begin. It is an ongoing practice woven into the life of your Flow Fund.
 
@@ -354,7 +354,7 @@ Your case for support should communicate:
 - The leaders and communities your Flow Fund serves
 - Your track record (even if early, tells the story of what your community has already accomplished)
 - How Flow Funding is different from traditional philanthropy and why it works
-- What donors' capital will make possible -- in concrete, human terms
+- What donors' capital will make possible, in concrete, human terms
 - The accountability and learning structures you have in place
 
 See [Section 12: Storytelling as Fundraising](#12-storytelling-as-fundraising) for more.
@@ -363,7 +363,7 @@ See [Section 12: Storytelling as Fundraising](#12-storytelling-as-fundraising) f
 
 **4.1 Start Small**
 
-You do not need to raise a million dollars to begin. Start with whatever capital you can gather and deploy it to your first cohort of Flow Funders. Even small amounts of unrestricted capital deployed through trust can be transformative -- and the experience of your first cycle will teach you more than any playbook.
+You do not need to raise a million dollars to begin. Start with whatever capital you can gather and deploy it to your first cohort of Flow Funders. Even small amounts of unrestricted capital deployed through trust can be transformative, and the experience of your first cycle will teach you more than any playbook.
 
 **4.2 Document and Share**
 
@@ -441,21 +441,21 @@ How your Flow Fund makes decisions is as important as how it moves money. Flow F
 
 ### Accountability Without Bureaucracy
 
-Flow Funding is not "no accountability." It is a different kind of accountability -- one rooted in relationship, story, and community rather than in compliance paperwork and outcome metrics. Your governance structure should reflect this balance: enough structure to maintain trust and transparency, without so much that it recreates the bureaucratic burdens Flow Funding is designed to eliminate.
+Flow Funding is not "no accountability." It is a different kind of accountability, one rooted in relationship, story, and community rather than in compliance paperwork and outcome metrics. Your governance structure should reflect this balance: enough structure to maintain trust and transparency, without so much that it recreates the bureaucratic burdens Flow Funding is designed to eliminate.
 
 ---
 
 ## 11. Attracting Capital: Local Wealth and Beyond
 
-Your bioregional Flow Fund exists to attract unrestricted capital -- from within your bioregion and beyond -- and to flow it in service of your communities. Here is how to think about fundraising.
+Your bioregional Flow Fund exists to attract unrestricted capital, from within your bioregion and beyond, and to flow it in service of your communities. Here is how to think about fundraising.
 
 ### Principles of Flow Fund Fundraising
 
 **1. Lead with relationship, not with asks.**
-Before you ask for money, invest in relationships. People give to people they trust, to communities they feel connected to, to visions they have helped shape. Invite potential donors into your bioregion -- physically and emotionally -- before you invite them to give.
+Before you ask for money, invest in relationships. People give to people they trust, to communities they feel connected to, to visions they have helped shape. Invite potential donors into your bioregion, physically and emotionally, before you invite them to give.
 
 **2. Unrestricted capital is the goal.**
-The power of Flow Funding is that capital moves without restrictions. When fundraising, be clear about this: donors are giving into a trust-based system, not funding a specific program. This requires a different kind of donor -- one willing to cede control. Find those donors and cultivate them deeply.
+The power of Flow Funding is that capital moves without restrictions. When fundraising, be clear about this: donors are giving into a trust-based system, not funding a specific program. This requires a different kind of donor, one willing to cede control. Find those donors and cultivate them deeply.
 
 **3. Tell your story.**
 Your bioregion has a story. Your community has a story. Your Flow Funders have stories. These stories are your most powerful fundraising tool. See [Section 12](#12-storytelling-as-fundraising) for a full treatment.
@@ -470,7 +470,7 @@ Do not rely on a single large donor. Aim for a mix of local individual donors, r
 
 1. **Identify** - Who in your bioregion and network has the resources and values to support flow funding?
 2. **Educate** - Share the Flow Funding model, the problems with traditional philanthropy, and your bioregion's story
-3. **Invite** - Bring them into relationship with your community -- events, site visits, conversations, Community of Practice gatherings
+3. **Invite** - Bring them into relationship with your community: events, site visits, conversations, Community of Practice gatherings
 4. **Ask** - Make a specific, clear ask aligned with their capacity and interests
 5. **Steward** - After giving, keep donors connected to impact through stories, reports, and ongoing relationship
 6. **Deepen** - Over time, invite donors into greater participation, larger gifts, and introductions to their networks
@@ -479,12 +479,12 @@ Do not rely on a single large donor. Aim for a mix of local individual donors, r
 
 ## 12. Storytelling as Fundraising
 
-**Telling your story is one of the most important things your bioregional community can do -- not just for fundraising, but for the bioregional movement itself.**
+**Telling your story is one of the most important things your bioregional community can do, not just for fundraising, but for the bioregional movement itself.**
 
 Kinship Earth is actively helping bioregional communities tell their stories, because we believe that:
 
-- **Stories are how people connect to place.** When a donor reads about a Flow Funder who bought a freeze dryer for a reservation to preserve winter food, they are not just reading about a purchase -- they are connecting to a community, a land, a living system.
-- **Stories build the case for bioregionalism.** Every story from every bioregion strengthens the movement as a whole. When funders hear what is happening in Cascadia and Colombia and the Northeast and Jamaica, they begin to understand that bioregional organizing is not a niche idea -- it is a global phenomenon.
+- **Stories are how people connect to place.** When a donor reads about a Flow Funder who bought a freeze dryer for a reservation to preserve winter food, they are not just reading about a purchase. They are connecting to a community, a land, a living system.
+- **Stories build the case for bioregionalism.** Every story from every bioregion strengthens the movement as a whole. When funders hear what is happening in Cascadia and Colombia and the Northeast and Jamaica, they begin to understand that bioregional organizing is not a niche idea. It is a global phenomenon.
 - **Stories equip communities to fundraise for themselves.** When your community can tell its own story clearly, compellingly, and authentically, you are not dependent on someone else to make your case. You are empowered.
 - **Stories create accountability through visibility.** When Flow Funders share stories of impact, it creates a form of accountability that is more meaningful than any compliance report.
 
@@ -519,13 +519,13 @@ Kinship Earth provides storytelling frameworks as part of the tools and template
 - Presentations for donor audiences
 - Community-produced media
 
-Kinship Earth may be able to offer direct storytelling support to your community -- including help with narrative development, content production, and media strategy. See [Section 15](#15-how-kinship-earth-can-support-you).
+Kinship Earth may be able to offer direct storytelling support to your community, including help with narrative development, content production, and media strategy. See [Section 15](#15-how-kinship-earth-can-support-you).
 
 ---
 
-## 13. The Bioregional Activation Series
+## 13. A Bioregional Activation Series
 
-Kinship Earth is co-creating, with its partners, a **Bioregional Activation Series** -- a program designed to help bioregional communities prepare to create their own Flow Funds.
+Kinship Earth is co-creating, with its partners, a **Bioregional Activation Series**, a program designed to help bioregional communities prepare to create their own Flow Funds.
 
 ### What the Activation Series Is
 
@@ -554,7 +554,7 @@ The Bioregional Activation Series is a program that Kinship Earth is currently r
 
 ### Adding Value to Existing Events
 
-If your bioregion already has gatherings, congresses, convenings, or events that bring leaders together, the Bioregional Activation Series can also be adapted to add value to what you are already doing -- rather than creating something from scratch. We can co-design activation sessions, workshops, or breakout experiences that weave into your existing rhythms.
+If your bioregion already has gatherings, congresses, convenings, or events that bring leaders together, the Bioregional Activation Series can also be adapted to add value to what you are already doing, rather than creating something from scratch. We can co-design activation sessions, workshops, or breakout experiences that weave into your existing rhythms.
 
 ---
 
@@ -566,7 +566,7 @@ Kinship Earth provides bioregional communities receiving this playbook with a se
 
 | Tool | Purpose |
 |------|---------|
-| **Onboarding Form** (Appendix A-1) | For welcoming and orienting new Flow Funders -- capturing their information, bioregional context, and areas of focus |
+| **Onboarding Form** (Appendix A-1) | For welcoming and orienting new Flow Funders, capturing their information, bioregional context, and areas of focus |
 | **Flow Funder Agreement** (Appendix A-2) | A simple agreement between your Flow Fund and each Flow Funder, establishing the relationship, expectations, and principles of engagement |
 | **Reporting Form** (Appendix A-3) | A lightweight form for Flow Funders to share basic information about how they deployed funds and the impact they observed |
 | **Nomination / Recommendation Form** (Appendix A-4) | For Flow Funders to recommend the next cohort of trusted community leaders |
@@ -590,23 +590,23 @@ Kinship Earth provides bioregional communities receiving this playbook with a se
 |----------|---------|
 | **Fiscal Sponsorship Agreement Template** (Appendix A-13) | For communities using fiscal sponsorship to launch |
 
-*Note: Legal templates are starting points and should be reviewed by an attorney familiar with nonprofit law in your state. Kinship Earth can connect you with legal support.*
+*Note: Legal templates are starting points and should be reviewed by an attorney familiar with nonprofit law in your state.*
 
 ### Additional Recommended Governance Documents
 
 While Kinship Earth does not currently provide templates for the following items, we strongly recommend that bioregional communities develop these as part of building strong organizational infrastructure:
 
-- **Sample Bylaws** -- For communities forming an independent 501(c)(3), bylaws establish the foundational governance rules for your organization.
-- **Donor Cultivation Tracker** -- A simple tool for tracking relationships with potential and existing donors helps ensure consistent stewardship and follow-up.
-- **Bioregional Mapping Worksheet** -- A guide for mapping the leaders, organizations, resources, and needs in your bioregion strengthens coordination and clarity.
-- **Conflict of Interest Policy** -- Maintaining governance integrity requires clear policies around conflicts of interest for board members and leadership.
-- **Gift Acceptance Policy** -- Guidelines for receiving and managing donations help protect your organization and clarify expectations with donors.
+- **Bylaws**: For communities forming an independent 501(c)(3), bylaws establish the foundational governance rules for your organization.
+- **Donor Cultivation Tracker**: A simple tool for tracking relationships with potential and existing donors helps ensure consistent stewardship and follow-up.
+- **A Bioregional Map**: A map of the leaders, organizations, resources, needs, and assets in your bioregion helps strengthen coordination, visibility, and clarity across your community.
+- **Conflict of Interest Policy**: Maintaining governance integrity requires clear policies around conflicts of interest for board members and leadership.
+- **Gift Acceptance Policy**: Guidelines for receiving and managing donations help protect your organization and clarify expectations with donors.
 
 These are important documents for any bioregional community building organizational capacity. Kinship Earth may develop templates for these in the future, and we can connect you with legal and organizational development support in the meantime.
 
 ### How to Access These Tools
 
-All tools and templates listed above are included in full in the Appendix (Section 19) of this playbook. Simply turn to the appendix item number referenced next to each tool above to find the complete document.
+All tools and templates listed above are included in full in the Appendix (Section 19) of this playbook. Simply turn to the appendix item number referenced next to each tool or resource above to find the complete document.
 
 ---
 
@@ -632,7 +632,7 @@ Kinship Earth is actively helping bioregional communities tell their stories - b
 
 ### Bioregional Activation Series
 
-As described in [Section 13](#13-the-bioregional-activation-series), Kinship Earth is co-creating a Bioregional Activation Series to help communities prepare for creating their own Flow Funds. We may be able to:
+As described in [Section 13](#13-a-bioregional-activation-series), Kinship Earth is co-creating a Bioregional Activation Series to help communities prepare for creating their own Flow Funds. We may be able to:
 
 - Co-facilitate an Activation Series in your bioregion
 - Co-design activation sessions that integrate with your existing events and gatherings
@@ -645,7 +645,7 @@ Where possible and as fundraising allows, Kinship Earth may be able to provide i
 
 ### Network and Introductions
 
-Kinship Earth is connected to a growing network of aligned funders, bioregional organizing groups, foundations, and movement partners. When aligned, we can make introductions that support your fundraising and relationship-building efforts.
+Kinship Earth is connected to a growing network of aligned funders, bioregional organizing groups, foundations, and movement partners. When aligned, we can make introductions that support your flow fund development, as well as your relationship-building efforts.
 
 ---
 
@@ -657,7 +657,7 @@ This playbook is designed for bioregional communities and organizing groups - th
 
 That playbook will:
 
-- Explain what Flow Funding is and why it works, from the perspective of a funder
+- Explain what Flow Funding is and why it works
 - Present the evidence base for trust-based, unrestricted, community-directed grantmaking
 - Address common concerns and questions from institutional funders
 - Provide practical guidance on how to incorporate flow funding into existing philanthropic portfolios
@@ -665,9 +665,9 @@ That playbook will:
 - Share case studies and impact data from Kinship Earth and the emerging network of bioregional Flow Funds
 - Outline how foundations can move beyond the 5% minimum distribution and get more capital flowing to communities
 
-We are already educating family offices, foundations, DAFs, and high-net-worth individuals on how to and why they should practice flow funding. This second playbook will formalize and deepen that education work.
+We are already educating family offices, foundations, DAFs, and high-net-worth individuals on how to and why they should practice flow funding. Our playbook for funders will formalize and deepen that education work.
 
-If you are a funder reading this, we want to hear from you. Reach out to Kinship Earth to learn how you can begin practicing flow funding now -- before the next playbook is published.
+If you are a funder reading this, we want to hear from you. Reach out to Kinship Earth to learn how you can begin practicing flow funding.
 
 ---
 
@@ -922,7 +922,7 @@ By typing your name, you confirm that you have read and understood your role and
 
 ### Appendix A-4: Playbook Contribution / Nomination Form
 
-**Bioregional Flow Funding Playbook & Resource Library -- Contribution Form**
+**Bioregional Flow Funding Playbook & Resource Library: Contribution Form**
 
 We're so glad you're here. This Playbook is a collaborative effort, and we're honored you're considering contributing to it.
 
@@ -967,7 +967,7 @@ We're currently gathering tools, templates, agreements, models, and stories to s
 
 **How to Tell a Flow Funding Story: The Journey of Impact**
 
-Flow Funding is more than a philanthropic model -- it's a journey of trust, care, and responsiveness. As Flow Funders, you are invited to move money with deep intention, intuition, and integrity. The stories that emerge from this process are powerful: they help illuminate the impact of this approach, inspire future funders, and honor the communities and ecosystems being resourced.
+Flow Funding is more than a philanthropic model. It's a journey of trust, care, and responsiveness. As Flow Funders, you are invited to move money with deep intention, intuition, and integrity. The stories that emerge from this process are powerful: they help illuminate the impact of this approach, inspire future funders, and honor the communities and ecosystems being resourced.
 
 This guide is an invitation to reflect on and share your Flow Funding experience. It does not require polished writing or formal reporting. Instead, it centers honesty, vulnerability, and learning.
 
@@ -986,7 +986,7 @@ You are welcome to share responses to each individually, or weave them together 
 
 - What did you learn about your bioregion or community?
 - How did you build trust or deepen relationships through this process?
-- What were some of the impacts -- tangible or intangible -- you witnessed?
+- What were some of the impacts, tangible or intangible, you witnessed?
 - What are you curious about now, or excited to explore next?
 - What advice would you offer to someone stepping into this role?
 
@@ -1011,23 +1011,23 @@ For any questions or to share your story, contact: kins@kinshipearth.org
 
 **Purpose**
 
-A Community of Practice (CoP) is a shared learning environment -- a circle of peers who come together around a common field of practice. In the context of Flow Funding, a CoP serves as the connective field for those practicing Flow Funding together -- including bioregional organizing groups, Flow Funders, and supporting partners. It's a space to learn from one another's experiences, deepen collective wisdom, and strengthen how resources move in service of life.
+A Community of Practice (CoP) is a shared learning environment, a circle of peers who come together around a common field of practice. In the context of Flow Funding, a CoP serves as the connective field for those practicing Flow Funding together, including bioregional organizing groups, Flow Funders, and supporting partners. It's a space to learn from one another's experiences, deepen collective wisdom, and strengthen how resources move in service of life.
 
 Kinship Earth offers this framework as a living template. Each community decides how it wants to gather, what agreements to hold, and how to evolve its own rhythm and structure over time.
 
 **Why a Community of Practice Matters**
 
-Flow Funding is relational. It depends on trust, learning, and continual reflection -- not on rigid systems or hierarchy.
+Flow Funding is relational. It depends on trust, learning, and continual reflection, not on rigid systems or hierarchy.
 
 A Community of Practice ensures that:
-- Learning flows both ways -- from local to global and back again.
+- Learning flows both ways, from local to global and back again.
 - Stories and insights are shared rather than siloed.
 - Trust deepens between those practicing this model in different contexts.
 - Programs evolve organically, through feedback and peer reflection, rather than from the top down.
 
 **Co-Creating Agreements**
 
-At the heart of every thriving Community of Practice are shared agreements -- crafted together by the community, and revisited as relationships and needs evolve.
+At the heart of every thriving Community of Practice are shared agreements, crafted together by the community, and revisited as relationships and needs evolve.
 
 Example Agreements (Adapt, Expand, or Rewrite Together):
 
@@ -1132,12 +1132,12 @@ This guide outlines the criteria and considerations used at Kinship Earth to ide
 
 **Core Qualities of a Kinship Earth Flow Funder**
 
-- **Community-Rooted** -- Deeply embedded in the place and community they are resourcing, trusted by peers, respected across differences, and attuned to local needs.
-- **Relationally Oriented** -- Prioritizes authentic relationship-building, listens deeply, and operates from a place of care, humility, and reciprocity.
-- **Track Record of Stewardship** -- Has demonstrated experience in community care, ecological work, cultural organizing, mutual aid, or other aligned fields.
-- **Strategic Awareness** -- Understands broader systems and is thoughtful about how funds can be used for long-term, cascading impact.
-- **Clarity of Purpose** -- Brings a clear, grounded intention to the Flow Funding role, rooted in service, not personal gain.
-- **Ethical & Accountable** -- Demonstrates integrity, follows through on commitments, and welcomes feedback and reflection.
+- **Community-Rooted**: Deeply embedded in the place and community they are resourcing, trusted by peers, respected across differences, and attuned to local needs.
+- **Relationally Oriented**: Prioritizes authentic relationship-building, listens deeply, and operates from a place of care, humility, and reciprocity.
+- **Track Record of Stewardship**: Has demonstrated experience in community care, ecological work, cultural organizing, mutual aid, or other aligned fields.
+- **Strategic Awareness**: Understands broader systems and is thoughtful about how funds can be used for long-term, cascading impact.
+- **Clarity of Purpose**: Brings a clear, grounded intention to the Flow Funding role, rooted in service, not personal gain.
+- **Ethical & Accountable**: Demonstrates integrity, follows through on commitments, and welcomes feedback and reflection.
 
 **Additional Considerations**
 
@@ -1149,7 +1149,7 @@ This guide outlines the criteria and considerations used at Kinship Earth to ide
 
 For our first round of Flow Funders, we gathered nominations from Flow Fund Advisors, board members, and partners. We evaluated each candidate using the criteria above, through a process that included anonymous scoring and group discussion. Final decisions were made by our Flow Fund Allocation Committee.
 
-As our model evolves, we increasingly emphasize participation in Flow Funder selection. Once a term is complete, Flow Funders are invited to recommend future candidates -- deepening peer-trusted leadership and shared stewardship of the process.
+As our model evolves, we increasingly emphasize participation in Flow Funder selection. Once a term is complete, Flow Funders are invited to recommend future candidates, deepening peer-trusted leadership and shared stewardship of the process.
 
 ---
 
@@ -1157,7 +1157,7 @@ As our model evolves, we increasingly emphasize participation in Flow Funder sel
 
 **Kinship Earth Core Agreements & Flow Funding Practices**
 
-*Co-created in partnership with our Flow Fund Advisors -- grassroots changemakers who represent the communities we aim to serve*
+*Co-created in partnership with our Flow Fund Advisors, grassroots changemakers who represent the communities we aim to serve*
 
 #### 1. Transforming Philanthropy
 - Share decision-making power with BIPOC and local leaders.
@@ -1192,7 +1192,7 @@ As our model evolves, we increasingly emphasize participation in Flow Funder sel
 
 #### 7. Restorative Justice & Feedback Loops
 - Resolve conflict using restorative practices and non-violent dialogue.
-- Embrace feedback from all roles -- especially Flow Funders and end recipients.
+- Embrace feedback from all roles, especially Flow Funders and end recipients.
 - Use anonymous digital feedback tools and self-correcting systems.
 
 #### 8. Observation & Reflection
@@ -1223,11 +1223,11 @@ Flow Funding often involves individuals giving directly to others to support gra
 **If You Exceed $19,000**
 
 - Donor Reporting Requirement: If more than $19,000 is given to one person in a calendar year, the donor must file IRS Form 709.
-- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption -- which is $13.99 million in 2025.
+- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption, which is $13.99 million in 2025.
 
 **A Direct Path to Participatory Giving**
 
-This is one of the simplest ways that wealthy individuals can give back -- by flowing funds directly to trusted grassroots leaders with whom they are in relationship.
+This is one of the simplest ways that wealthy individuals can give back, by flowing funds directly to trusted grassroots leaders with whom they are in relationship.
 
 Even without a nonprofit intermediary, the principles of Flow Funding still apply:
 - **Trust-based:** You are resourcing someone because you believe in their vision and work.
@@ -1245,7 +1245,7 @@ Even without a nonprofit intermediary, the principles of Flow Funding still appl
 
 ---
 
-### Appendix A-11: Insights -- Domestic vs. International Funding
+### Appendix A-11: Insights: Domestic vs. International Funding
 
 **Insights: Deploying Funds Domestically in the U.S. vs. Internationally**
 
@@ -1294,32 +1294,31 @@ Each Flow Funder who may disburse funds internationally must confirm compliance 
 
 **5. Balancing Trust, Adaptation, and Compliance**
 
-Flow Funding thrives at the intersection of trust, adaptability, and responsibility. These compliance steps are not barriers but bridges -- ensuring that generosity can move freely, safely, and sustainably.
+Flow Funding thrives at the intersection of trust, adaptability, and responsibility. These compliance steps are not barriers but bridges, ensuring that generosity can move freely, safely, and sustainably.
 
 ---
 
 ### Appendix A-12: Bioregional Activation Series
 
-**Bridging Bioregional Wisdom in the Northeast of Turtle Island**
+**A Framework for Bioregional Activation**
 
-A Co-Created Bioregional Activation Series
+The Bioregional Activation Series is a facilitated, multi-session experience designed to help communities within a bioregion prepare to create their own Flow Funds.
 
 **Purpose & Mission**
 
-The mission of this series is to co-create -- alongside experienced community leaders, organizers, and practitioners -- the relational, governance, and coordination foundations needed to resource a thriving Northeast bioregion.
+The mission of an activation series is to co-create, alongside experienced community leaders, organizers, and practitioners, the relational, governance, and coordination foundations needed to resource a thriving bioregion.
 
-The series is being designed to:
-- Surface who is already doing this kind of work
+The series is designed to:
+- Surface who is already doing this kind of work in your bioregion
 - Understand the status of their efforts and what they need
 - Increase visibility, trust, and collaboration among those with shared goals
 
 **Desired Outcomes**
 
-1. The launch of a Northeast Bioregional Flow Fund
-2. The launch of a Northeast Bioregional Currency / Token
-3. The development and fundraising capacity of Northeast bioregional land-based hubs
-4. Practicing Commitment Pooling across the bioregion
-5. Preparing to co-create a NE bioregional festival
+1. The launch of a bioregional Flow Fund
+2. The development and fundraising capacity of bioregional land-based hubs
+3. Practicing commitment pooling across the bioregion, coordinating time, skills, relationships, land access, and funding to strengthen collaboration
+4. Building shared infrastructure for coordination, governance, and mutual support
 
 **Pillars**
 
@@ -1327,22 +1326,22 @@ The series is being designed to:
 - **Governance Education:** Shared language around decision-making, stewardship, and accountability. Exposure to participatory, bioregional, and commons-based governance models.
 - **Tools, Tech & Frameworks:** Surfacing and convening the tools, technologies, and frameworks already supporting this movement.
 - **Healing & Conflict Transformation:** Making space for historical wounds and unresolved tensions to be acknowledged and held with care.
-- **Honoring Place: The Great Law of Peace:** Centering Haudenosaunee governance wisdom and connecting bioregional governance to healing and responsibility to place.
+- **Honoring Place:** Centering Indigenous governance wisdom and connecting bioregional governance to healing and responsibility to place.
 - **Culture, Arts & Creative Expression:** Inviting music, visual art, and creative storytelling rooted in place.
 
 **Proposed Series Flow**
 
-1. Online Preparation Sessions (1-2 Sessions): Introduce the series, purpose, and desired outcomes
+1. Online Preparation Sessions (1-2 Sessions): Introduce the series, purpose, and desired outcomes. Invite participants to begin mapping work in advance.
 2. In-Person Gathering: Relationship and trust building, embodied sensemaking, governance practice, storytelling, and design labs
 3. Distributed Bioregional Hub Gatherings: Partner-hosted activations at farms, community centers, and land-based hubs
 
 ---
 
-### Appendix A-13: Fiscal Sponsorship -- What If You Don't Have 501(c)(3) Status Yet?
+### Appendix A-13: Fiscal Sponsorship: What If You Don't Have 501(c)(3) Status Yet?
 
-Having 501(c)(3) tax-exempt status is ideal for practicing Flow Funding -- it enables you to legally receive charitable donations, apply for foundation grants, and deploy Flow Funding grants in compliance with U.S. tax law.
+Having 501(c)(3) tax-exempt status is ideal for practicing Flow Funding. It enables you to legally receive charitable donations, apply for foundation grants, and deploy Flow Funding grants in compliance with U.S. tax law.
 
-But if you don't yet have 501(c)(3) status or are waiting for IRS approval, you can still begin by working with a fiscal sponsor -- a nonprofit that extends its legal status to your project so you can receive and distribute funds in alignment with Flow Funding principles.
+But if you don't yet have 501(c)(3) status or are waiting for IRS approval, you can still begin by working with a fiscal sponsor, a nonprofit that extends its legal status to your project so you can receive and distribute funds in alignment with Flow Funding principles.
 
 **How to Get Started with Fiscal Sponsorship**
 

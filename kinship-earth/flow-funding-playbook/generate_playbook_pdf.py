@@ -291,9 +291,7 @@ def md_inline(text, in_section14=False):
     # Italic: *text*
     text = re.sub(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)', r'<i>\1</i>', text)
 
-    # Em-dash
-    text = text.replace(" -- ", " \u2014 ")
-    text = text.replace("--", "\u2014")
+    # Note: em-dash conversion removed; source uses regular dashes/commas
 
     return text
 
@@ -721,7 +719,7 @@ def on_page(canvas, doc):
     canvas.setFillColor(C_TEXT_LIGHT)
     canvas.drawString(
         MARGIN_LEFT, MARGIN_BOTTOM - 28,
-        "The Bioregional Flow Funding Playbook  |  Kinship Earth  |  Q1 2026"
+        "A Bioregional Flow Funding Playbook  |  Kinship Earth  |  March, 2026"
     )
 
     # Page number (centered at bottom)
@@ -766,7 +764,7 @@ def build_pdf():
         rightMargin=MARGIN_RIGHT,
         topMargin=MARGIN_TOP,
         bottomMargin=MARGIN_BOTTOM,
-        title="The Bioregional Flow Funding Playbook",
+        title="A Bioregional Flow Funding Playbook",
         author="Kinship Earth",
         subject="A Guide for Bioregional Communities Creating Their Own Flow Funds",
     )
