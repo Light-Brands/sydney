@@ -571,8 +571,6 @@ Kinship Earth provides bioregional communities receiving this playbook with a se
 | **[Nomination / Recommendation Form](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Playbook-Contribution-Form.pdf)** | For Flow Funders to recommend the next cohort of trusted community leaders |
 | **[Storytelling Framework](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/How-to-Tell-a-Flow-Funding-Story.pdf)** | A guide for Flow Funders and communities to capture and share their impact stories |
 | **[Community of Practice Guide](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Community-of-Practice-Framework.pdf)** | Framework for establishing and facilitating your shared learning community |
-| **Donor Cultivation Tracker** | A simple tool for tracking relationships with potential and existing donors |
-| **Bioregional Mapping Worksheet** | A guide for mapping the leaders, organizations, resources, and needs in your bioregion |
 
 ### Additional Resources
 
@@ -589,10 +587,7 @@ Kinship Earth provides bioregional communities receiving this playbook with a se
 
 | Template | Purpose |
 |----------|---------|
-| **Sample Bylaws** | For communities forming an independent 501(c)(3) |
 | **[Fiscal Sponsorship Agreement Template](https://github.com/Light-Brands/sydney/blob/main/kinship-earth/flow-funding-playbook/pdfs/Fiscal-Sponsorship-Without-501c3.pdf)** | For communities using fiscal sponsorship to launch |
-| **Conflict of Interest Policy** | Template for maintaining governance integrity |
-| **Gift Acceptance Policy** | Guidelines for receiving and managing donations |
 
 *Note: Legal templates are starting points and should be reviewed by an attorney familiar with nonprofit law in your state. Kinship Earth can connect you with legal support.*
 
