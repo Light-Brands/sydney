@@ -1211,19 +1211,19 @@ As our model evolves, we increasingly emphasize participation in Flow Funder sel
 
 ### Appendix A-10: Individual-to-Individual Giving
 
-**Tax Considerations for Flow Funding: Individual-to-Individual Giving in the U.S. (2025)**
+**Tax Considerations for Flow Funding: Individual-to-Individual Giving in the U.S. (2026)**
 
 Flow Funding often involves individuals giving directly to others to support grassroots leadership, community care, and ecological regeneration.
 
-**Annual Gift Tax Exclusion (2025)**
+**Annual Gift Tax Exclusion (2026)**
 
-- Per-Person Limit: In 2025, a U.S. citizen can gift up to $19,000 to any number of individuals without triggering reporting requirements or tax implications.
+- Per-Person Limit: In 2026, a U.S. citizen can gift up to $19,000 to any number of individuals without triggering reporting requirements or tax implications.
 - No Reporting by Recipient: The recipient of a gift does not need to report it as income.
 
 **If You Exceed $19,000**
 
 - Donor Reporting Requirement: If more than $19,000 is given to one person in a calendar year, the donor must file IRS Form 709.
-- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption, which is $13.99 million in 2025.
+- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption, which is $13.99 million in 2026.
 
 **A Direct Path to Participatory Giving**
 
