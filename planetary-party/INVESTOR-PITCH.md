@@ -8,7 +8,7 @@
 
 The Planetary Party (PPP) is a cultural coordination protocol — a federated, global infrastructure that connects regenerative builders, bioregional organizers, funders, governance innovators, and cultural workers so they can align, resource one another, and scale their work without centralization or loss of local sovereignty.
 
-Operating through **Kinship Earth** (a 501(c)(3) private foundation), the PPP receives both **philanthropic donations and impact investment capital**, deploying them in service of bioregional communities worldwide. We are not a single organization trying to do everything — we are the connective tissue that helps communities access the tools, capital, knowledge, and relationships they need to thrive.
+The PPP can receive both **philanthropic donations and impact investment capital** to deploy in service of bioregional communities worldwide. We are not a single organization trying to do everything — we are the connective tissue that helps communities access the tools, capital, knowledge, and relationships they need to thrive.
 
 **The core problem we solve:** Regenerative solutions for water, food, shelter, energy, and governance already exist — but they are fragmented, underfunded, and invisible to the communities and funders who need them most. The Planetary Party aggregates these **living solutions** into a coherent, accessible ecosystem and directs capital to where it can do the most good.
 
@@ -96,7 +96,7 @@ These are not theoretical — they are proven, place-based solutions already wor
 | **Guatemala** | Active since Nov 2025 | Indigenous-led listening circles around Lake Atitlan |
 | **NE Turtle Island** | Launching Q1 2026 | Bioregional activation, disaster preparedness, Flow Funding readiness |
 
-**Kinship Earth Flow Funding track record:** $800,000+ raised since 2024; $370,000+ deployed to 23 Flow Funders across 12+ bioregions globally.
+****Kinship Earth** is our fiscal sponsor for philanthropic capital, and the Na'luea Living Trust is our fiscal sponsor for impact investment. It has raised $800,000+ since 2024 and it has deployed $370,000+ to 23 Flow Funders across 12+ bioregions globally, including in the bioregions we're engaging through the PPP, listed above.
 
 ---
 
@@ -116,8 +116,8 @@ These are not theoretical — they are proven, place-based solutions already wor
 
 **Fundraising targets:**
 
-- **2026:** $5M (PPP) / $2M (Kinship Earth Flow Funds)
-- **2028:** $20M (PPP) / $20M (Kinship Earth Flow Funds)
+- **2026:** $5M (PPP)
+- **2028:** $20M (PPP)
 - **10-Year Vision:** $200M+ raised and deployed across a global federation of thriving bioregions
 
 ---
@@ -130,5 +130,5 @@ The Planetary Party is that infrastructure. We are not asking investors to bet o
 
 ---
 
-**Contact:** planetaryparty.com | Kinship Earth (Fiscal Sponsor)
-**Core Stewards:** Syd Harvey Griffith (Executive Director, Kinship Earth) | Juan Carlos Kaiten | Josie Watson
+**Contact:** planetaryparty.com 
+**Core Stewards:** Juan Carlos Kaiten | Syd Harvey Griffith | Josie Watson | Susanna Choe | Sheri Herndon | Nadim Hamdan | Jenny Heinze | Eslerh Oreste
