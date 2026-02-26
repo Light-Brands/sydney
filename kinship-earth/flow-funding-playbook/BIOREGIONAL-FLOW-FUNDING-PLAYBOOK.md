@@ -1223,7 +1223,7 @@ Flow Funding often involves individuals giving directly to others to support gra
 **If You Exceed $19,000**
 
 - Donor Reporting Requirement: If more than $19,000 is given to one person in a calendar year, the donor must file IRS Form 709.
-- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption, which is $13.99 million in 2026.
+- No Immediate Tax Due: The excess amount simply counts against the donor's lifetime gift and estate tax exemption, which is $15 million in 2026.
 
 **A Direct Path to Participatory Giving**
 
