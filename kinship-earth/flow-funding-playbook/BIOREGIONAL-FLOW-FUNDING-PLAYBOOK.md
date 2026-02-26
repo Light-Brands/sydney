@@ -12,7 +12,7 @@ This playbook is shared with intention. It is a living document, offered to plac
 
 If you are reading this, it is because you expressed interest, filled out our intake form, or had a conversation with Kinship Earth's Executive Director, Sydney Griffith, or another member of our leadership team. 
 
-Flow funding is built on trust and relationship - and so is how we share this work.  This model is powerful, and we want to ensure it is taken up by those who are aligned with its spirit: trust, community sovereignty, ecological care, and accountability to life.
+Flow Funding is built on trust and relationship - and so is how we share this work.  This model is powerful, and we want to ensure it is taken up by those who are aligned with its spirit: trust, community sovereignty, ecological care, and accountability to life.
 
 Our team is available to you beyond this document. Kinship Earth is here to walk alongside you as you build. 
 
@@ -52,11 +52,11 @@ Kinship Earth is a private foundation (501c3) stewarding **Flow Funding** - a pa
 
 ### Our Origin Story
 
-Kinship Earth was founded in 2021 by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora** with a vision to catalyze planetary regeneration by transforming how philanthropy functions. The roots run deeper: in the early 1990s, **Marion Rockefeller Weber** gave Susan Davis Moora one of the first-ever flow funding grants - a seed that would grow for decades before finding its fullest expression through Kinship Earth.
+Kinship Earth was founded in 2021 by **Stephen Gomes**, **Susan Davis Moora**, and **Walter Moora** with a vision to catalyze planetary regeneration by transforming how philanthropy functions. The roots run deeper: in the early 1990s, **Marion Rockefeller Weber** gave Susan Davis Moora one of the first-ever Flow Funding grants - a seed that would grow for decades before finding its fullest expression through Kinship Earth.
 
 In 2024, **Sydney Griffith** was brought on as Executive Director to lead the organization's pivot to embracing Flow Funding as its focus. Syd brought years of direct experience supporting 50+ land-based projects, deep relationships across her Northeast bioregion (in Turtle Island), and a clear vision for how trust-based capital could be scaled without being co-opted.
 
-Since that pivot, Kinship Earth has deployed **$370,000** in unrestricted flow funding grants to **23 Flow Funders** across **12+ bioregions** globally - including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, East Africa, and beyond.
+Since that pivot, Kinship Earth has deployed **$370,000** in unrestricted Flow Funding grants to **23 Flow Funders** across **12+ bioregions** globally - including in Cascadia, the Northeast of Turtle Island, Colombia, Jamaica, Mexico, Guatemala, East Africa, and beyond.
 
 ### Our Track Record
 
@@ -68,7 +68,7 @@ Since that pivot, Kinship Earth has deployed **$370,000** in unrestricted flow f
 | Flow Funding Cohort 2 launched | February 2025 |
 | Flow Funding Cohort 3 launched | Q1 2026 |
 
-**EXAMPLES OF IMPACT | Real-world outcomes funded through Kinship Eath's Flow Funding:**
+**EXAMPLE OF IMPACT | Real world outcomes from Kinship Earth's first Flow Funding cohort:**
 
 - **Food Sovereignty on Reservations:** A Flow Funder purchased a freeze dryer for a reservation so produce and herbs could be preserved through winter - strengthening nutrition, reducing reliance on processed foods, and building long-term community resilience.
 - **Protecting Sacred Waters in Minnesota:** A Flow Funder helped prevent toxic mining waste from being dumped in a waterway - protecting sacred waters, uplifting treaty rights, preserving ecosystems, and affirming Indigenous sovereignty.
@@ -131,7 +131,7 @@ The term **"Flow Funding"** was originally created by **Marion Rockefeller Weber
 
 ### Flow Funding in Simple Terms
 
-Imagine a river. Traditional philanthropy builds dams - holding resources back, releasing them in controlled trickles, attaching conditions to every drop. Flow funding removes the dams. It trusts the river to find its path. It trusts the communities downstream to know what they need.
+Imagine a river. Traditional philanthropy builds dams - holding resources back, releasing them in controlled trickles, attaching conditions to every drop. Flow Funding removes the dams. It trusts the river to find its path. It trusts the communities downstream to know what they need.
 
 In practice, this means:
 
@@ -468,7 +468,7 @@ Do not rely on a single large donor. Aim for a mix of local individual donors, r
 
 ### Donor Cultivation Pathway
 
-1. **Identify** - Who in your bioregion and network has the resources and values to support flow funding?
+1. **Identify** - Who in your bioregion and network has the resources and values to support Flow Funding?
 2. **Educate** - Share the Flow Funding model, the problems with traditional philanthropy, and your bioregion's story
 3. **Invite** - Bring them into relationship with your community: events, site visits, conversations, Community of Practice gatherings
 4. **Ask** - Make a specific, clear ask aligned with their capacity and interests
@@ -660,14 +660,14 @@ That playbook will:
 - Explain what Flow Funding is and why it works
 - Present the evidence base for trust-based, unrestricted, community-directed grantmaking
 - Address common concerns and questions from institutional funders
-- Provide practical guidance on how to incorporate flow funding into existing philanthropic portfolios
-- Encourage funders to commit a portion of their capital toward flow funding efforts
+- Provide practical guidance on how to incorporate Flow Funding into existing philanthropic portfolios
+- Encourage funders to commit a portion of their capital toward Flow Funding efforts
 - Share case studies and impact data from Kinship Earth and the emerging network of bioregional Flow Funds
 - Outline how foundations can move beyond the 5% minimum distribution and get more capital flowing to communities
 
-We are already educating family offices, foundations, DAFs, and high-net-worth individuals on how to and why they should practice flow funding. Our playbook for funders will formalize and deepen that education work.
+We are already educating family offices, foundations, DAFs, and high-net-worth individuals on how to and why they should practice Flow Funding. Our playbook for funders will formalize and deepen that education work.
 
-If you are a funder reading this, we want to hear from you. Reach out to Kinship Earth to learn how you can begin practicing flow funding.
+If you are a funder reading this, we want to hear from you. Reach out to Kinship Earth to learn how you can begin practicing Flow Funding.
 
 ---
 
@@ -729,7 +729,7 @@ Start where you are. Start with who you trust. Start with what you have. And kno
 
 ---
 
-> *"We're trusting those who know the needs of their communities to do the work and to deploy capital however they see fit. That's what flow funding is."*
+> *"We're trusting those who know the needs of their communities to do the work and to deploy capital however they see fit. That's what Flow Funding is."*
 > - Sydney Griffith
 
 ---
@@ -902,7 +902,7 @@ Date: ___________________
 - Why did you decide to give the funds to this person or group? Please share their experience making an impact in their community and describe the kind of impact you and the recipient hope will be achieved as a result.
 - Have you let the Flow Funding recipient know that you'll be sharing the story of the impact made with the flow funds you gave them (at the end of your 1-year term), so that they know to keep you updated on outcomes / impacts achieved?
 - What did you learn from this experience?
-- If you purchased anything with these funds in support of a flow funding recipient please upload your receipt here:
+- If you purchased anything with these funds in support of a Flow Funding recipient please upload your receipt here:
 - Is there anything else you'd like to share?
 
 **Acknowledgment and Compliance with OFAC**
