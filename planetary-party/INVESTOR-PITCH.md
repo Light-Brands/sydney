@@ -37,7 +37,6 @@ A central function of the PPP is helping communities unlock capital that has his
 | **Philanthropic Grants** | Flow Funding deploys unrestricted, trust-based grants directly to community leaders — no applications required |
 | **Impact Investment** | Commons-aligned investment structures (SPVs) fund tech platforms, dashboards, and learning infrastructure with returns tied to revenue, not extraction |
 | **Earned Revenue** | Festivals, media licensing, service fees, and marketplace activity generate self-sustaining income streams |
-| **Natural Capital** | Bioregional Intelligence Dashboard tracks ecological value, enabling access to biocultural, water, and carbon credits |
 | **Social & Cultural Capital** | Guild participation, storytelling infrastructure, and relational networks build trust and collective capacity |
 | **Community Currencies** | Bioregional utility and governance tokens enable local exchange and participatory decision-making |
 
