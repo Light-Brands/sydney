@@ -177,8 +177,9 @@ def make_styles():
         textColor=C_TEXT_LIGHT, alignment=TA_CENTER, spaceAfter=4,
     )
     s["toc_entry"] = ParagraphStyle(
-        "TOCEntry", fontName="LibSerif", fontSize=11, leading=20,
+        "TOCEntry", fontName="LibSerif", fontSize=10, leading=16,
         textColor=C_TEXT, leftIndent=10, alignment=TA_LEFT,
+        spaceAfter=2,
     )
     s["toc_title"] = ParagraphStyle(
         "TOCTitle", fontName="LibSans-Bold", fontSize=20, leading=26,
@@ -189,6 +190,11 @@ def make_styles():
         textColor=C_TEXT_LIGHT, alignment=TA_LEFT,
         leftIndent=10, rightIndent=10,
         spaceBefore=4, spaceAfter=4,
+    )
+    s["section_subtitle"] = ParagraphStyle(
+        "SectionSubtitle", fontName="LibSerif-Italic", fontSize=12, leading=17,
+        textColor=C_TEXT_LIGHT, alignment=TA_LEFT,
+        spaceBefore=0, spaceAfter=8,
     )
 
     return s
@@ -1820,14 +1826,33 @@ def parse_markdown(filepath):
                 f'&nbsp;&nbsp;{sec_title}'
             )
             flowables.append(Paragraph(heading_text, STYLES["h2"]))
-            flowables.append(Spacer(1, 6))
+            flowables.append(Spacer(1, 4))
+
+            # Check for an italic subtitle line immediately after the heading
+            # (blank line then *subtitle text*)
+            peek = i + 1
+            if peek < len(lines) and lines[peek].strip() == "":
+                peek += 1
+            if peek < len(lines):
+                sub_stripped = lines[peek].strip()
+                sub_match = re.match(r'^\*([^*]+)\*$', sub_stripped)
+                if sub_match:
+                    subtitle_text = sub_match.group(1)
+                    flowables.append(Paragraph(subtitle_text, STYLES["section_subtitle"]))
+                    flowables.append(Spacer(1, 6))
+                    i = peek + 1
+                else:
+                    flowables.append(Spacer(1, 2))
+                    i += 1
+            else:
+                flowables.append(Spacer(1, 2))
+                i += 1
 
             # --- Section illustration (organic, nature-themed) ---
             if sec_num in SectionIllustration._DRAW_MAP:
                 flowables.append(SectionIllustration(sec_num))
                 flowables.append(Spacer(1, 10))
 
-            i += 1
             continue
 
         # Generic ## heading (no number)
