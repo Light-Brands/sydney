@@ -20,29 +20,31 @@ Our team is available to you beyond this document. Kinship Earth is here to walk
 
 ## Table of Contents
 
-1. [About Kinship Earth](#1-about-kinship-earth)
-2. [What Is Bioregionalism?](#2-what-is-bioregionalism)
-3. [Why Bioregional Organizing Groups Matter](#3-why-bioregional-organizing-groups-matter)
-4. [What Is Flow Funding?](#4-what-is-flow-funding)
-5. [The Systemic Problems with Traditional Philanthropy](#5-the-systemic-problems-with-traditional-philanthropy)
-6. [How Flow Funding Addresses These Problems](#6-how-flow-funding-addresses-these-problems)
-7. [How Flow Funding Works: The Four-Step Cycle](#7-how-flow-funding-works-the-four-step-cycle)
-8. [Creating Your Own Bioregional Flow Fund](#8-creating-your-own-bioregional-flow-fund)
-9. [Legal Considerations and Entity Structure](#9-legal-considerations-and-entity-structure)
-10. [Governance and Decision-Making](#10-governance-and-decision-making)
-11. [Attracting Capital: Local Wealth and Beyond](#11-attracting-capital-local-wealth-and-beyond)
-12. [Storytelling as Fundraising](#12-storytelling-as-fundraising)
-13. [A Bioregional Activation Series](#13-a-bioregional-activation-series)
-14. [Tools and Templates](#14-tools-and-templates)
-15. [How Kinship Earth Can Support You](#15-how-kinship-earth-can-support-you)
-16. [What Is Coming Next: A Playbook for Funders](#16-what-is-coming-next-a-playbook-for-funders)
-17. [Frequently Asked Questions](#17-frequently-asked-questions)
-18. [Closing: An Invitation](#18-closing-an-invitation)
-19. [Appendix: Resource Library](#19-appendix-resource-library)
+1. [Seed Lineage - About Kinship Earth and the Roots of Flow Funding](#1-seed-lineage)
+2. [Listening to the Watershed - Understanding Bioregionalism and Place-Based Organizing](#2-listening-to-the-watershed)
+3. [The Keystone Species - Why Bioregional Organizing Groups Hold the Ecosystem Together](#3-the-keystone-species)
+4. [Where the River Runs Free - What Flow Funding Is and How It Moves Resources](#4-where-the-river-runs-free)
+5. [Dams in the River - The Systemic Challenges Within Traditional Philanthropy](#5-dams-in-the-river)
+6. [Restoring the Flow - Moving Philanthropic Capital Through Trust and Relationship](#6-restoring-the-flow)
+7. [The Seasons of Regeneration - The Four-Step Cycle of Flow Funding in Practice](#7-the-seasons-of-regeneration)
+8. [Planting the Seed Bank - Creating Your Own Bioregional Flow Fund](#8-planting-the-seed-bank)
+9. [The Living Container - Legal Structures and Entity Pathways for Flow Funds](#9-the-living-container)
+10. [Circles of Stewardship - Governance, Roles, and Decision-Making in a Living System](#10-circles-of-stewardship)
+11. [Nutrient Cycles - Attracting Capital and Cultivating Resource Flow](#11-nutrient-cycles)
+12. [The Wind That Carries Seeds - Storytelling as a Pathway to Funding and Movement Building](#12-the-wind-that-carries-seeds)
+13. [Germination Fields - The Bioregional Activation Series and Preparing the Ground](#13-germination-fields)
+14. [The Forest Toolkit - Tools, Templates, and Practical Resources for Implementation](#14-the-forest-toolkit)
+15. [The Mother Tree - How Kinship Earth Supports and Nourishes Emerging Flow Funds](#15-the-mother-tree)
+16. [New Shoots Emerging - What's Next: A Playbook for Funders and Future Growth](#16-new-shoots-emerging)
+17. [Field Notes from the Ecosystem - Frequently Asked Questions and Practical Insights](#17-field-notes-from-the-ecosystem)
+18. [The Threshold of the Forest - A Closing Invitation to Participate in Flow Funding](#18-the-threshold-of-the-forest)
+19. [Roots & Resources - Appendix, Templates, and Supporting Materials](#19-roots-and-resources)
 
 ---
 
-## 1. About Kinship Earth
+## 1. Seed Lineage - About Kinship Earth and the Roots of Flow Funding
+
+*Grounding readers in who you are, lineage, purpose, and organizational foundation*
 
 ### Who We Are
 
@@ -88,7 +90,9 @@ When you fund bioregional organizing groups, you are not funding a single issue.
 
 ---
 
-## 2. What Is Bioregionalism?
+## 2. Listening to the Watershed - Understanding Bioregionalism and Place-Based Organizing
+
+*Exploring how ecosystems, culture, and geography shape bioregional collaboration*
 
 **Bioregionalism** is a philosophy and practice of organizing communities around the natural boundaries of the living systems they inhabit - watersheds, mountain ranges, forests, coastlines, soil types, and cultural landscapes - rather than around political borders, state lines, or national boundaries.
 
@@ -109,7 +113,9 @@ Bioregionalism is not a replacement for governments but a living complement to t
 
 ---
 
-## 3. Why Bioregional Organizing Groups Matter
+## 3. The Keystone Species - Why Bioregional Organizing Groups Hold the Ecosystem Together
+
+*Explaining the role and importance of organizing hubs and relational leadership*
 
 A **bioregional organizing group** is a group of leaders working together across sectors and disciplines within their bioregion - addressing food sovereignty, ecological restoration, housing, economic justice, disaster preparedness, cultural preservation, health, Indigenous rights, and more. They are not single-issue organizations. They are the relational fabric that holds a community together.
 
@@ -123,7 +129,9 @@ A **bioregional organizing group** is a group of leaders working together across
 
 ---
 
-## 4. What Is Flow Funding?
+## 4. Where the River Runs Free - What Flow Funding Is and How It Moves Resources
+
+*Introducing the philosophy and mechanics of Flow Funding*
 
 The term **"Flow Funding"** was originally created by **Marion Rockefeller Weber**, a pioneer in trust-based philanthropy and a visionary who understood that money, like water, needs to flow to where it is needed - not be dammed up in endowments and bureaucratic structures. 
 
@@ -142,7 +150,9 @@ In practice, this means:
 
 ---
 
-## 5. The Systemic Problems with Traditional Philanthropy
+## 5. Dams in the River - The Systemic Challenges Within Traditional Philanthropy
+
+*Naming barriers, inefficiencies, and structural issues in current funding models*
 
 Before we go further into how to build your own Flow Fund, it is important to name clearly what is broken about the current system - because Flow Funding is not an alternative to philanthropy. It is philanthropy redesigned for the moment we are in.
 
@@ -174,7 +184,9 @@ The traditional philanthropic model positions the donor as the decision-maker an
 
 ---
 
-## 6. How Flow Funding Addresses These Problems
+## 6. Restoring the Flow - Moving Philanthropic Capital Through Trust and Relationship
+
+*Showing how trust-based funding addresses systemic problems*
 
 | Systemic Problem | How Flow Funding Responds |
 |---|---|
@@ -191,7 +203,9 @@ Flow Funding is not a workaround. It is a redesign. It replaces the architecture
 
 ---
 
-## 7. How Flow Funding Works at Kinship Earth: The Four-Step Cycle
+## 7. The Seasons of Regeneration - The Four-Step Cycle of Flow Funding in Practice
+
+*Walking through the cyclical process of identification, deployment, storytelling, and renewal*
 
 Flow Funding operates as a repeatable, durable cycle - not a one-off intervention:
 
@@ -233,7 +247,9 @@ Flow Funders recommend the next cohort of trusted community leaders, creating a 
 
 ---
 
-## 8. Creating Your Own Bioregional Flow Fund
+## 8. Planting the Seed Bank - Creating Your Own Bioregional Flow Fund
+
+*Practical guidance for launching a community-rooted funding ecosystem*
 
 This is the heart of the playbook. Kinship Earth's long-term vision is not only to continue practice Flow Funding and bioegional-focused Flow Funding, it is to help bioregional communities create their own unique, place-based Flow Funds that attract local wealth and beyond (unrestricted capital) and flow it in service of their communities.
 
@@ -387,7 +403,9 @@ Flow Funding is a living system. It is designed to evolve.
 
 ---
 
-## 9. Legal Considerations and Entity Structure
+## 9. The Living Container - Legal Structures and Entity Pathways for Flow Funds
+
+*Explaining governance containers, fiscal sponsorship, and legal considerations*
 
 Establishing a bioregional Flow Fund involves legal and financial structures that must be set up correctly. Here is what you need to know.
 
@@ -420,7 +438,9 @@ Kinship Earth can help your community navigate these decisions by:
 
 ---
 
-## 10. Governance and Decision-Making
+## 10. Circles of Stewardship - Governance, Roles, and Decision-Making in a Living System
+
+*How leadership, accountability, and relational governance operate*
 
 How your Flow Fund makes decisions is as important as how it moves money. Flow Funding is built on trust - and trust requires clear, fair, transparent governance.
 
@@ -445,7 +465,9 @@ Flow Funding is not "no accountability." It is a different kind of accountabilit
 
 ---
 
-## 11. Attracting Capital: Local Wealth and Beyond
+## 11. Nutrient Cycles - Attracting Capital and Cultivating Resource Flow
+
+*How funding moves like nutrients through ecosystems and communities*
 
 Your bioregional Flow Fund exists to attract unrestricted capital, from within your bioregion and beyond, and to flow it in service of your communities. Here is how to think about fundraising.
 
@@ -477,7 +499,9 @@ Do not rely on a single large donor. Aim for a mix of local individual donors, r
 
 ---
 
-## 12. Storytelling as Fundraising
+## 12. The Wind That Carries Seeds - Storytelling as a Pathway to Funding and Movement Building
+
+*Using narrative and impact stories to attract aligned support*
 
 **Telling your story is one of the most important things your bioregional community can do, not just for fundraising, but for the bioregional movement itself.**
 
@@ -523,7 +547,9 @@ Kinship Earth may be able to offer direct storytelling support to your community
 
 ---
 
-## 13. A Bioregional Activation Series
+## 13. Germination Fields - The Bioregional Activation Series and Preparing the Ground
+
+*Facilitated processes that help communities build trust and readiness*
 
 Kinship Earth is co-creating, with its partners, a **Bioregional Activation Series**, a program designed to help bioregional communities prepare to create their own Flow Funds.
 
@@ -558,7 +584,9 @@ If your bioregion already has gatherings, congresses, convenings, or events that
 
 ---
 
-## 14. Tools and Templates
+## 14. The Forest Toolkit - Tools, Templates, and Practical Resources for Implementation
+
+*Operational guides, agreements, and frameworks for real-world use*
 
 Kinship Earth provides bioregional communities receiving this playbook with a set of practical tools and templates to support the creation of their own unique Flow Funds. The full text of each resource is included in the Appendix (Section 19) at the end of this playbook for easy reference.
 
@@ -610,7 +638,9 @@ All tools and templates listed above are included in full in the Appendix (Secti
 
 ---
 
-## 15. How Kinship Earth Can Support You
+## 15. The Mother Tree - How Kinship Earth Supports and Nourishes Emerging Flow Funds
+
+*Describing your role as backbone infrastructure and support system*
 
 Kinship Earth exists not just to deploy its own capital but to help bioregional communities build their own financial infrastructure. Here is what we can offer:
 
@@ -649,7 +679,9 @@ Kinship Earth is connected to a growing network of aligned funders, bioregional 
 
 ---
 
-## 16. What Is Coming Next: A Playbook for Funders
+## 16. New Shoots Emerging - What's Next: A Playbook for Funders and Future Growth
+
+*Looking ahead to expansion, partnerships, and evolving infrastructure*
 
 This playbook is designed for bioregional communities and organizing groups - the people creating and stewarding Flow Funds on the ground.
 
@@ -671,7 +703,9 @@ If you are a funder reading this, we want to hear from you. Reach out to Kinship
 
 ---
 
-## 17. Frequently Asked Questions
+## 17. Field Notes from the Ecosystem - Frequently Asked Questions and Practical Insights
+
+*Answering common questions while grounding readers in lived experience*
 
 **Q: Does our community need to be formally organized to create a Flow Fund?**
 A: No. You need trusted relationships and a shared commitment to your bioregion. The formal structure (entity type, governance, etc.) can be built as you go. Many Flow Funds start with fiscal sponsorship and formalize later.
@@ -705,7 +739,9 @@ A: Flow Funding is designed to honor and center Indigenous governance. Your Flow
 
 ---
 
-## 18. Closing: An Invitation
+## 18. The Threshold of the Forest - A Closing Invitation to Participate in Flow Funding
+
+*A relational call into action and vision-forward conclusion*
 
 This playbook is an invitation - to reimagine how resources move in your bioregion, to trust the people closest to the work, and to build financial infrastructure that serves life.
 
@@ -740,7 +776,9 @@ Start where you are. Start with who you trust. Start with what you have. And kno
 
 ---
 
-## 19. Appendix: Resource Library
+## 19. Roots & Resources - Appendix, Templates, and Supporting Materials
+
+*Reference materials, agreements, and deeper tools*
 
 The following resources are referenced throughout this playbook, particularly in Section 14 (Tools and Templates). Each item is numbered for easy cross-reference.
 
