@@ -130,5 +130,5 @@ The Planetary Party is that infrastructure. We are not asking investors to bet o
 
 ---
 
-**Contact:** planetaryparty.com 
+**Contact:** planetaryparty.com | info@planetaryparty.com
 **Core Stewards:** Juan Carlos Kaiten | Syd Harvey Griffith | Josie Watson | Susanna Choe | Sheri Herndon | Nadim Hamdan | Jenny Heinze | Eslerh Oreste
