@@ -1239,9 +1239,9 @@ Even without a nonprofit intermediary, the principles of Flow Funding still appl
 
 | Action | Tax Reporting? | Notes |
 |--------|---------------|-------|
-| Gift of $19,000 or less (per person/year in 2025) | No | No filing needed by donor or recipient |
-| Gift over $19,000 (per person/year in 2025) | Yes (Form 709) by donor | Applies to donor only; no income reporting by recipient |
-| Recipient of gift (in 2025) | No | Not considered taxable income |
+| Gift of $19,000 or less (per person/year in 2026) | No | No filing needed by donor or recipient |
+| Gift over $19,000 (per person/year in 2026) | Yes (Form 709) by donor | Applies to donor only; no income reporting by recipient |
+| Recipient of gift (in 2026) | No | Not considered taxable income |
 
 ---
 
