@@ -2,7 +2,7 @@
 
 > *A Bioregional Coordination Ecosystem -- Global*
 
-**Purpose:** The Planetary Party exists to support bioregional communities and cultivate a bioregional learning network -- through celebration, shared protocol, and federated coordination infrastructure -- that enables regenerative builders, organizers, funders, and cultural workers worldwide to align, resource one another, and produce lasting positive-trace outcomes without centralization or loss of local sovereignty.
+**Purpose:** The Planetary Party exists to enable regenerative builders, organizers, funders, and cultural workers to align, resource one another, and produce lasting positive-trace outcomes -- through celebration, shared protocol, and federated coordination that strengthens bioregional communities and weaves them into a living learning network, without centralization or loss of local sovereignty.
 
 **Website:** [planetaryparty.com](https://www.planetaryparty.com/)
 **Entity:** Cultural coordination protocol (fiscal sponsorship through Kinship Earth)
