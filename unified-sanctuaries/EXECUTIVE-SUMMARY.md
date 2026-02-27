@@ -261,7 +261,6 @@ flowchart TD
     EP["ECO PHI<br/>Regenerative Architecture"] -.-|"Architecture<br/>& design"| US
     LB["LIGHT BRANDS<br/>Tech Development"] -.-|"Tech<br/>development"| US
     HB["HERBARIA<br/>Herbalism, Retreats<br/>& Gourmet Catering"] -.-|"Retreats &<br/>catering"| US
-    PT2["PINKY TOE CHAI<br/>Tea Blend Producer"] -.-|"Tea<br/>products"| US
     RC["REGEN CIVICS<br/>Network of Aligned<br/>Ecovillages"] -.-|"Ecovillage<br/>network"| US
     SD["SEEDS<br/>Global Ecosystem<br/>of Regenerators"] -.-|"Systems change &<br/>community currencies"| US
 
