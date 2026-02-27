@@ -59,10 +59,10 @@ This is not a group of strangers with a business plan. This is a team that has b
 | **Fuego Gale** | Accounting, financial operations, festival production, membership sales. The operational backbone -- experienced in managing money, events, and compliance for mission-driven organizations. |
 | **Josie Watson** | Earth lawyer, governance designer, playwright. Founder of Mycelial Law. Designs the legal and governance structures (trusts, land stewardship agreements, consent-based decision-making) that protect the land and the community long-term. |
 | **Eslerh Oreste** | Film, multimedia, ritual theater, healing arts. Drives storytelling, media production, and cultural programming -- the content engine that builds visibility and attracts aligned community members. |
-| **Pato** | Permaculture installations, global hub partnerships, nonprofit management. Experienced in international regenerative networks and organizational scaling. |
-| **Nina** | Storytelling, herbal goods, farm operations, fundraising. Bridges agricultural production with narrative and revenue generation. |
-| **Tiff** | Somatic therapy, art therapy, retreat facilitation. Anchors the healing arts and retreat programming with professional clinical and facilitation experience. |
-| **Jess** | Bathhouse operations, consent workshops, civil engineering, ecstatic dance. Brings both the technical infrastructure knowledge and the embodied wellness experience to the retreat pillar. |
+| **Pato Collins** | Permaculture installations, global hub partnerships, nonprofit management. Experienced in international regenerative networks and organizational scaling. |
+| **Nina Landau** | Storytelling, herbal goods, farm operations, fundraising. Bridges agricultural production with narrative and revenue generation. |
+| **Tiff Von Walter** | Somatic therapy, art therapy, retreat facilitation. Anchors the healing arts and retreat programming with professional clinical and facilitation experience. |
+| **Jess Mortell** | Bathhouse operations, consent workshops, civil engineering, ecstatic dance. Brings both the technical infrastructure knowledge and the embodied wellness experience to the retreat pillar. |
 
 ### Ecosystem Backing
 
@@ -70,7 +70,6 @@ Unified Sanctuaries does not operate in isolation. It sits within a constellatio
 
 - **Kinship Earth** (501c3) -- Global regenerative finance nonprofit. $800K+ raised, $370K+ deployed across 12+ bioregions. Provides fiscal infrastructure, donor networks, and philanthropic credibility.
 - **Permatours** (501c3) -- Northeast permaculture action network. 50+ events, 40+ project sites, 1,000+ active members. Provides a ready-made pipeline of skilled volunteers, educators, and community members.
-- **Planetary Party** -- Global coordination protocol active across 5+ bioregions (Colombia, Jamaica, Mexico, Guatemala, NE Turtle Island). Provides cultural programming, governance frameworks, and international visibility.
 - **Partner Network** -- Diggers Cooperative (compost), Birds Nest Builders (natural building co-op), Eco Phi (regenerative architecture), Mycelial Law (earth law), Micelio Media (film), Herbaria (herbalism & catering), and dozens more aligned producers and practitioners.
 
 ---
@@ -148,7 +147,6 @@ This is an invitation for someone who:
 ---
 
 *Contact: Syd Harvey Griffith | sydney.griffith123@gmail.com*
-*Kinship Earth: kinshipearth.org | Permatours: permatours.org | Planetary Party: planetaryparty.com*
 
 ---
 
