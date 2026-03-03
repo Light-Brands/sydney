@@ -153,7 +153,7 @@ flowchart TD
 | Q1 2026 | $70K deployed to bioregional organizing groups around the world, including in Jamaica, Colombia, Mexico, and the Northeast of Turtle Island |
 
 **Total raised:** $800,000+ since adopting Flow Funding in 2024
-**Total deployed:** $370,000+ to 23 Flow Funders across 12+ bioregions globally
+**Total deployed:** $360,000+ to 23 Flow Funders across 12+ bioregions globally
 
 ### Real-World Examples
 
