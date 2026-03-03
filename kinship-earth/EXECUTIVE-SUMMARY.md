@@ -318,7 +318,7 @@ flowchart LR
 
 ## Summary
 
-Kinship Earth represents a fundamental redesign of how philanthropic capital reaches the communities and ecosystems that need it most. With $800,000 raised since August 2024 and $370,000 deployed thus far across 23 Flow Funders in 12+ bioregions, the model has demonstrated real traction. Beyond deploying capital, Kinship Earth is actively educating philanthropists and foundations in trust-based, participatory approaches to giving, while supporting bioregional communities to design and launch their own Flow Funds. This trust-based accountability structure and bioregional resourcing focus position Kinship Earth to scale from a proven model into a global learning and deployment infrastructure for regenerative capital - targeting $200M raised and deployed over the next decade.
+Kinship Earth represents a fundamental redesign of how philanthropic capital reaches the communities and ecosystems that need it most. With $800,000 raised since August 2024 and $360,000 deployed thus far across 23 Flow Funders in 12+ bioregions, the model has demonstrated real traction. Beyond deploying capital, Kinship Earth is actively educating philanthropists and foundations in trust-based, participatory approaches to giving, while supporting bioregional communities to design and launch their own Flow Funds. This trust-based accountability structure and bioregional resourcing focus position Kinship Earth to scale from a proven model into a global learning and deployment infrastructure for regenerative capital - targeting $200M raised and deployed over the next decade.
 
 ---
 
