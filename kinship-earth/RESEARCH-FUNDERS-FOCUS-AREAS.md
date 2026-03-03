@@ -74,20 +74,7 @@
 - **Application:** Open, rolling — applications accepted year-round with no deadline
 - **Eligibility:** US-based nonprofits and fiscally sponsored organizations
 
----
 
-### 5. Ben & Jerry's Foundation — National Grassroots Organizing Program
-
-- **Website:** <https://benandjerrysfoundation.org/national-grants/>
-- **Focus areas matched:** Community-directed unrestricted grantmaking; participatory trust-based grantmaking
-- **Details:**
-  - Unrestricted general operating support for small, constituent-led grassroots organizations
-  - Furthers racial equity, social justice, and environmental justice
-  - Requires grassroots collective-action organizing as primary strategy
-- **Grant size:** Up to $30,000 (average $20,000)
-- **Eligibility:** Budget under $350K; 501(c)(3) or fiscally sponsored
-- **Application:** Annual cycle (2026 deadline was Feb 25 — watch for 2027 cycle)
-- **Contact:** info@benandjerrysfoundation.org / 802-495-1378
 
 ---
 
@@ -104,56 +91,10 @@
   - **Next deadline: August 1, 2026**
 - **Eligibility:** US-based 501(c)(3) or fiscally sponsored organizations
 
----
 
-### 7. Lush Charity Pot Grants
 
-- **Website:** <https://www.lush.com/us/en_us/a/charity-pot-funding-guidelines-faq-na>
-- **Focus areas matched:** Community-directed grantmaking; grassroots ecological work
-- **Details:**
-  - 100% of Charity Pot product sales fund grants in environment, animal protection, and human rights
-  - Prioritizes small grassroots groups (budgets under ~$350K, volunteer-driven)
-  - Supports groups that push boundaries, challenge mainstream opinion, and take on issues others don't
-- **Grant size:** $100–$10,000 (average $2,000–$4,000)
-- **Application:** Rolling / ongoing — apply anytime (allow 3 months lead time)
-- **Contact:** charitypot@lush.co.uk
-- **Note:** Does not fund salary costs; targeted to underfunded voluntary groups
 
----
 
-### 8. New England Grassroots Environment Fund
-
-- **Website:** <https://grassrootsfund.org/>
-- **Focus areas matched:** Participatory grantmaking; community-directed; decentering funder power
-- **Details:**
-  - Participatory grantmaking with Guiding Practices:
-    - Rooted Innovation
-    - Shifting Power in Decision-making
-    - Equity in Participation
-    - Centering a Just Transition
-  - Funds community-based environmental work across CT, ME, MA, NH, RI, VT
-  - Does not require formal tax-exempt status
-  - Prioritizes volunteer-driven groups (budget under $100K, max 2 FTE staff)
-- **Grant programs:**
-  - Grow Grants: up to $4,000
-  - Seed Grants: for newly evolving projects
-  - Shared Gifting Circle cohorts
-- **Application:** Open; check website for current cycle dates
-- **Geography:** Six New England states only
-
----
-
-### 9. Claneil Foundation — Community Fund
-
-- **Website:** <https://claneil.org/what-we-fund/community-fund/>
-- **Focus areas matched:** Community-directed unrestricted grantmaking; place-based
-- **Details:**
-  - Three-year general operating grants ($30,000/year = $90,000 total)
-  - Prioritizes organizations with deep community roots, annual budgets under $1M
-  - Rotating focus areas: Hunger/Nutrition/Food System, Environment, Education, Health/Human Services
-- **Geography:** Bucks, Chester, Delaware, Montgomery, and Philadelphia counties (PA)
-- **Application:** LOI submissions accepted November 1–December 1 annually; invited applicants submit proposals by March 1; decisions by June 30
-- **Contact:** Andrea Bretting, Senior Program Officer — abretting@claneil.org / 610-941-1140
 
 ---
 
@@ -239,18 +180,7 @@
   - 2026 discretionary funding focused on housing stability and policy/advocacy
 - **Application:** New applications accepted through Sept 30, 2026 (recommended by July 1, 2026)
 
----
 
-### 16. Portland Clean Energy Community Benefits Fund (PCEF)
-
-- **Website:** <https://www.portland.gov/bps/cleanenergy/community-grants>
-- **Focus areas matched:** Community-directed; place-based; ecological restoration + community resilience
-- **Details:**
-  - Community-led climate solutions — GHG reduction, economic opportunity, climate resilience
-  - Rooted in guiding principles of justice, accountability, and community power
-  - Funds both planning and implementation projects
-- **Geography:** Portland, OR area
-- **Application:** Check website for current grant rounds
 
 ---
 
