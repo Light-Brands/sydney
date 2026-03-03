@@ -15,7 +15,7 @@ Kinship Earth is a private foundation practicing **Flow Funding** -- a trust-bas
 | Metric | Result |
 |--------|--------|
 | **Total Raised** | $800,000+ since 2024 |
-| **Total Deployed** | $370,000+ in flow funding grants |
+| **Total Deployed** | $360,000+ in flow funding grants |
 | **Flow Funders Resourced** | 23 trusted community leaders and organizations |
 | **Bioregions Reached** | 12+ across Turtle Island, the Caribbean, Latin America, and Africa |
 | **Cohorts Launched** | 3 (October 2024, February 2025, January 2026) |
