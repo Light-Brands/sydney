@@ -50,6 +50,8 @@
 - 23 Flow Funders resourced across 12+ bioregions
 - 3 cohorts launched (Oct 2024, Feb 2025, Jan 2026)
 - $300K from Novo Foundation (2 grants of $150K) - institutional validation
+- $7,500 granted to the Turtle Island Congress to support bioregional movement building across Turtle Island
+- $7,500 granted to the NE Bioregional Activation Series to support bioregional movement building in the Northeast
 - All flow funding capital deployed or committed
 
 **Cohort highlights:**
@@ -57,10 +59,15 @@
 - **Cohort 2** (Feb 2025): Greater Tkaronto Bioregion - deepened bioregional focus
 - **Cohort 3** (Jan 2026): $70K+ deployed to Colombia, Jamaica, Mexico Cloud Forest, NE Turtle Island, Turtle Island Congress - most geographically expansive cohort; shift toward supporting place-based organizing groups preparing to steward their own Flow Funds
 
-**1-2 impact stories to tell briefly (pick your favorites):**
-- WaterLegacy: $10K grant led to emergency legal victory protecting Lake Superior
-- Farming Falmouth: $1K in seeds became $40K+ of food, 5,000 lbs donated
-- Regenerate Cascadia: $18K grant seeded 8 landscape hubs across the bioregion
+**Impact stories to share (pick your favorites or tell them all):**
+- **WaterLegacy:** A $10K flow funding grant helped WaterLegacy mount an emergency legal challenge that resulted in a landmark victory protecting Lake Superior from sulfide-ore copper mining. This case set a precedent for freshwater protection and demonstrated how small, timely grants can have outsized systemic impact.
+- **Farming Falmouth:** What started as a $1K grant for seeds turned into over $40K worth of food grown, with 5,000+ lbs donated to the local community. Farming Falmouth became a hub for food sovereignty education, community gathering, and land stewardship - a living example of how trust-based funding unlocks exponential returns.
+- **Regenerate Cascadia:** An $18K grant seeded 8 landscape hubs across the Cascadia bioregion, creating a decentralized network for ecological restoration and community organizing. Cascadia is now an example of a bioregion we've granted to that is actively building their own bioregional flow fund - a model for what we hope to see replicate across bioregions.
+- **Colombia (Cohort 3):** Flow funds deployed to support place-based organizing in Colombia, strengthening Indigenous and campesino-led land stewardship and bioregional governance.
+- **Jamaica (Cohort 3):** Funding directed toward community-rooted regenerative efforts in Jamaica, supporting local leaders working on food systems, ecological restoration, and cultural resilience.
+- **Mexico Cloud Forest (Cohort 3):** Resources sent to protect and regenerate one of the most biodiverse and threatened ecosystems in the world, supporting the communities who steward it.
+- **NE Turtle Island (Cohort 3):** Seeding bioregional organizing in the Northeast through relationships, governance education, and preparation for a NE Bioregional Flow Fund.
+- **Turtle Island Congress (Cohort 3):** Supporting a continental-scale bioregional convening that strengthens the movement for place-based governance and inter-bioregional cooperation.
 
 *Share screen: Impact to Date doc or key slide*
 
@@ -73,7 +80,7 @@
 2. Field builder (helping bioregional communities develop their own Flow Funds and regenerative economic ecosystems)
 
 **Key developments to highlight:**
-- **Guatemala immersion** - deepened our understanding of what bioregional communities need to launch their own Flow Funds; reference the end of year newsletter
+- **Guatemala immersion** - deepened our understanding of what bioregional communities need to launch their own Flow Funds; reference the end of year newsletter. We're now exploring helping an indigenous community in Guatemala launch their own flow fund as a direct outgrowth of this immersion.
 - **Bioregional Flow Funding Playbook** - being published end of Q1 2026; a free, modular resource for communities to launch their own Flow Funds. Share TOC preview. Mention it's a living document open to contribution.
 - **NE Bioregional Activation Series** - launching end of March, co-created with Susanna Choe; goals include launching a NE Bioregional Flow Fund, relationship mapping, governance education, preparing for a NE bioregional festival via the Planetary Party Protocol. Kinship Earth contributing $7,500 in seed funding + raising matching funds.
 - **Planetary Party Protocol (PPP)** - engagement pathway helping bioregions prepare to receive resources, coordinate collective intelligence, and strengthen relational governance. Kinship Earth is fiscal sponsor and founding partner.
@@ -86,7 +93,7 @@
 ### 5. What's Next - Priorities & Needs (10 min) | 5:45 - 5:55 PM
 
 **Development phases:**
-- **Phase 1 (current):** Capital & Cohort Continuity - deploying flow funds, educating philanthropists
+- **Phase 1 (current - actively fundraising):** Capital & Cohort Continuity - deploying flow funds, educating philanthropists. We are actively applying for grants, connecting with donors, and raising capital right now. We're also refining our language and messaging so it lands with institutional funders. We're exploring building infrastructure that supports reporting requirements and opens us up to a broader range of funders - and this infrastructure could also serve the bioregional communities we work with who want to create their own flow funds. Recently applied for a grant through C3 for funds to support our bioregional flow funding playbooks.
 - **Phase 2 (2026):** Education & Field Building - Playbook publication, renewing Cohort 1 & 2 grants, refining CoP for Cohort 3
 - **Phase 3 (Q4 2026+):** Bioregional Scaling - supporting autonomous Flow Funds worldwide, serving as backbone infrastructure (legal, educational, relational)
 
@@ -101,6 +108,7 @@
 - Strategic partnerships: joint fundraising, matching funds, resourcing bioregional communities
 - Team growth: seeking a Program Lead, bioregional liaisons, tech collaborators
 - Introductions to aligned funders, family offices, DAFs, and foundations
+- **We have a list of target grantors and foundations that require introductions** - share the list and ask: *"Do any of you have connections to these organizations? If so, would you be willing to make an introduction on our behalf?"*
 
 **Be transparent about the ask:** "We need your help with introductions, ideas for fundraising partnerships, and your deeper involvement as we grow."
 
