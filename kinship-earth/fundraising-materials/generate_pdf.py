@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-"""Generate the Executive Summary PDF from markdown with proper table pagination."""
+"""Generate the Executive Summary PDF from markdown with rendered mermaid diagrams."""
 
+import base64
+import re
 import markdown
+import requests
 from weasyprint import HTML
 
 MD_FILE = "EXECUTIVE-SUMMARY.md"
@@ -11,19 +14,35 @@ PDF_FILE = "Kinship-Earth-Executive-Summary.pdf"
 with open(MD_FILE, "r") as f:
     md_content = f.read()
 
-# Strip mermaid code blocks (they won't render in HTML)
-import re
+
+def render_mermaid_to_img_tag(match):
+    """Convert a mermaid code block to an inline base64 PNG image tag."""
+    mermaid_code = match.group(1).strip()
+    # Encode the mermaid code for the mermaid.ink API
+    encoded = base64.urlsafe_b64encode(mermaid_code.encode("utf-8")).decode("utf-8")
+    url = f"https://mermaid.ink/img/{encoded}?bgColor=white"
+    try:
+        resp = requests.get(url, timeout=30)
+        resp.raise_for_status()
+        img_b64 = base64.b64encode(resp.content).decode("utf-8")
+        return f'<div class="diagram"><img src="data:image/png;base64,{img_b64}" /></div>'
+    except Exception as e:
+        print(f"Warning: Failed to render mermaid diagram: {e}")
+        return "<p><em>[Diagram could not be rendered]</em></p>"
+
+
+# Replace mermaid code blocks with rendered images
 md_content = re.sub(
-    r'```mermaid\n.*?```',
-    '<p><em>[Diagram -- see online version]</em></p>',
+    r"```mermaid\n(.*?)```",
+    render_mermaid_to_img_tag,
     md_content,
-    flags=re.DOTALL
+    flags=re.DOTALL,
 )
 
 # Convert markdown to HTML
-html_body = markdown.markdown(md_content, extensions=['tables'])
+html_body = markdown.markdown(md_content, extensions=["tables"])
 
-# Wrap in full HTML with CSS for proper table pagination
+# Wrap in full HTML with CSS
 html_doc = f"""<!DOCTYPE html>
 <html>
 <head>
@@ -67,7 +86,6 @@ p {{
     margin: 6pt 0;
 }}
 
-/* KEY: Prevent tables from splitting across pages */
 table {{
     page-break-inside: avoid;
     border-collapse: collapse;
@@ -134,14 +152,23 @@ a {{
     text-decoration: none;
 }}
 
-/* Prevent headings from being orphaned at bottom of page */
 h2, h3 {{
     page-break-after: avoid;
 }}
 
-/* Keep section content together with its heading */
 h2 + *, h3 + * {{
     page-break-before: avoid;
+}}
+
+.diagram {{
+    text-align: center;
+    margin: 12pt 0;
+    page-break-inside: avoid;
+}}
+
+.diagram img {{
+    max-width: 100%;
+    height: auto;
 }}
 </style>
 </head>
