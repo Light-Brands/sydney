@@ -13,7 +13,6 @@
 - Impact to Date one-pager (key metrics)
 - Bioregional Flow Funding Playbook (overview / TOC preview)
 - NE Bioregional Activation Series proposal (for those in the NE)
-- End of year newsletter (Guatemala immersion) - reference link
 - Cohort 1 impact report - reference link
 
 **Tech setup:**
@@ -73,11 +72,11 @@
 2. Field builder (helping bioregional communities develop their own Flow Funds and regenerative economic ecosystems)
 
 **Key developments to highlight:**
-- **Guatemala immersion** - deepened our understanding of what bioregional communities need to launch their own Flow Funds; reference the end of year newsletter
-- **Bioregional Flow Funding Playbook** - being published end of Q1 2026; a free, modular resource for communities to launch their own Flow Funds. Share TOC preview. Mention it's a living document open to contribution.
-- **NE Bioregional Activation Series** - launching end of March, co-created with Susanna Choe; goals include launching a NE Bioregional Flow Fund, relationship mapping, governance education, preparing for a NE bioregional festival via the Planetary Party Protocol. Kinship Earth contributing $7,500 in seed funding + raising matching funds.
+- **Bioregional Flow Funding Playbook** - being published end of Q1 2026; a free, modular resource for communities to launch their own Flow Funds. Share TOC preview. Mention it's a living document open to contribution. *Note: we just submitted an application to get C3 funding to produce two Bioregional Flow Funding Playbooks -- one for communities (a step-by-step guide for bioregional groups to design, launch, and steward their own trust-based Flow Funds) and one for funders (a guide for philanthropists, DAFs, family offices, and foundations on how to participate in and resource flow funding). This funding would support the research, writing, design, and distribution of both playbooks as open-source field-building resources.*
+- **Bioregional Activation Series** - a co-created gathering series that brings together bioregional organizing, regenerative finance, land-based community building, governance education, and culture-making. Each activation moves through phases of listening, relationship mapping, and weaving -- surfacing who is already doing the work, what they need, and building the relational and structural foundations for shared resourcing. The series is oriented toward tangible outcomes: launching a bioregional Flow Fund, developing a bioregional coordination tool/currency, building fundraising capacity for land-based hubs, pooling commitments across the bioregion, and co-creating a bioregional festival through the Planetary Party Protocol. We are kicking off a **NE Activation Series this spring** (launching end of March, co-created with Susanna Choe; Kinship Earth contributing $7,500 in seed funding + raising matching funds), and a **Mexico Activation Series this summer**.
 - **Planetary Party Protocol (PPP)** - engagement pathway helping bioregions prepare to receive resources, coordinate collective intelligence, and strengthen relational governance. Kinship Earth is fiscal sponsor and founding partner.
-- **Bioregional convenings** - flowing funds to support convenings that strengthen organizing, resource/knowledge sharing, trade and exchange, and systems change at a bioregional level.
+- **Funding bioregional congresses and activations (Kinship Earth programs)** - Kinship Earth is helping fund bioregional congresses and activations as core programmatic work. This includes supporting the **Turtle Island North American Bioregional Congress in September** and funding the **Bioregional Activation Series**. These are programs of Kinship Earth -- direct expressions of our mission to help bioregional communities build the relational and structural readiness to launch their own Flow Funds and strengthen bioregional coordination.
+- **Digital infrastructure exploration** - we are actively exploring new digital funding infrastructure that could make flow funding more transparent, accessible, and attractive to institutional funders -- including tools for pooled funds, commitment tracking, predictable disbursement, and impact credentials. This is early-stage exploration, not a commitment; see the working document in the living docs folder for details and questions for the board.
 
 *Share screen: Playbook overview and/or NE Activation Series proposal*
 
