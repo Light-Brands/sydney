@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """Generate the Executive Summary PDF from markdown with proper table pagination."""
 
+import re
+import base64
 import markdown
 from weasyprint import HTML
+from mermaid import Mermaid
+from mermaid.graph import Graph
 
 MD_FILE = "EXECUTIVE-SUMMARY.md"
 PDF_FILE = "Kinship-Earth-Executive-Summary.pdf"
@@ -11,11 +15,30 @@ PDF_FILE = "Kinship-Earth-Executive-Summary.pdf"
 with open(MD_FILE, "r") as f:
     md_content = f.read()
 
-# Strip mermaid code blocks (they won't render in HTML)
-import re
+
+def render_mermaid_png(match):
+    """Render a mermaid code block to an embedded PNG image."""
+    mermaid_code = match.group(1).strip()
+    try:
+        graph = Graph("diagram", mermaid_code)
+        m = Mermaid(graph)
+        resp = m.img_response
+        if resp.status_code == 200:
+            b64 = base64.b64encode(resp.content).decode("utf-8")
+            return (
+                f'<div class="mermaid-diagram">'
+                f'<img src="data:image/png;base64,{b64}" />'
+                f'</div>'
+            )
+    except Exception as e:
+        print(f"Warning: Failed to render mermaid diagram: {e}")
+    return '<p><em>[Diagram failed to render]</em></p>'
+
+
+# Replace mermaid code blocks with rendered PNGs
 md_content = re.sub(
-    r'```mermaid\n.*?```',
-    '<p><em>[Diagram -- see online version]</em></p>',
+    r'```mermaid\n(.*?)```',
+    render_mermaid_png,
     md_content,
     flags=re.DOTALL
 )
@@ -142,6 +165,18 @@ h2, h3 {{
 /* Keep section content together with its heading */
 h2 + *, h3 + * {{
     page-break-before: avoid;
+}}
+
+/* Mermaid diagram styling */
+.mermaid-diagram {{
+    text-align: center;
+    margin: 12pt 0;
+    page-break-inside: avoid;
+}}
+
+.mermaid-diagram img {{
+    max-width: 100%;
+    height: auto;
 }}
 </style>
 </head>
