@@ -79,6 +79,15 @@ Founded by **Sydney Griffith** (Executive Director) and **Susan Davis Mora** (Co
 - **Unified Sanctuaries** -- May reference as case study; direct funding carefully managed with firewalls
 - **Many communities** -- Primary purpose is deploying capital across bioregions internationally
 
+## Folder Structure
+
+- **grants/** -- Grant applications, expressions of interest, and reusable copy blocks
+- **funders/** -- Aligned funder research and donor-friendly language guides
+- **fundraising-materials/** -- Executive summaries, pitch scripts, and deck notes
+- **impact/** -- Flow funder stories and impact reporting
+- **operations/** -- Budget, meeting notes, and organizational planning
+- **flow-funding-playbook/** -- The full Flow Funding Playbook and supporting resources
+
 ---
 
-*Part of [Sydney's ecosystem](../README.md) | [Executive Summary](./EXECUTIVE-SUMMARY.md)*
+*Part of [Sydney's ecosystem](../README.md) | [Executive Summary](./fundraising-materials/EXECUTIVE-SUMMARY.md)*
