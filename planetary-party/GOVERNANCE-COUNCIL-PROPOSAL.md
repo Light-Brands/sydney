@@ -78,14 +78,42 @@ The Small Council uses **consent-based / integrative decision-making** (not cons
 
 ---
 
+## Operational Principle: Circle Lead Authority
+
+Each circle lead (or role holder) must be empowered to **follow through on their work even when others in the ecosystem aren't yet ready or available to offer input**. Specifically:
+
+- A circle lead can **onboard partners**, **share financials with prospective funders**, and **follow up on funding conversations** within the scope of their role without waiting for full-group consensus
+- If an entity (e.g., Nalawaya, Bioregional Embassy, Kinship Earth) has official partners, those partners are recognized as part of the planetary party ecosystem through that entity's participation
+- The advice method applies: seek input from those affected, but do not block forward motion on time-sensitive opportunities (e.g., funder follow-ups, activation planning, partnership formalization)
+- Agreements and MOUs between ecosystem entities clarify the boundaries of each circle's authority
+
+This addresses the tension surfaced on the call: capacity to move on funder relationships and partner onboarding should not be held up by the group's readiness to articulate every detail collectively.
+
+---
+
 ## Next Steps
 
+### Structural Decisions
 1. **Team decision:** Adopt this Small Council model (or choose the alternative: appoint a single Project Manager with clear mandate, authority, and compensation)
 2. **Identify Small Council members** -- who has the capacity and appetite to serve?
-3. **Establish communications platform** (Slack) with transparent channels per project/pod
-4. **Define shared glossary** of key terms used across the ecosystem
-5. **Set meeting cadence** and begin first Tactical + Heart Sharing sessions
-6. **Track victories and progress** in a shared, visible space
+3. **Set meeting cadence** and begin first Tactical + Heart Sharing sessions
+
+### Language & Coherence
+4. **Create a shared glossary / lexicon** -- define key terms (protocol, guild, working group, circle, trust, federation, etc.) with clear meanings so the ecosystem speaks a common language; include origin/context of terms where useful for onboarding
+5. **Align on standard language** where possible with recognized frameworks (agile, commons governance, bioregional organizing) so external partners and funders can easily orient -- per Nadim's point that language signals credibility and transmits culture
+6. **Refine the Theory of Change** -- translate the aligned Column B/C content from the meeting spreadsheet into a unified, living document that each entity can reference
+
+### Communications & Transparency
+7. **Establish communications platform** (Slack) with transparent channels per project/pod -- each channel visible to all but participation optional; finalize the Slack decision (Nadim + Sue to follow up)
+8. **Track victories and progress** in a shared, visible space (e.g., Slack channel or Notion)
+9. **Weekly async check-ins** -- each circle lead posts a brief update in the comms channel covering what they've done, what's next, and any blockers
+
+### Partnerships, Funding & Activation
+10. **Finalize MOUs and partnership agreements** between ecosystem entities to clarify roles, authority, and how the collective narrative is represented by each org when speaking to funders
+11. **Clarify funding flow mechanics** -- how does capital move through the trust, to contracted orgs (e.g., BE, Kinship Earth), and into bioregional activations? Establish clear rules so that when money arrives, distribution is already agreed upon (per Sue's caution about friction when funding lands without pre-agreed structures)
+12. **Define bioregional activation protocol components** -- JC's near-term homework: what are the protocol components required for a community activation, what exists already, and what needs to be built?
+13. **Explore learning partnerships** -- engage allies like Region Commons for input on commons governance in practice; consider training in agile/self-management when budget allows
+14. **Website and public-facing narrative** -- JC to finalize Theory of Change integration into the website so the ecosystem has a shareable, credible front door for partners and funders
 
 ---
 
