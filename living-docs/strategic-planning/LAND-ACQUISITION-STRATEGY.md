@@ -19,17 +19,18 @@ They are considering properties in **Veracruz, Mexico** (Coatepec / Xalapa regio
 
 ---
 
-## Available Capital
+## Available Capital (Confirmed)
 
-| Source | Amount | Notes |
-|--------|--------|-------|
-| Cash for down payment | ~$200,000 | Available now |
-| Potential property loan | ~$300,000 | Dependent on property and lending market |
-| Construction/improvement loans | Variable | Dependent on scope and jurisdiction |
-| Grants (regenerative agriculture, community) | Variable | Requires applications; 6-18 month timelines |
-| Revenue from events/media | Growing | Not yet reliable enough to underwrite debt |
+| Source | Amount | Status | Notes |
+|--------|--------|--------|-------|
+| Land / improvements fund | $200,000 | Available now | Can go toward purchase or improvements |
+| Approved property loan | $300,000 | Pre-approved | Ready upon property selection |
+| Personal savings (Syd) | $20,000 | Reserve -- protect | Emergency fund, do not spend on land |
+| Construction loan | TBD | Plan to apply | For village infrastructure |
+| Farming / community loans | TBD | Plan to apply | For regenerative agriculture, community buildings |
+| Grants (regenerative agriculture, community) | Variable | Research phase | 6-18 month timelines |
 
-**Total estimated purchasing power: $400K-$500K** for initial acquisition, with potential to leverage further through grants and earned income.
+**Confirmed purchasing power: $500,000** ($200K cash + $300K loan) for initial acquisition, with additional leverage through construction loans, farming loans, and grants for development.
 
 ---
 
@@ -66,7 +67,7 @@ They are considering properties in **Veracruz, Mexico** (Coatepec / Xalapa regio
 | Reserve fund (6 months living expenses) | $15,000 - $25,000 |
 | **Total** | **$170,000 - $410,000** |
 
-At the lower end, the $200K down payment covers a full acquisition and basic development in Mexico, with room remaining for reserves. At the higher end, the full $500K budget is used but results in a significantly developed property.
+With $500K confirmed ($200K cash + $300K loan), you can acquire AND develop a full village foundation in Mexico -- land, home, gathering space, media studio, and initial agriculture. Construction and farming loans would extend this further into additional structures and agricultural infrastructure. At the lower end, the $200K cash alone covers acquisition and basic setup without touching the loan.
 
 ### Option B: Vermont / US First
 
@@ -93,11 +94,11 @@ At the lower end, the $200K down payment covers a full acquisition and basic dev
 | Renovation and infrastructure | $50,000 - $150,000 |
 | Total needed | $300,000 - $600,000 |
 
-This exceeds the current budget at most price points and would require mortgage financing for almost any scenario.
+Even with the full $500K, a US purchase gets a house with limited development potential. The same capital in Mexico builds an entire village foundation.
 
 ### Option C: Both Simultaneously
 
-**Not recommended at this stage.** Managing two property acquisitions across two countries with current resources would spread capital too thin and create operational complexity. Better to establish one strong base first.
+**Not recommended at this stage.** Even with $500K in purchasing power, managing two property acquisitions across two countries would spread capital too thin. Building the village is priority #1 -- establish one strong base first, then consider a US presence later when income has grown.
 
 ---
 
@@ -199,6 +200,18 @@ These are conservative estimates. The Veracruz region's growing eco-tourism and 
 
 ---
 
+## Financial Note: Cost of Living Impact
+
+Moving to Mexico radically changes the household math. On Syd's $85K/year income alone:
+- **Current US expenses**: $50K-$84K/year = $1K-$35K surplus
+- **Mexico (own land)**: $20K-$37K/year = $48K-$65K surplus
+
+This means the move itself generates $30K-$50K/year in additional capacity for land development, savings, and building Eslerh's income through KE storytelling work. The village isn't just a life choice -- it's a financial strategy.
+
+See [FINANCIAL-STRATEGY.md](./FINANCIAL-STRATEGY.md) and [HOUSEHOLD-BUDGET.md](./HOUSEHOLD-BUDGET.md) for detailed breakdowns.
+
+---
+
 ## Strategic Questions
 
 1. Is Eslerh comfortable having property in his name, or do you prefer a shared structure?
@@ -207,3 +220,5 @@ These are conservative estimates. The Veracruz region's growing eco-tourism and 
 4. What is Syd's comfort level with spending extended periods (4-6 months) in Mexico?
 5. How does the Unified Sanctuaries campus acquisition timeline interact with personal land acquisition?
 6. Are there grant opportunities specifically for regenerative agriculture in Veracruz?
+7. Does the $300K loan approval apply to Mexico property, US property, or either?
+8. What construction and farming loan programs are you exploring? (USDA, Mexican programs, private lenders?)
