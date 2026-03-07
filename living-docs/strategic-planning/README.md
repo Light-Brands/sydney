@@ -11,6 +11,7 @@ A living strategic plan for Syd Griffith and Eslerh Oreste -- integrating partne
 | [LIFE-STRATEGY-ROADMAP.md](./LIFE-STRATEGY-ROADMAP.md) | 3-10 year integrated life and project roadmap |
 | [LAND-ACQUISITION-STRATEGY.md](./LAND-ACQUISITION-STRATEGY.md) | Mexico and US land strategy with financial modeling |
 | [FINANCIAL-STRATEGY.md](./FINANCIAL-STRATEGY.md) | Combined personal and project funding strategy |
+| [HOUSEHOLD-BUDGET.md](./HOUSEHOLD-BUDGET.md) | US vs. Mexico cost of living, travel budgets, village development phasing |
 | [PROJECT-INTEGRATION.md](./PROJECT-INTEGRATION.md) | How Syd and Eslerh's work streams integrate and sequence |
 
 ---

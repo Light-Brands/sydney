@@ -37,19 +37,23 @@ Syd and Eslerh each bring distinct capabilities. The power of their partnership 
 ## Project-by-Project Integration
 
 ### Kinship Earth
-**Primary lead:** Syd
-**Eslerh's role:** Storytelling and media support
+**Primary lead:** Syd (Executive Director, $85K salary)
+**Eslerh's role:** Contracted storyteller (transitioning from volunteer to paid)
+
+**Current reality:** Eslerh has been volunteering for KE and just received his first $1K payment for Flow Funder storytelling. There is ~$28K remaining in KE's contractor budget for 2026, and storytelling + the bioregional activation series are top priorities.
 
 | Syd Does | Eslerh Does | Together |
 |----------|------------|----------|
-| Executive leadership and strategy | Document Flow Funder stories on film | Present Kinship Earth at gatherings |
-| Fundraising and donor relationships | Create compelling visual narratives for funders | Design cultural experiences for donor engagement |
-| Governance and Flow Funding design | Social media storytelling | Represent the integration of finance and culture |
-| Flow Funder network coordination | Impact videos and reports | -- |
+| Executive leadership and strategy | **Bioregional Activation Series** (filming, editing, distribution) | Present Kinship Earth at gatherings |
+| Fundraising and donor relationships | Flow Funder stories on film ($1K+ per story) | Design cultural experiences for donor engagement |
+| Governance and Flow Funding design | Social media storytelling and content | Represent the integration of finance and culture |
+| Flow Funder network coordination | Event documentation (PP, Permatours, US) | -- |
 
-**Key integration point:** Eslerh's storytelling makes Kinship Earth's work visible and emotionally resonant. Flow Funder stories filmed by Micelio Media become powerful fundraising tools.
+**Key integration point:** Eslerh's storytelling makes Kinship Earth's work visible and emotionally resonant. The bioregional activation series is KE's biggest content need AND Eslerh's biggest income opportunity right now.
 
-**Boundary:** Micelio Media should be contracted and compensated for this work, not assumed as unpaid labor. This supports both the financial strategy and professional boundaries.
+**Financial relationship:** Eslerh should be formally contracted by KE with clear rates and deliverables. This is not a favor -- KE needs this storytelling work and has budget for it. Target: $15K-$25K from KE contractor budget in remaining 2026. See [FINANCIAL-STRATEGY.md](./FINANCIAL-STRATEGY.md) for detailed breakdown.
+
+**Boundary:** KE contractor work must be legitimately scoped, delivered, and compensated at fair rates. This is professional work, not "helping Syd's organization."
 
 ---
 
@@ -140,9 +144,9 @@ Not everything can happen at once. Here's a recommended priority sequence:
 ### Tier 1: Do Now (Q2-Q4 2026)
 These require active attention in the next 6-9 months:
 
-1. **Land acquisition** -- the foundation for everything else
-2. **Kinship Earth fundraising** -- Syd's primary professional obligation and income source
-3. **Micelio Media business model** -- Eslerh needs a sustainable income structure
+1. **Eslerh's KE contractor agreement** -- formalize immediately; begin bioregional activation series
+2. **Land acquisition / village** -- #1 shared priority; deploy $500K toward building home
+3. **Kinship Earth fundraising** -- Syd's primary professional obligation and income source ($85K salary)
 4. **First Planetary Party in Mexico** -- planning should begin now for a 2027 event
 
 ### Tier 2: Build Next (2027)
@@ -213,7 +217,8 @@ Working and living together requires intentional care:
 
 1. Are the role assignments above accurate? Where do they need adjustment?
 2. Is there a project that should be paused or deprioritized to create space?
-3. How does Eslerh want to formalize his relationship to Kinship Earth and Planetary Party? (contractor, advisor, team member?)
+3. What rate should Eslerh charge KE for the bioregional activation series? ($2K-$3K per story? Flat monthly retainer?)
 4. What does a healthy work week look like for each of you? How many hours on each project?
 5. Are there other collaborators who should be taking on more responsibility in any of these projects?
 6. What would it look like to say no to a major opportunity because the timing isn't right?
+7. How should Eslerh's KE work and Micelio Media branding relate? (Does KE content go on Micelio channels too, or separate?)

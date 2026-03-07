@@ -21,16 +21,26 @@ Build a life together that is rooted in land, animated by storytelling and cultu
 - Permatours has proven track record (50+ events, 40+ sites)
 - Micelio Media producing compelling regenerative storytelling
 - Live with Syd building community through weekly programming
-- ~$200K available for land down payment
+- $200K available for land / improvements + $300K loan approved = $500K purchasing power
+- $20K personal savings (Syd) as safety net
+- No debts or financial obligations
 - Network of aligned collaborators and communities
+- Eslerh just received first paid KE storytelling contract -- income path emerging
+
+### What's Clear Now
+- **Syd earns $85K/year** from Kinship Earth -- this is the household's sole reliable income
+- **Eslerh is transitioning** from volunteer to paid KE storyteller (~$1K earned so far, bioregional activation series is the big opportunity)
+- **Syd covers nearly all shared expenses** (rent, utilities, car, gas, travel, groceries, dining)
+- **No debts** -- clean financial foundation
+- **#1 shared priority is building the home / village** -- land acquisition drives everything else
+- **$28K in KE contractor budget** remaining for 2026 -- storytelling and bioregional activation are top priorities, creating immediate income opportunity for Eslerh
 
 ### What Needs Clarity
-- Where to acquire land first (Mexico vs. US vs. both)
 - How to structure bi-national living (immigration, taxes, logistics)
-- How personal finances integrate with project finances
-- Sequencing: what comes first, what can wait
-- Revenue model for Micelio Media -- grants, contracts, or earned income
-- How Eslerh's creative work formally connects to Syd's organizational infrastructure
+- Exact Eslerh contractor rate and scope for KE bioregional activation series
+- Whether $300K loan applies to Mexico, US, or either
+- Construction and farming loan options in both countries
+- When Eslerh's income hits the threshold to begin sharing household expenses
 
 ---
 
@@ -55,10 +65,19 @@ Build a life together that is rooted in land, animated by storytelling and cultu
 - Design a shared annual rhythm (see Annual Rhythm section below)
 - Clarify legal/financial structures for shared life (property, business entities)
 
+**Financial (see [FINANCIAL-STRATEGY.md](./FINANCIAL-STRATEGY.md))**
+- Eslerh formalizes KE contractor role and begins bioregional activation series
+- Eslerh earning $3K+/month by end of 2026 from KE contracted storytelling
+- Begin graduated expense sharing once Eslerh has reliable income
+- Deploy $200K land fund + $300K loan for property acquisition
+- Pursue construction loan and farming/community loans for village development
+
 **Key Milestones**
+- [ ] Eslerh's KE contractor agreement formalized (rates, scope, deliverables)
+- [ ] Bioregional activation series in production
 - [ ] Land acquired and move-in ready
 - [ ] First Planetary Party gathering hosted on own land
-- [ ] Micelio Media generating $3K+/month in revenue
+- [ ] Eslerh earning $3K+/month reliably
 - [ ] Immigration/visa situation stable for bi-national living
 
 ### Horizon 2: Growth (2028-2030)
@@ -84,7 +103,7 @@ Build a life together that is rooted in land, animated by storytelling and cultu
 
 **Key Milestones**
 - [ ] Second property acquired or first property significantly developed
-- [ ] Combined personal income exceeding $120K/year from diversified sources
+- [ ] Combined personal income exceeding $150K/year from diversified sources
 - [ ] Micelio Media operating as sustainable studio
 - [ ] Hosting 4+ gatherings/year on own land
 
@@ -147,7 +166,8 @@ This rhythm allows:
 |------|-----------|--------|------------|
 | Immigration/visa complications for bi-national living | Medium | High | Consult immigration attorney early; maintain flexibility on primary residence |
 | Land acquisition takes longer than expected | Medium | Medium | Continue renting; don't over-commit to a timeline |
-| Project finances crowd out personal financial stability | High | High | Clear separation of personal and project accounts; personal income floor |
+| Syd carrying all expenses long-term causes strain | High | High | Formalize Eslerh's KE contractor role immediately; graduated expense sharing as income grows |
+| Project finances crowd out personal financial stability | High | High | Clear separation of personal and project accounts; protect $20K emergency fund |
 | Overextension across too many projects | High | Medium | Prioritize ruthlessly; say no to opportunities that don't serve the 3-year plan |
 | Key relationships or partnerships shift | Medium | Medium | Diversify dependencies; build institutional resilience |
 | Global economic or political disruption | Medium | High | Land-based resilience; multiple currencies; community mutual aid |
@@ -156,10 +176,11 @@ This rhythm allows:
 
 ## Immediate Next Steps (Q2 2026)
 
-1. Finalize land acquisition target location and begin due diligence
-2. Consult immigration attorney on bi-national living structure
-3. Create personal budget that separates project income from personal income
-4. Eslerh: define Micelio Media business model (see [FINANCIAL-STRATEGY.md](./FINANCIAL-STRATEGY.md))
-5. Syd: confirm Kinship Earth fundraising priorities for remainder of 2026
-6. Together: design and commit to the annual rhythm framework above (or a revised version)
-7. Together: identify the first Planetary Party gathering in Mexico and begin planning
+1. **Eslerh + Syd**: Formalize Eslerh's KE contractor agreement -- rates, scope, deliverables for bioregional activation series
+2. **Eslerh**: Begin bioregional activation series production (first 2 stories)
+3. **Together**: Finalize land acquisition target and begin due diligence (see [LAND-ACQUISITION-STRATEGY.md](./LAND-ACQUISITION-STRATEGY.md))
+4. **Together**: Create household budget with actual numbers (see [HOUSEHOLD-BUDGET.md](./HOUSEHOLD-BUDGET.md))
+5. **Syd**: Consult immigration attorney on bi-national living structure
+6. **Syd**: Confirm KE fundraising priorities and contractor budget allocation for 2026
+7. **Together**: Design and commit to the annual rhythm framework above (or a revised version)
+8. **Together**: Identify the first Planetary Party gathering in Mexico and begin planning
