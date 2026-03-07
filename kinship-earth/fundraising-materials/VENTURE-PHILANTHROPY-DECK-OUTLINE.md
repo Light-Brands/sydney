@@ -255,80 +255,35 @@ Pillar 3: COMMUNITY-SOURCED CAPITAL
 
 ## Slide 13 -- Implementation Costs
 
-**What it takes to build each pillar -- and when costs hit.**
+**What it costs to build -- and when it pays for itself.**
 
-### Phase 1: Foundation (2026) -- Estimated Cost: $175K-$275K
+### Cost by Phase
 
-| Line Item | Cost Range | Notes |
-|-----------|-----------|-------|
-| **Legal structuring -- Bioregional Investment Fund** | $30K-$60K | Fund formation, investment policy, compliance review (nonprofit securities counsel) |
-| **Legal structuring -- PRI framework** | $10K-$20K | PRI policy drafting, IRS compliance review, template loan/investment docs |
-| **Fiscal sponsorship expansion (legal + systems)** | $5K-$10K | Updated fiscal sponsorship agreements, accounting system setup for multiple sponsees |
-| **Sustainer/membership platform** | $3K-$8K | Donor management platform (e.g., Givebutter, Donorbox, or integrated CRM); setup + first year |
-| **Giving circle pilot (NE Turtle Island)** | $5K-$15K | Facilitation, materials, event costs, admin for first circle |
-| **Consulting/training program development** | $10K-$25K | Curriculum design, materials, workshop facilitation toolkit based on Playbook |
-| **Hire: Part-time Revenue & Partnerships Lead** | $50K-$75K | 0.5-0.75 FTE to run consulting engagements, manage fiscal sponsorship portfolio, cultivate investment fund partners |
-| **Hire: Part-time Development/Membership Coordinator** | $30K-$45K | 0.5 FTE to manage sustainer program, giving circles, crowdfunding campaigns |
-| **Marketing & storytelling assets** | $10K-$20K | Campaign materials, impact videos, crowdfunding content, membership collateral |
-| **Accounting & fund administration setup** | $10K-$15K | Bookkeeping systems for investment fund tracking, PRI tracking, fiscal sponsorship accounting |
-| **Insurance & compliance** | $5K-$10K | D&O insurance update, investment activity coverage, state registrations |
-| **Contingency (10%)** | $17K-$27K | |
+| Phase | Timeline | Cost | Key Investments |
+|-------|----------|------|----------------|
+| **Foundation** | 2026 | $175K-$275K | Legal structuring ($40K-$80K), two part-time hires ($80K-$120K), program development ($30K-$50K), operations & contingency ($25K-$35K) |
+| **Build** | 2027 | $300K-$475K | Two full-time staff ($145K-$190K), fund management ($55K-$105K), digital infra co-development ($25K-$50K), programs & operations ($75K-$130K) |
+| **Scale** | 2028-2030 | $400K-$600K/yr | 2-3 FTEs ($175K-$250K), fund management & compliance ($105K-$175K), programs & operations ($120K-$175K) |
 
-### Phase 2: Build (2027) -- Estimated Cost: $300K-$475K
+**Cumulative investment through Year 3: $875K-$1.35M**
 
-| Line Item | Cost Range | Notes |
-|-----------|-----------|-------|
-| **Bioregional Investment Fund -- fund management** | $40K-$75K | Fund administrator, annual audit, legal compliance, investor reporting |
-| **Bioregional Investment Fund -- due diligence** | $15K-$30K | Enterprise vetting, site visits, financial analysis for investees (supplementing relational vetting) |
-| **Digital infrastructure co-development** | $25K-$50K | KE's share of co-development costs (partner-funded model); UX research, pilot testing with communities |
-| **Revenue & Partnerships Lead (full-time)** | $85K-$110K | Expand to 1.0 FTE; salary + benefits |
-| **Development/Membership Coordinator (full-time)** | $60K-$80K | Expand to 1.0 FTE; salary + benefits |
-| **Consulting/training delivery** | $15K-$25K | Travel, facilitation costs, materials for 4-6 engagements (offset by consulting revenue) |
-| **Giving circle expansion (3-5 circles)** | $15K-$30K | Facilitation support, materials, coordination across bioregions |
-| **Marketing & donor cultivation** | $15K-$25K | Sustainer growth campaigns, crowdfunding production, event marketing |
-| **Accounting, audit & compliance** | $20K-$30K | Annual audit (required for investment fund), expanded bookkeeping, tax filings |
-| **Contingency (10%)** | $30K-$47K | |
+### Path to Break-Even
 
-### Phase 3: Scale (2028-2030) -- Estimated Annual Cost: $400K-$600K
+| Year | Cost | Non-Philanthropic Revenue | Net |
+|------|------|--------------------------|-----|
+| 2026 | $175K-$275K | $150K | ($25K)-($125K) |
+| 2027 | $300K-$475K | $425K | ($50K)-$125K |
+| **2028** | **$400K-$600K** | **$900K** | **$300K-$500K surplus** |
+| 2030 | $400K-$600K | $1.95M | $1.35M-$1.55M surplus |
 
-| Line Item | Cost Range/Year | Notes |
-|-----------|----------------|-------|
-| **Bioregional Investment Fund management & compliance** | $75K-$125K | Growing fund size = growing admin, audit, legal, investor relations costs |
-| **Digital infrastructure operations** | $30K-$60K | Hosting, maintenance, support; offset by licensing revenue |
-| **Staff (Revenue, Partnerships, Development)** | $175K-$250K | 2-3 FTEs dedicated to earned revenue and community capital streams |
-| **Giving circles (10+) & sustainer program** | $25K-$50K | Coordination, facilitation, platform costs at scale |
-| **Consulting/training program** | $20K-$35K | Delivery costs (largely offset by revenue at this point) |
-| **Marketing, storytelling, crowdfunding** | $20K-$30K | Ongoing content production and campaign costs |
-| **Audit, legal, compliance** | $30K-$50K | Annual audit, regulatory filings, investment fund compliance |
-| **Contingency (10%)** | $40K-$60K | |
+*Self-funding by Year 3. By Year 5, surplus flows directly into communities.*
 
-### Total Investment Required: Years 1-3
+### How to Fund the Startup Costs
 
-| Phase | Cost Range | Cumulative |
-|-------|-----------|------------|
-| Phase 1 (2026) | $175K-$275K | $175K-$275K |
-| Phase 2 (2027) | $300K-$475K | $475K-$750K |
-| Phase 3 (2028 -- first year) | $400K-$600K | $875K-$1.35M |
-
-### Cost vs. Return: Break-Even Analysis
-
-| Year | Implementation Cost | Non-Philanthropic Revenue | Net Position |
-|------|-------------------|--------------------------|-------------|
-| Year 1 (2026) | $175K-$275K | $150K | ($25K)-($125K) -- investment year |
-| Year 2 (2027) | $300K-$475K | $425K | ($50K)-$125K -- approaching break-even |
-| Year 3 (2028) | $400K-$600K | $900K | $300K-$500K -- self-funding |
-| Year 5 (2030) | $400K-$600K | $1.95M | $1.35M-$1.55M -- significant surplus |
-
-*By Year 3, non-philanthropic revenue covers implementation costs. By Year 5, the surplus funds additional flow funding deployment or further scaling.*
-
-### How to Fund the Implementation
-
-| Source | Amount | Notes |
-|--------|--------|-------|
-| **Capacity-building grant** | $150K-$250K | Targeted grant specifically for organizational sustainability (many foundations fund this -- e.g., Ford Foundation, Hewlett, Packard capacity-building programs) |
-| **Anchor investor in Bioregional Fund** | $100K-$200K | First-loss or catalytic capital that also covers fund setup costs |
-| **Existing KE operating budget reallocation** | $50K-$75K | Shift a portion of current overhead toward revenue-generating infrastructure |
-| **Earned revenue (early consulting/fiscal sponsorship)** | $50K-$100K | Revenue from Year 1 activities partially offsets Year 1 costs |
+- **Capacity-building grant:** $150K-$250K (Ford, Hewlett, Packard-style organizational sustainability grants)
+- **Anchor investor in Bioregional Fund:** $100K-$200K (first-loss catalytic capital)
+- **Operating budget reallocation:** $50K-$75K
+- **Early earned revenue:** $50K-$100K (Year 1 consulting and fiscal sponsorship fees)
 
 ---
 
