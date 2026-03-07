@@ -159,6 +159,22 @@ Pillar 3: COMMUNITY-SOURCED CAPITAL
 - Revenue potential: Long-term; dependent on development -- but potentially significant as a SaaS-like model for regenerative finance
 - Revenue potential: $50K-$200K/year (year 3+)
 
+### E. Kinship Earth Merch & Products
+
+- **Mission-aligned merchandise:** Apparel, prints, stickers, and goods that tell the KE story -- designed by and sourced from artisans within KE's bioregional network wherever possible
+- **Bioregional product collaborations:** Co-branded goods with Flow Funder communities (e.g., regenerative farm products, artisan crafts, place-based goods) -- KE handles distribution and storytelling, a revenue share supports both KE operations and the local community
+- **Digital products:** Downloadable toolkits, facilitation guides, bioregional mapping resources, and curated reading lists beyond the free Playbook
+- **Annual impact zine / publication:** A beautifully produced annual featuring Flow Funder stories, bioregional art, and essays -- sold as a collectible, gifted to major donors
+- Revenue potential: $25K-$75K/year
+
+### F. Bioregional Partnership Revenue
+
+- **Co-funded bioregional activations:** Local organizations, land trusts, cooperatives, and municipal governments in bioregions where KE deploys capital co-sponsor events, convenings, and programs -- they contribute funding, venue, or in-kind support; KE contributes facilitation and network
+- **Bioregional partnership agreements:** Formalize ongoing relationships with local groups receiving flow funding -- partners contribute a small voluntary percentage of locally raised funds to support KE's shared infrastructure (distinct from fiscal sponsorship; think "network dues")
+- **Place-based sponsorships:** Local businesses aligned with bioregional values sponsor KE convenings, publications, or programs in their region -- keeps sponsorship rooted and relational rather than corporate
+- **Joint grant applications:** KE and local bioregional partners co-apply for place-based funding (USDA, state conservation programs, community development grants) -- KE provides grant infrastructure and storytelling; partners provide local presence and implementation
+- Revenue potential: $50K-$150K/year
+
 ---
 
 ## Slide 9 -- Pillar 3: Community-Sourced Capital
@@ -202,10 +218,12 @@ Pillar 3: COMMUNITY-SOURCED CAPITAL
 | Fiscal Sponsorship Fees | $50K | $100K | $200K | $400K |
 | Convenings & Events | $25K | $50K | $75K | $150K |
 | Digital Infrastructure Licensing | $0 | $0 | $50K | $200K |
+| Merch & Products | $10K | $25K | $40K | $75K |
+| Bioregional Partnerships | $15K | $50K | $100K | $150K |
 | Membership / Sustainers | $25K | $75K | $125K | $200K |
 | Giving Circles & Crowdfunding | $25K | $75K | $150K | $300K |
-| **Total** | **$1.65M** | **$2.425M** | **$3.9M** | **$6.95M** |
-| **% Non-Philanthropic** | **9%** | **18%** | **23%** | **28%** |
+| **Total** | **$1.675M** | **$2.5M** | **$4.04M** | **$7.175M** |
+| **% Non-Philanthropic** | **10%** | **20%** | **26%** | **30%** |
 
 *Note: Philanthropic revenue remains the primary source for flow funding deployment. Non-philanthropic revenue funds operations, reducing the need to "tax" donor dollars for overhead.*
 
