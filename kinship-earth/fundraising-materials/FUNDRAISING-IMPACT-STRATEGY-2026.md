@@ -1,6 +1,6 @@
 # Kinship Earth — Fundraising, Income Generation & Impact Strategy
 
-**Synthesized from:** Board meeting (March 2026), Thatcher/Here Together marketing strategy session, Franz Josef Allmayer collaboration brief, aligned funders research, and strategic analysis.
+**Synthesized from:** Board meeting (March 2026), Thatcher/Here Together marketing strategy session, Franz Josef Allmayer collaboration brief, aligned funders research, digital infrastructure play exploration, the bioregional activation series, and strategic analysis.
 
 **Date:** March 7, 2026
 
@@ -75,8 +75,8 @@ This is the highest-leverage channel for reaching the $2M target.
 - Track what language lands in each funder conversation and build a shared playbook (Funder Language & Strategy Circle)
 
 **New approaches:**
-- **Family office cohort model** (from Franz collaboration): Educate family offices on flow funding through a structured learning cohort — they learn together, then deploy capital together. This turns fundraising into education, which is more attractive and scalable.
-- **DAF-compatible flow fund structure**: Build a "vault" model (from the Franz digital infrastructure discussion) that speaks the language DAFs understand (deposit → recommend → approve) while operating on flow funding principles.
+- **Family office cohort model**: Educate family offices on flow funding through a structured learning cohort — they learn together, then deploy capital together. This turns fundraising into education, which is more attractive and scalable.
+- **DAF-compatible flow fund structure**: Build a "vault" model that speaks the language DAFs understand (deposit → recommend → approve) while operating on flow funding principles.
 - **Matching fund commitments**: Secure agreements from 2–3 larger donors to match grassroots campaigns. These dramatically increase small-dollar conversion rates.
 
 ### C. Google Ads Grant + Digital Fundraising (Thatcher Strategy)
@@ -168,9 +168,9 @@ These ideas came directly from the board meeting and strategic conversations. Th
 
 **Timeline:** This is a longer-horizon play. Start by piloting through existing bioregional activations and Permatours infrastructure.
 
-### E. Carbon Credits & Ecological Verification (Franz Collaboration)
+### E. Carbon Credits & Ecological Verification 
 
-**Concept:** From the Franz collaboration brief — Permatours' 40+ land hubs are generating real ecological value but lack the data infrastructure to monetize it.
+**Concept:** NE land hubs are generating real ecological value but lack the data infrastructure to monetize it.
 
 **The play:**
 - DMRV (Digital Measurement, Reporting & Verification) tools to document ecological outcomes across the network
@@ -214,7 +214,7 @@ The board was emphatic: **visual storytelling is the single most powerful lever.
 - Cross-promote and co-fundraise with organizations in each bioregion (Regenerate Cascadia, Bioregional Embassy, etc.)
 - Join the Participatory Grantmaking Community (2,000+ members) and EDGE Funders Alliance for visibility
 
-### C. Digital Infrastructure for Flow Funds (Franz Collaboration)
+### C. Digital Infrastructure for Flow Funds 
 
 **The tech play that unlocks institutional money:**
 
@@ -265,7 +265,7 @@ Use AI tools to:
 5. **Bioregional Flow Funding Playbook published** — begin positioning for consulting and training revenue
 6. **Merch store launched** — print-on-demand, story-driven products
 7. **3–5 foundation grants submitted and/or awarded**
-8. **Franz digital infrastructure scoping** — define MVP for the vault/token model
+8. **Digital infrastructure scoping** — define MVP for the vault/token model
 9. **Mexico activation planning** with fundraising component built in
 10. **Geo-targeted Google Ads** for NE Turtle Island bioregion (timed with activation)
 
